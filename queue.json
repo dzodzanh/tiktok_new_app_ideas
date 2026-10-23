@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "key": "2026-10-23__crossi__quote-slide__01",
-      "date": "2026-10-23",
+      "key": "2026-10-24__crossi__quote-slide__01",
+      "date": "2026-10-24",
       "app": "crossi",
       "app_name": "Crossi",
       "format": "quote-slide",
@@ -12,21 +12,44 @@
         "A"
       ],
       "title": "you seem so familiar",
-      "caption": "the universe was trying 😭",
-      "music": "",
-      "music_url": "",
+      "caption": "the universe was trying 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Viral Green Screen Hub",
+      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
       "is_aigc": false,
       "slides": [
-        "media/2026-10-23/crossi/quote-slide/01/01.jpg",
-        "media/2026-10-23/crossi/quote-slide/01/02.jpg",
-        "media/2026-10-23/crossi/quote-slide/01/03.jpg",
-        "media/2026-10-23/crossi/quote-slide/01/04.jpg"
+        "media/2026-10-24/crossi/quote-slide/01/01.jpg",
+        "media/2026-10-24/crossi/quote-slide/01/02.jpg",
+        "media/2026-10-24/crossi/quote-slide/01/03.jpg",
+        "media/2026-10-24/crossi/quote-slide/01/04.jpg"
       ],
       "video": ""
     },
     {
-      "key": "2026-10-23__stombers__ua-video__01",
-      "date": "2026-10-23",
+      "key": "2026-10-24__crossi__quote-slide__02",
+      "date": "2026-10-24",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "quote-slide",
+      "number": "02",
+      "variant": "B-day1",
+      "accounts": [
+        "B"
+      ],
+      "title": "we've met before",
+      "caption": "he was onto something #invisiblestring #redstringtheory #pathcrossing #soulmates #couplegoals",
+      "music": "original sound - Marta 🏹",
+      "music_url": "https://www.tiktok.com/music/original-sound-7159236633064327978",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-24/crossi/quote-slide/02/01.jpg",
+        "media/2026-10-24/crossi/quote-slide/02/02.jpg",
+        "media/2026-10-24/crossi/quote-slide/02/03.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-10-24__stombers__ua-video__01",
+      "date": "2026-10-24",
       "app": "stombers",
       "app_name": "Stombers",
       "format": "ua-video",
@@ -35,19 +58,19 @@
       "accounts": [
         "A"
       ],
-      "title": "group chat $50 step race",
-      "caption": "$50 is $50",
-      "music": "",
-      "music_url": "",
+      "title": "the $50 group chat bet",
+      "caption": "$50 is $50 #stepchallenge #stepcompetition #groupchat #walkingapp #10ksteps",
+      "music": "sonido original - TuDía13",
+      "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
       "is_aigc": false,
       "slides": [
-        "media/2026-10-23/stombers/ua-video/01/01.jpg"
+        "media/2026-10-24/stombers/ua-video/01/01.jpg"
       ],
-      "video": "media/2026-10-23/stombers/ua-video/01/video.mp4"
+      "video": "media/2026-10-24/stombers/ua-video/01/video.mp4"
     },
     {
-      "key": "2026-10-23__stombers__ua-video__02",
-      "date": "2026-10-23",
+      "key": "2026-10-24__stombers__ua-video__02",
+      "date": "2026-10-24",
       "app": "stombers",
       "app_name": "Stombers",
       "format": "ua-video",
@@ -56,15 +79,15 @@
       "accounts": [
         "B"
       ],
-      "title": "cannot stop walking",
-      "caption": "send help",
-      "music": "",
-      "music_url": "",
+      "title": "i cannot stop walking",
+      "caption": "send help #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "original sound - wyn_18❤️",
+      "music_url": "https://www.tiktok.com/music/original-sound-wyn-18-7164600691917687578",
       "is_aigc": false,
       "slides": [
-        "media/2026-10-23/stombers/ua-video/02/01.jpg"
+        "media/2026-10-24/stombers/ua-video/02/01.jpg"
       ],
-      "video": "media/2026-10-23/stombers/ua-video/02/video.mp4"
+      "video": "media/2026-10-24/stombers/ua-video/02/video.mp4"
     }
   ],
   "registry": [
@@ -72,7 +95,8 @@
       "app": "crossi",
       "app_name": "Crossi",
       "accounts": [
-        "A"
+        "A",
+        "B"
       ]
     },
     {
@@ -84,5 +108,5 @@
       ]
     }
   ],
-  "generated": "2026-10-23T21:16:18"
+  "generated": "2026-10-23T21:43:57"
 }
