@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "key": "2026-10-23__crossi__quote-slide__01",
+      "date": "2026-10-23",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "quote-slide",
+      "number": "01",
+      "variant": "A-day1",
+      "accounts": [
+        "A"
+      ],
+      "title": "you seem so familiar",
+      "caption": "the universe was trying 😭",
+      "music": "",
+      "music_url": "",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-23/crossi/quote-slide/01/01.jpg",
+        "media/2026-10-23/crossi/quote-slide/01/02.jpg",
+        "media/2026-10-23/crossi/quote-slide/01/03.jpg",
+        "media/2026-10-23/crossi/quote-slide/01/04.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-10-23__stombers__ua-video__01",
+      "date": "2026-10-23",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "01",
+      "variant": "A-day1",
+      "accounts": [
+        "A"
+      ],
+      "title": "group chat $50 step race",
+      "caption": "$50 is $50",
+      "music": "",
+      "music_url": "",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-23/stombers/ua-video/01/01.jpg"
+      ],
+      "video": "media/2026-10-23/stombers/ua-video/01/video.mp4"
+    },
+    {
+      "key": "2026-10-23__stombers__ua-video__02",
+      "date": "2026-10-23",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "02",
+      "variant": "B-day1",
+      "accounts": [
+        "B"
+      ],
+      "title": "cannot stop walking",
+      "caption": "send help",
+      "music": "",
+      "music_url": "",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-23/stombers/ua-video/02/01.jpg"
+      ],
+      "video": "media/2026-10-23/stombers/ua-video/02/video.mp4"
+    }
+  ],
+  "registry": [
+    {
+      "app": "crossi",
+      "app_name": "Crossi",
+      "accounts": [
+        "A"
+      ]
+    },
+    {
+      "app": "stombers",
+      "app_name": "Stombers",
+      "accounts": [
+        "A",
+        "B"
+      ]
+    }
+  ],
+  "generated": "2026-10-23T21:16:18"
+}
