@@ -1,0 +1,25 @@
+{
+  "apps": [
+    {
+      "id": "better-off",
+      "name": "Better off",
+      "topic": "No contact",
+      "competitors": ["Closure", "No Contact App", "Zero Contact"],
+      "reports": [
+        {
+          "date": "25.10.2026",
+          "title": "Đối thủ no contact có chạy app, tuần 17–24.10",
+          "summary": "27 account, 209 bài, 7 format viral kèm hook mẫu và bản đề xuất cho Better off.",
+          "href": "research/no-contact-2026-10-25/"
+        }
+      ]
+    },
+    {
+      "id": "readista",
+      "name": "Readista",
+      "topic": "Book tracker",
+      "competitors": ["Bookology", "SlowRead", "StoryGraph", "Bookmory"],
+      "reports": []
+    }
+  ]
+}

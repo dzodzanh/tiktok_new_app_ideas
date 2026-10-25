@@ -115,11 +115,31 @@
   .toast { position: fixed; left: 50%; bottom: calc(env(safe-area-inset-bottom, 0px) + 18px); transform: translateX(-50%);
            background: var(--ink); color: var(--bg); padding: 8px 14px; border-radius: 10px; font-size: .85rem; z-index: 20;
            max-width: calc(100vw - 32px); text-align: center; }
+
+  .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); }
+  .tab { border: 0; background: none; color: var(--muted); font: 600 .95rem var(--body); padding: 10px 14px; cursor: pointer;
+         border-bottom: 2px solid transparent; margin-bottom: -1px; }
+  .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+  .tabpanel { display: grid; gap: 18px; }
+  .rcard { display: grid; gap: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px;
+           color: var(--ink); text-decoration: none; }
+  .rcard:hover { border-color: var(--accent); }
+  .rcard b { font-size: 1rem; }
+  .rcard .meta { font-size: .85rem; }
+  .rdate { font: 500 .72rem var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
+  .rivals { display: flex; flex-wrap: wrap; gap: 6px; }
+  .rival { font-size: .8rem; border: 1px solid var(--line); border-radius: 99px; padding: 2px 10px; color: var(--muted); background: var(--surface); }
 </style>
 </head>
 <body>
 
 <div class="wrap">
+  <div class="tabs" role="tablist" aria-label="Trang">
+    <button class="tab" role="tab" id="tab-queue" aria-controls="queue" aria-selected="true" type="button">Chờ đăng</button>
+    <button class="tab" role="tab" id="tab-research" aria-controls="research" aria-selected="false" type="button">Research</button>
+  </div>
+
+  <section class="tabpanel" id="queue" role="tabpanel" aria-labelledby="tab-queue">
   <header>
     <div>
       <h1>Hàng chờ đăng</h1>
@@ -142,6 +162,21 @@
       <li>TikTok → <b>+</b> → chọn ảnh theo thứ tự → chọn nhạc gợi ý.</li>
       <li>Dán title và caption, bật <b>Content disclosure → Your brand</b>.</li>
     </ol>
+  </section>
+  </section>
+
+  <section class="tabpanel" id="research" role="tabpanel" aria-labelledby="tab-research" hidden>
+    <header>
+      <div>
+        <h1>Research</h1>
+        <p class="sub">Đối thủ và format đang viral trên TikTok, theo từng app. Báo cáo mới nhất ở trên.</p>
+      </div>
+      <div class="nav">
+        <div class="nav-row"><span class="label">App</span><div class="chips" id="r-apps" role="group" aria-label="App"></div></div>
+        <div class="nav-row"><span class="label">Đối thủ</span><div class="rivals" id="r-rivals"></div></div>
+      </div>
+    </header>
+    <div id="r-list" style="display:grid;gap:12px"><div class="empty-state">Đang tải báo cáo…</div></div>
   </section>
 </div>
 
@@ -451,6 +486,57 @@ async function start() {
   render();
 }
 start();
+
+// ---- Tabs: "Chờ đăng" (queue) / "Research". #research in the link opens the research tab.
+const RESEARCH_KEY = "tiktok-research-app";
+const research = { apps: [], app: null };
+try { research.app = localStorage.getItem(RESEARCH_KEY); } catch (e) {}
+
+function showTab(name) {
+  ["queue", "research"].forEach(t => {
+    $("#" + t).hidden = t !== name;
+    $("#tab-" + t).setAttribute("aria-selected", t === name ? "true" : "false");
+  });
+  if (name === "research" && !research.apps.length) loadResearch();
+}
+$("#tab-queue").addEventListener("click", () => { history.replaceState(null, "", location.pathname); showTab("queue"); });
+$("#tab-research").addEventListener("click", () => { history.replaceState(null, "", "#research"); showTab("research"); });
+
+function renderResearch() {
+  const apps = research.apps;
+  if (!apps.some(a => a.id === research.app)) research.app = apps[0] ? apps[0].id : null;
+  try { localStorage.setItem(RESEARCH_KEY, research.app || ""); } catch (e) {}
+  const cur = apps.find(a => a.id === research.app);
+  $("#r-apps").replaceChildren(...apps.map(a => chip(`${a.name} · ${a.topic}`, a.id === research.app,
+    () => { research.app = a.id; renderResearch(); }, a.reports.length)));
+  $("#r-rivals").replaceChildren(...(cur ? cur.competitors.map(c => {
+    const s = document.createElement("span"); s.className = "rival"; s.textContent = c; return s; }) : []));
+  const list = $("#r-list");
+  if (!cur || !cur.reports.length) {
+    list.innerHTML = '<div class="empty-state">App này chưa có báo cáo.</div>';
+    return;
+  }
+  list.replaceChildren(...cur.reports.map(r => {
+    const a = document.createElement("a"); a.className = "rcard"; a.href = r.href;
+    const d = document.createElement("span"); d.className = "rdate"; d.textContent = r.date;
+    const t = document.createElement("b"); t.textContent = r.title;
+    const m = document.createElement("span"); m.className = "meta"; m.textContent = r.summary;
+    a.append(d, t, m); return a;
+  }));
+}
+
+async function loadResearch() {
+  try {
+    const res = await fetch("research/reports.json?t=" + Date.now(), { cache: "no-store" });
+    research.apps = (await res.json()).apps || [];
+  } catch (e) {
+    $("#r-list").innerHTML = '<div class="empty-state">Không tải được danh sách báo cáo. Kiểm tra mạng rồi tải lại trang.</div>';
+    return;
+  }
+  renderResearch();
+}
+
+showTab(location.hash === "#research" ? "research" : "queue");
 </script>
 </body>
 </html>
