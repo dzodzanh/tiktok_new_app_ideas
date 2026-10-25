@@ -121,10 +121,12 @@
          border-bottom: 2px solid transparent; margin-bottom: -1px; }
   .tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
   .tabpanel { display: grid; gap: 18px; }
+  [hidden] { display: none !important; }
   .rcard { display: grid; gap: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px;
            color: var(--ink); text-decoration: none; }
   .rcard:hover { border-color: var(--accent); }
   .rcard b { font-size: 1rem; }
+  .rcard .go { color: var(--accent); font-weight: 600; font-size: .9rem; margin-top: 4px; }
   .rcard .meta { font-size: .85rem; }
   .rdate { font: 500 .72rem var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
   .rivals { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -513,7 +515,7 @@ function renderResearch() {
     const s = document.createElement("span"); s.className = "rival"; s.textContent = c; return s; }) : []));
   const list = $("#r-list");
   if (!cur || !cur.reports.length) {
-    list.innerHTML = '<div class="empty-state">App này chưa có báo cáo.</div>';
+    list.innerHTML = '<div class="empty-state">App này chưa có báo cáo. Nina đang làm.</div>';
     return;
   }
   list.replaceChildren(...cur.reports.map(r => {
@@ -521,7 +523,8 @@ function renderResearch() {
     const d = document.createElement("span"); d.className = "rdate"; d.textContent = r.date;
     const t = document.createElement("b"); t.textContent = r.title;
     const m = document.createElement("span"); m.className = "meta"; m.textContent = r.summary;
-    a.append(d, t, m); return a;
+    const g = document.createElement("span"); g.className = "go"; g.textContent = "Mở báo cáo →";
+    a.append(d, t, m, g); return a;
   }));
 }
 
