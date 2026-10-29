@@ -389,8 +389,8 @@
       "accounts": [
         "B"
       ],
-      "title": "i cannot stop walking bc of this",
-      "caption": "send help #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "title": "pov: this is your 4th time at the gym today bc you're in a steps competition with your bff",
+      "caption": "4th time today #stepchallenge #stepcompetition #bestie #walkingapp #10ksteps",
       "music": "original sound - wyn_18❤️",
       "music_url": "https://www.tiktok.com/music/original-sound-wyn-18-7164600691917687578",
       "is_aigc": false,
@@ -398,6 +398,48 @@
         "media/2026-10-30/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-10-30/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-10-31__stombers__ua-video__A",
+      "date": "2026-10-31",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day5",
+      "accounts": [
+        "A"
+      ],
+      "title": "pov: loser of our weekly step race buys everyone's coffee on monday",
+      "caption": "not me buying coffee #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "Baby Work It - YourFavouriteGarçon",
+      "music_url": "https://www.tiktok.com/music/Baby-Work-It-6785179069421062917",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-31/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-10-31/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-10-31__stombers__ua-video__B",
+      "date": "2026-10-31",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day5",
+      "accounts": [
+        "B"
+      ],
+      "title": "me and the girls started a step competition and now we're all delusional",
+      "caption": "we're unwell #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "admire the perc - Esteban",
+      "music_url": "https://www.tiktok.com/music/admire-the-perc-7028364813881346822",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-31/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-10-31/stombers/ua-video/B/video.mp4"
     }
   ],
   "registry": [
@@ -410,5 +452,5 @@
       ]
     }
   ],
-  "generated": "2026-10-29T21:32:16"
+  "generated": "2026-10-29T23:04:14"
 }
