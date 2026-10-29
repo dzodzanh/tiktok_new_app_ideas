@@ -269,6 +269,93 @@
         "media/2026-10-27/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-10-27/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-10-29__crossi__comment-bait-slide__B",
+      "date": "2026-10-29",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "comment-bait-slide",
+      "number": "B",
+      "variant": "B-day3",
+      "accounts": [
+        "B"
+      ],
+      "title": "what's the dumbest reason you knew y'all were meant to be together? i'll go first",
+      "caption": "your turn 👇 #invisiblestring #redstringtheory #pathcrossing #soulmates #couplegoals",
+      "music": "âm thanh gốc - ngkhoi",
+      "music_url": "https://www.tiktok.com/music/m-thanh-g-c-ngkhoi-7638674261947370260",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-29/crossi/comment-bait-slide/B/01.jpg",
+        "media/2026-10-29/crossi/comment-bait-slide/B/02.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-10-29__crossi__quote-slide__A",
+      "date": "2026-10-29",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "quote-slide",
+      "number": "A",
+      "variant": "A-day3",
+      "accounts": [
+        "A"
+      ],
+      "title": "\"call me crazy but i promise we've met before we started dating\"",
+      "caption": "i KNEW it #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - carissa",
+      "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-29/crossi/quote-slide/A/01.jpg",
+        "media/2026-10-29/crossi/quote-slide/A/02.jpg",
+        "media/2026-10-29/crossi/quote-slide/A/03.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-10-29__stombers__ua-video__A",
+      "date": "2026-10-29",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day3",
+      "accounts": [
+        "A"
+      ],
+      "title": "when it's your 4th walk of the day bc your bff is only 300 steps behind you",
+      "caption": "she's not catching me #stepchallenge #stepcompetition #bestie #walkingapp #10ksteps",
+      "music": "admire the perc - Esteban",
+      "music_url": "https://www.tiktok.com/music/admire-the-perc-7028364813881346822",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-29/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-10-29/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-10-29__stombers__ua-video__B",
+      "date": "2026-10-29",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day3",
+      "accounts": [
+        "B"
+      ],
+      "title": "try not to be the lowest step count in my group chat",
+      "caption": "i'm trying #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "Baby Work It - YourFavouriteGarçon",
+      "music_url": "https://www.tiktok.com/music/Baby-Work-It-6785179069421062917",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-10-29/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-10-29/stombers/ua-video/B/video.mp4"
     }
   ],
   "registry": [
@@ -289,5 +376,5 @@
       ]
     }
   ],
-  "generated": "2026-10-26T08:22:46"
+  "generated": "2026-10-29T12:51:27"
 }
