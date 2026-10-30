@@ -440,6 +440,48 @@
         "media/2026-10-31/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-10-31/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-01__stombers__ua-video__A",
+      "date": "2026-11-01",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day6",
+      "accounts": [
+        "A"
+      ],
+      "title": "me after seeing that girl's 30 days of 30k steps results",
+      "caption": "day 1 #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "original sound - wyn_18❤️",
+      "music_url": "https://www.tiktok.com/music/original-sound-wyn-18-7164600691917687578",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-01/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-11-01/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-11-01__stombers__ua-video__B",
+      "date": "2026-11-01",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day6",
+      "accounts": [
+        "B"
+      ],
+      "title": "pov: loser of the step race has to post an embarrassing pic on their story",
+      "caption": "not posting it #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "sonido original - TuDía13",
+      "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-01/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-11-01/stombers/ua-video/B/video.mp4"
     }
   ],
   "registry": [
@@ -452,5 +494,5 @@
       ]
     }
   ],
-  "generated": "2026-10-29T23:04:14"
+  "generated": "2026-10-30T08:56:18"
 }
