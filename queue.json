@@ -442,6 +442,56 @@
       "video": "media/2026-10-31/stombers/ua-video/B/video.mp4"
     },
     {
+      "key": "2026-11-01__crossi__slide__A",
+      "date": "2026-11-01",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "A",
+      "variant": "A-day5",
+      "accounts": [
+        "A"
+      ],
+      "title": "had him",
+      "caption": "it was always him #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Marta 🏹",
+      "music_url": "https://www.tiktok.com/music/original-sound-7159236633064327978",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-01/crossi/slide/A/01.jpg",
+        "media/2026-11-01/crossi/slide/A/02.jpg",
+        "media/2026-11-01/crossi/slide/A/03.jpg",
+        "media/2026-11-01/crossi/slide/A/04.jpg",
+        "media/2026-11-01/crossi/slide/A/05.jpg",
+        "media/2026-11-01/crossi/slide/A/06.jpg",
+        "media/2026-11-01/crossi/slide/A/07.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-11-01__crossi__slide__B",
+      "date": "2026-11-01",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "B",
+      "variant": "B-day5",
+      "accounts": [
+        "B"
+      ],
+      "title": "\"call me crazy but i promise we've met before we started dating\"",
+      "caption": "i KNEW it #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Viral Green Screen Hub",
+      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-01/crossi/slide/B/01.jpg",
+        "media/2026-11-01/crossi/slide/B/02.jpg",
+        "media/2026-11-01/crossi/slide/B/03.jpg"
+      ],
+      "video": ""
+    },
+    {
       "key": "2026-11-01__stombers__ua-video__A",
       "date": "2026-11-01",
       "app": "stombers",
@@ -482,9 +532,65 @@
         "media/2026-11-01/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-01/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-02__crossi__slide__A",
+      "date": "2026-11-02",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "A",
+      "variant": "A-day6",
+      "accounts": [
+        "A"
+      ],
+      "title": "what's the dumbest reason you knew y'all were meant to be together? i'll go first",
+      "caption": "your turn 👇 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - carissa",
+      "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-02/crossi/slide/A/01.jpg",
+        "media/2026-11-02/crossi/slide/A/02.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-11-02__crossi__slide__B",
+      "date": "2026-11-02",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "B",
+      "variant": "B-day6",
+      "accounts": [
+        "B"
+      ],
+      "title": "had him",
+      "caption": "it was always him #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Viral Green Screen Hub",
+      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-02/crossi/slide/B/01.jpg",
+        "media/2026-11-02/crossi/slide/B/02.jpg",
+        "media/2026-11-02/crossi/slide/B/03.jpg",
+        "media/2026-11-02/crossi/slide/B/04.jpg",
+        "media/2026-11-02/crossi/slide/B/05.jpg",
+        "media/2026-11-02/crossi/slide/B/06.jpg"
+      ],
+      "video": ""
     }
   ],
   "registry": [
+    {
+      "app": "crossi",
+      "app_name": "Crossi",
+      "accounts": [
+        "A",
+        "B"
+      ]
+    },
     {
       "app": "stombers",
       "app_name": "Stombers",
@@ -494,5 +600,5 @@
       ]
     }
   ],
-  "generated": "2026-10-30T08:56:18"
+  "generated": "2026-10-31T11:09:23"
 }
