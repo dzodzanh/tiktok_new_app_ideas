@@ -540,18 +540,19 @@
       "app_name": "Crossi",
       "format": "slide",
       "number": "A",
-      "variant": "A-day6",
+      "variant": "A-day7",
       "accounts": [
         "A"
       ],
-      "title": "what's the dumbest reason you knew y'all were meant to be together? i'll go first",
-      "caption": "your turn 👇 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
-      "music": "original sound - carissa",
-      "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
+      "title": "\"i feel like we've met before we started dating\"",
+      "caption": "he was right 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Marta 🏹",
+      "music_url": "https://www.tiktok.com/music/original-sound-7159236633064327978",
       "is_aigc": false,
       "slides": [
         "media/2026-11-02/crossi/slide/A/01.jpg",
-        "media/2026-11-02/crossi/slide/A/02.jpg"
+        "media/2026-11-02/crossi/slide/A/02.jpg",
+        "media/2026-11-02/crossi/slide/A/03.jpg"
       ],
       "video": ""
     },
@@ -562,22 +563,19 @@
       "app_name": "Crossi",
       "format": "slide",
       "number": "B",
-      "variant": "B-day6",
+      "variant": "B-day7",
       "accounts": [
         "B"
       ],
-      "title": "had him",
-      "caption": "it was always him #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
-      "music": "original sound - Viral Green Screen Hub",
-      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
+      "title": "\"you seem so familiar…\"",
+      "caption": "the universe was trying 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - carissa",
+      "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
       "is_aigc": false,
       "slides": [
         "media/2026-11-02/crossi/slide/B/01.jpg",
         "media/2026-11-02/crossi/slide/B/02.jpg",
-        "media/2026-11-02/crossi/slide/B/03.jpg",
-        "media/2026-11-02/crossi/slide/B/04.jpg",
-        "media/2026-11-02/crossi/slide/B/05.jpg",
-        "media/2026-11-02/crossi/slide/B/06.jpg"
+        "media/2026-11-02/crossi/slide/B/03.jpg"
       ],
       "video": ""
     },
@@ -624,6 +622,50 @@
       "video": "media/2026-11-02/stombers/ua-video/B/video.mp4"
     },
     {
+      "key": "2026-11-03__crossi__slide__A",
+      "date": "2026-11-03",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "A",
+      "variant": "A-day8",
+      "accounts": [
+        "A"
+      ],
+      "title": "dating my bf for 6 years and i'm JUST finding this out",
+      "caption": "6 years and nobody told me #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Viral Green Screen Hub",
+      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-03/crossi/slide/A/01.jpg",
+        "media/2026-11-03/crossi/slide/A/02.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-11-03__crossi__slide__B",
+      "date": "2026-11-03",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "B",
+      "variant": "B-day8",
+      "accounts": [
+        "B"
+      ],
+      "title": "been with him 4 years and i'm just now seeing this",
+      "caption": "4 years 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Marta 🏹",
+      "music_url": "https://www.tiktok.com/music/original-sound-7159236633064327978",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-03/crossi/slide/B/01.jpg",
+        "media/2026-11-03/crossi/slide/B/02.jpg"
+      ],
+      "video": ""
+    },
+    {
       "key": "2026-11-03__stombers__ua-video__A",
       "date": "2026-11-03",
       "app": "stombers",
@@ -664,6 +706,56 @@
         "media/2026-11-03/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-03/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-04__crossi__slide__A",
+      "date": "2026-11-04",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "A",
+      "variant": "A-day9",
+      "accounts": [
+        "A"
+      ],
+      "title": "this was me and my bf 16 years ago",
+      "caption": "since we were kids 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - carissa",
+      "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-04/crossi/slide/A/01.jpg",
+        "media/2026-11-04/crossi/slide/A/02.jpg",
+        "media/2026-11-04/crossi/slide/A/03.jpg",
+        "media/2026-11-04/crossi/slide/A/04.jpg",
+        "media/2026-11-04/crossi/slide/A/05.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-11-04__crossi__slide__B",
+      "date": "2026-11-04",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "B",
+      "variant": "B-day9",
+      "accounts": [
+        "B"
+      ],
+      "title": "making progress",
+      "caption": "plot twist at the end 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Viral Green Screen Hub",
+      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-04/crossi/slide/B/01.jpg",
+        "media/2026-11-04/crossi/slide/B/02.jpg",
+        "media/2026-11-04/crossi/slide/B/03.jpg",
+        "media/2026-11-04/crossi/slide/B/04.jpg",
+        "media/2026-11-04/crossi/slide/B/05.jpg"
+      ],
+      "video": ""
     },
     {
       "key": "2026-11-04__stombers__ua-video__A",
@@ -708,6 +800,53 @@
       "video": "media/2026-11-04/stombers/ua-video/B/video.mp4"
     },
     {
+      "key": "2026-11-05__crossi__slide__A",
+      "date": "2026-11-05",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "A",
+      "variant": "A-day10",
+      "accounts": [
+        "A"
+      ],
+      "title": "wait… we crossed paths 304 times before we even met??",
+      "caption": "how did we never meet #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Marta 🏹",
+      "music_url": "https://www.tiktok.com/music/original-sound-7159236633064327978",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-05/crossi/slide/A/01.jpg",
+        "media/2026-11-05/crossi/slide/A/02.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-11-05__crossi__slide__B",
+      "date": "2026-11-05",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "B",
+      "variant": "B-day10",
+      "accounts": [
+        "B"
+      ],
+      "title": "this was me and my bf 12 years ago",
+      "caption": "since we were kids 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "âm thanh gốc - ngkhoi",
+      "music_url": "https://www.tiktok.com/music/m-thanh-g-c-ngkhoi-7638674261947370260",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-05/crossi/slide/B/01.jpg",
+        "media/2026-11-05/crossi/slide/B/02.jpg",
+        "media/2026-11-05/crossi/slide/B/03.jpg",
+        "media/2026-11-05/crossi/slide/B/04.jpg",
+        "media/2026-11-05/crossi/slide/B/05.jpg"
+      ],
+      "video": ""
+    },
+    {
       "key": "2026-11-05__stombers__ua-video__A",
       "date": "2026-11-05",
       "app": "stombers",
@@ -750,6 +889,53 @@
       "video": "media/2026-11-05/stombers/ua-video/B/video.mp4"
     },
     {
+      "key": "2026-11-06__crossi__slide__A",
+      "date": "2026-11-06",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "A",
+      "variant": "A-day11",
+      "accounts": [
+        "A"
+      ],
+      "title": "slowly but surely",
+      "caption": "plot twist at the end 😭 #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - carissa",
+      "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-06/crossi/slide/A/01.jpg",
+        "media/2026-11-06/crossi/slide/A/02.jpg",
+        "media/2026-11-06/crossi/slide/A/03.jpg",
+        "media/2026-11-06/crossi/slide/A/04.jpg",
+        "media/2026-11-06/crossi/slide/A/05.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-11-06__crossi__slide__B",
+      "date": "2026-11-06",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "B",
+      "variant": "B-day11",
+      "accounts": [
+        "B"
+      ],
+      "title": "wdym we were in the same place 237 times before we met??",
+      "caption": "how did we never meet #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "admire the perc - Esteban",
+      "music_url": "https://www.tiktok.com/music/admire-the-perc-7028364813881346822",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-06/crossi/slide/B/01.jpg",
+        "media/2026-11-06/crossi/slide/B/02.jpg"
+      ],
+      "video": ""
+    },
+    {
       "key": "2026-11-06__stombers__ua-video__A",
       "date": "2026-11-06",
       "app": "stombers",
@@ -790,6 +976,52 @@
         "media/2026-11-06/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-06/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-07__crossi__slide__A",
+      "date": "2026-11-07",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "A",
+      "variant": "A-day12",
+      "accounts": [
+        "A"
+      ],
+      "title": "\"i feel like i've known you my whole life\"",
+      "caption": "he wasn't wrong #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Viral Green Screen Hub",
+      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-07/crossi/slide/A/01.jpg",
+        "media/2026-11-07/crossi/slide/A/02.jpg",
+        "media/2026-11-07/crossi/slide/A/03.jpg"
+      ],
+      "video": ""
+    },
+    {
+      "key": "2026-11-07__crossi__slide__B",
+      "date": "2026-11-07",
+      "app": "crossi",
+      "app_name": "Crossi",
+      "format": "slide",
+      "number": "B",
+      "variant": "B-day12",
+      "accounts": [
+        "B"
+      ],
+      "title": "\"i feel like i've known you forever\"",
+      "caption": "he wasn't wrong #invisiblestring #redstringtheory #invisiblestringtheory #pathcrossing #soulmates",
+      "music": "original sound - Marta 🏹",
+      "music_url": "https://www.tiktok.com/music/original-sound-7159236633064327978",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-07/crossi/slide/B/01.jpg",
+        "media/2026-11-07/crossi/slide/B/02.jpg",
+        "media/2026-11-07/crossi/slide/B/03.jpg"
+      ],
+      "video": ""
     },
     {
       "key": "2026-11-07__stombers__ua-video__A",
@@ -852,5 +1084,5 @@
       ]
     }
   ],
-  "generated": "2026-11-01T09:24:16"
+  "generated": "2026-11-01T09:44:07"
 }
