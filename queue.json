@@ -580,6 +580,258 @@
         "media/2026-11-02/crossi/slide/B/06.jpg"
       ],
       "video": ""
+    },
+    {
+      "key": "2026-11-02__stombers__ua-video__A",
+      "date": "2026-11-02",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day7-rain",
+      "accounts": [
+        "A"
+      ],
+      "title": "pacing around my kitchen at 11:58pm bc i refuse to lose",
+      "caption": "i refuse #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "original sound - wyn_18❤️",
+      "music_url": "https://www.tiktok.com/music/original-sound-wyn-18-7164600691917687578",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-02/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-11-02/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-11-02__stombers__ua-video__B",
+      "date": "2026-11-02",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day7-rain",
+      "accounts": [
+        "B"
+      ],
+      "title": "when you're on your 4th walk of the day bc your friends started a weekly step race and loser buys coffee",
+      "caption": "not buying coffee #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "sonido original - TuDía13",
+      "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-02/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-11-02/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-03__stombers__ua-video__A",
+      "date": "2026-11-03",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day8-rain",
+      "accounts": [
+        "A"
+      ],
+      "title": "pov: you and your friends start a step competition to see who gets the most steps",
+      "caption": "it's getting serious #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "original sound - wyn_18❤️",
+      "music_url": "https://www.tiktok.com/music/original-sound-wyn-18-7164600691917687578",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-03/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-11-03/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-11-03__stombers__ua-video__B",
+      "date": "2026-11-03",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day8-rain",
+      "accounts": [
+        "B"
+      ],
+      "title": "pov: your group chat started a step race and now everyone's \"just going for a quick walk\" at 11pm",
+      "caption": "just a quick walk #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "sonido original - TuDía13",
+      "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-03/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-11-03/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-04__stombers__ua-video__A",
+      "date": "2026-11-04",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day9-rain",
+      "accounts": [
+        "A"
+      ],
+      "title": "walking laps around target bc my friend just passed me",
+      "caption": "this is war #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "admire the perc - Esteban",
+      "music_url": "https://www.tiktok.com/music/admire-the-perc-7028364813881346822",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-04/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-11-04/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-11-04__stombers__ua-video__B",
+      "date": "2026-11-04",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day9-rain",
+      "accounts": [
+        "B"
+      ],
+      "title": "walking around the mall for the 3rd time bc i'm 200 steps from 1st place",
+      "caption": "200 steps #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "Baby Work It - YourFavouriteGarçon",
+      "music_url": "https://www.tiktok.com/music/Baby-Work-It-6785179069421062917",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-04/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-11-04/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-05__stombers__ua-video__A",
+      "date": "2026-11-05",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day10-rain",
+      "accounts": [
+        "A"
+      ],
+      "title": "hot girl walk but make it a competition with your friends",
+      "caption": "hot girl walk era #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "original sound - wyn_18❤️",
+      "music_url": "https://www.tiktok.com/music/original-sound-wyn-18-7164600691917687578",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-05/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-11-05/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-11-05__stombers__ua-video__B",
+      "date": "2026-11-05",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day10-rain",
+      "accounts": [
+        "B"
+      ],
+      "title": "me after seeing that girl's 30k steps a day results",
+      "caption": "day 1 #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "sonido original - TuDía13",
+      "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-05/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-11-05/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-06__stombers__ua-video__A",
+      "date": "2026-11-06",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day11-rain",
+      "accounts": [
+        "A"
+      ],
+      "title": "me on my 3rd \"quick walk\" of the day bc i'm in 2nd place",
+      "caption": "just a quick walk #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "Baby Work It - YourFavouriteGarçon",
+      "music_url": "https://www.tiktok.com/music/Baby-Work-It-6785179069421062917",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-06/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-11-06/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-11-06__stombers__ua-video__B",
+      "date": "2026-11-06",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day11-rain",
+      "accounts": [
+        "B"
+      ],
+      "title": "day 12 of trying to beat my friends in steps",
+      "caption": "day 12 #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "admire the perc - Esteban",
+      "music_url": "https://www.tiktok.com/music/admire-the-perc-7028364813881346822",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-06/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-11-06/stombers/ua-video/B/video.mp4"
+    },
+    {
+      "key": "2026-11-07__stombers__ua-video__A",
+      "date": "2026-11-07",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "A",
+      "variant": "A-day12-rain",
+      "accounts": [
+        "A"
+      ],
+      "title": "i haven't sat down since my friends started this step race",
+      "caption": "my legs are gone #stepchallenge #walkingapp #stepcompetition #10ksteps #hotgirlwalk",
+      "music": "original sound - wyn_18❤️",
+      "music_url": "https://www.tiktok.com/music/original-sound-wyn-18-7164600691917687578",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-07/stombers/ua-video/A/01.jpg"
+      ],
+      "video": "media/2026-11-07/stombers/ua-video/A/video.mp4"
+    },
+    {
+      "key": "2026-11-07__stombers__ua-video__B",
+      "date": "2026-11-07",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "B",
+      "variant": "B-day12-rain",
+      "accounts": [
+        "B"
+      ],
+      "title": "pov: you and your roommates started a step competition and now nobody sits down",
+      "caption": "nobody sits #stepchallenge #stepcompetition #walkingapp #10ksteps #bestie",
+      "music": "sonido original - TuDía13",
+      "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-07/stombers/ua-video/B/01.jpg"
+      ],
+      "video": "media/2026-11-07/stombers/ua-video/B/video.mp4"
     }
   ],
   "registry": [
@@ -600,5 +852,5 @@
       ]
     }
   ],
-  "generated": "2026-10-31T11:09:23"
+  "generated": "2026-11-01T09:19:44"
 }
