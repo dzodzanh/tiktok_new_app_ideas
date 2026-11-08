@@ -84,6 +84,14 @@
   .copy { flex: none; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 8px;
           padding: 5px 10px; font: 500 .8rem var(--body); cursor: pointer; }
   .copy.ok { color: var(--done); border-color: var(--done); }
+  .stext { display: grid; gap: 6px; min-width: 0; }
+  .stext-list { display: grid; gap: 6px; margin: 0; padding: 0; list-style: none; }
+  .stext-row { display: grid; grid-template-columns: 34px minmax(0, 1fr) auto; gap: 8px; align-items: center;
+               background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 6px 8px; }
+  .stext-row img { width: 34px; aspect-ratio: 9 / 16; object-fit: cover; border-radius: 4px; display: block; }
+  .stext-row .tc { width: 34px; font: 600 .68rem var(--mono); color: var(--muted); text-align: center; line-height: 1.2; }
+  .stext-row .tx { white-space: pre-wrap; overflow-wrap: anywhere; font-size: .9rem; }
+  .stext-row .tx.empty { color: var(--muted); font-style: italic; font-size: .82rem; }
   .reminders { display: flex; flex-wrap: wrap; gap: 6px; }
   .rem { font-size: .8rem; color: var(--muted); border: 1px dashed var(--line); border-radius: 8px; padding: 3px 8px; }
   .rem-link { color: var(--accent); border-style: solid; border-color: var(--accent); text-decoration: none; font-weight: 600; padding: 6px 10px; }
@@ -406,8 +414,45 @@ function postCard(p) {
     open.textContent = "Mở video ↗";
     actions.appendChild(open);
   }
-  card.append(head, strip, field("Title", p.title), field("Caption", p.caption), reminders, actions);
+  const parts = [head, strip];
+  const st = slideTexts(p);
+  if (st) parts.push(st);
+  parts.push(field("Title", p.title), field("Caption", p.caption), reminders, actions);
+  card.append(...parts);
   return card;
+}
+
+// Text the poster adds in TikTok: one row per slide (thumbnail + text + Copy), or per time range for a video.
+function slideTexts(p) {
+  const rows = p.video ? (p.video_text || []).map(v => ({ tag: v.t, text: v.text }))
+                       : (p.slide_text || []).map((text, k) => ({ img: p.slides[k], tag: String(k + 1), text }));
+  if (!rows.length) return null;
+  const wrap = document.createElement("div"); wrap.className = "stext";
+  const l = document.createElement("span"); l.className = "label";
+  l.textContent = p.video ? "Chữ chèn vào video" : "Chữ chèn lên từng ảnh";
+  const list = document.createElement("ol"); list.className = "stext-list";
+  rows.forEach((r, k) => {
+    const li = document.createElement("li"); li.className = "stext-row";
+    if (r.img) {
+      const im = document.createElement("img"); im.src = r.img; im.alt = `Ảnh ${r.tag}`; im.loading = "lazy";
+      im.style.cursor = "zoom-in"; im.addEventListener("click", () => openLightbox(p, k));
+      li.appendChild(im);
+    } else {
+      const tc = document.createElement("span"); tc.className = "tc"; tc.textContent = r.tag; li.appendChild(tc);
+    }
+    const tx = document.createElement("div"); tx.className = "tx" + (r.text ? "" : " empty");
+    tx.textContent = r.text ? (r.img ? `${r.tag}. ` : "") + r.text : `${r.img ? r.tag + ". " : ""}không chèn chữ`;
+    li.appendChild(tx);
+    if (r.text) {
+      const b = document.createElement("button"); b.className = "copy"; b.type = "button"; b.textContent = "Copy";
+      b.setAttribute("aria-label", `Copy chữ ${r.tag}`);
+      b.addEventListener("click", () => copyText(r.text, b));
+      li.appendChild(b);
+    } else li.appendChild(document.createElement("span"));
+    list.appendChild(li);
+  });
+  wrap.append(l, list);
+  return wrap;
 }
 
 function chip(label, pressed, onClick, count) {
