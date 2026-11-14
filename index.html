@@ -94,6 +94,7 @@
   .stext-row .tx.empty { color: var(--muted); font-style: italic; font-size: .82rem; }
   .reminders { display: flex; flex-wrap: wrap; gap: 6px; }
   .rem { font-size: .8rem; color: var(--muted); border: 1px dashed var(--line); border-radius: 8px; padding: 3px 8px; }
+  .rem-missing { color: #c62828; border: 1px solid #c62828; font-weight: 600; }
   .rem-link { color: var(--accent); border-style: solid; border-color: var(--accent); text-decoration: none; font-weight: 600; padding: 6px 10px; }
   .actions { display: flex; gap: 8px; flex-wrap: wrap; }
   .btn { flex: 1; min-width: 150px; border: 0; border-radius: 10px; padding: 11px 14px; font: 600 .92rem var(--body); cursor: pointer; }
@@ -398,6 +399,7 @@ function postCard(p) {
     reminders.appendChild(a);
   }
   rems.forEach(r => { const s = document.createElement("span"); s.className = "rem"; s.textContent = r; reminders.appendChild(s); });
+  (p.missing || []).forEach(m => { const s = document.createElement("span"); s.className = "rem rem-missing"; s.textContent = "Thiếu: " + m; reminders.appendChild(s); });
 
   const actions = document.createElement("div"); actions.className = "actions";
   const save = document.createElement("button"); save.className = "btn ghost"; save.type = "button";
