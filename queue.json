@@ -4587,7 +4587,7 @@
       "caption": "the invisible string theory is reallll 😵 #redstringtheory #invisiblestring #couple #fyp",
       "music": "original sound - Viral Green Screen Hub",
       "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
-      "is_aigc": false,
+      "is_aigc": true,
       "slides": [
         "media/2026-11-16/crossi/VA1/emily/01.jpg"
       ],
@@ -4603,9 +4603,7 @@
           "text": "236 times. before we even met 😭"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC sốc (Crossi UGC react, chưa có)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-16__no-contact__A__mira",
@@ -5023,7 +5021,7 @@
       "caption": "i love my boyfriend #redstringtheory #invisiblestringtheory #pathcrossing #fyp",
       "music": "som original - P’h",
       "music_url": "https://www.tiktok.com/music/som-original-Ph-7277732770289224453",
-      "is_aigc": false,
+      "is_aigc": true,
       "slides": [
         "media/2026-11-17/crossi/VA2/melanie/01.jpg"
       ],
@@ -5039,9 +5037,7 @@
           "text": "first time: seattle, 2016. we met in 2021"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC bối rối (Crossi UGC react, chưa có)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-17__no-contact__A__peyton",
@@ -5386,9 +5382,7 @@
           "text": "walking in circles while my coffee brews bc i'm 150 steps behind"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC đi vòng trong bếp chờ máy pha cà phê — chưa có"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-17__stombers__ua-video__B",
@@ -5417,9 +5411,7 @@
           "text": "pacing during my zoom meeting bc i'm 300 steps behind"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC đi qua lại trong phòng cạnh laptop (zoom meeting) — chưa có"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-18__crossi__V1__melanie",
@@ -5468,7 +5460,7 @@
       "caption": "54 steps. i can't 😭 #couple #redstringtheory #invisiblestring #fyp",
       "music": "original sound - nona 𓆉",
       "music_url": "https://www.tiktok.com/music/original-sound-7656149567334894350",
-      "is_aigc": false,
+      "is_aigc": true,
       "slides": [
         "media/2026-11-18/crossi/VS1/emily/01.jpg"
       ],
@@ -5484,9 +5476,7 @@
           "text": "we were 54 steps apart in 2019 😭"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC sốc (Crossi UGC react, chưa có)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-18__no-contact__A__natalie",
@@ -6373,7 +6363,7 @@
       "caption": "236 times is crazy, just meant to be 🥰 #couple #redstringtheory #boyfriend #fyp",
       "music": "original sound - carissa",
       "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
-      "is_aigc": false,
+      "is_aigc": true,
       "slides": [
         "media/2026-11-20/crossi/VA3/emily/01.jpg"
       ],
@@ -6389,9 +6379,7 @@
           "text": "5 years of almost"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC xúc động (Crossi UGC react, chưa có)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-20__no-contact__A__emma",
@@ -6818,7 +6806,7 @@
       "caption": "you weren't crazy 🫶 #redstringtheory #couple #soulmate #fyp",
       "music": "original sound - Viral Green Screen Hub",
       "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
-      "is_aigc": false,
+      "is_aigc": true,
       "slides": [
         "media/2026-11-21/crossi/VS3/melanie/01.jpg"
       ],
@@ -6834,9 +6822,7 @@
           "text": "you weren't crazy. 1,700 days of almost"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC tò mò (Crossi UGC react, chưa có)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-21__no-contact__A__chloe",
@@ -7168,9 +7154,7 @@
           "text": "walking every aisle in trader joe's bc my friend just passed me"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC đi trong lối kệ hàng siêu thị (Trader Joe's) — chưa có"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-21__stombers__ua-video__B",
@@ -7608,9 +7592,7 @@
           "text": "sunday at 11:40pm and the whole group chat is suddenly 'going for a walk'"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC đi bộ ban đêm (CN 11:40pm) — chưa có"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-22__stombers__ua-video__B",
@@ -7643,9 +7625,7 @@
           "text": "50 steps left"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC đi vòng phòng khách lúc nửa đêm — chưa có"
-      ]
+      "missing": []
     }
   ],
   "registry": [
@@ -7683,5 +7663,5 @@
       ]
     }
   ],
-  "generated": "2026-11-14T09:54:23"
+  "generated": "2026-11-14T15:59:00"
 }
