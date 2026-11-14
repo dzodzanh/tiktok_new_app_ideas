@@ -5908,7 +5908,7 @@
       "caption": "luck who? 💀 #couple #redstringtheory #invisiblestring #fyp",
       "music": "original sound - Boiler Room",
       "music_url": "https://www.tiktok.com/music/original-sound-7595990081513573153",
-      "is_aigc": false,
+      "is_aigc": true,
       "slides": [
         "media/2026-11-19/crossi/VS2/melanie/01.jpg"
       ],
@@ -5924,9 +5924,7 @@
           "text": "luck had 236 tries apparently 💀"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC tự tin (Crossi UGC react, chưa có)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-19__no-contact__A__bette",
@@ -7663,5 +7661,5 @@
       ]
     }
   ],
-  "generated": "2026-11-14T15:59:00"
+  "generated": "2026-11-14T18:21:54"
 }
