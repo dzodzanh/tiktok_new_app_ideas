@@ -5446,6 +5446,10 @@
       "video": "media/2026-11-17/no-contact/VP1/lyli/video.mp4",
       "videos": [
         {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-17/no-contact/VP1/lyli/ugc.mp4"
+        },
+        {
           "label": "Demo app",
           "src": "media/2026-11-17/no-contact/VP1/lyli/demo.mp4"
         }
@@ -5461,9 +5465,7 @@
           "text": "where was this after the first one 😭"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC sốc (Lyli) — 2 clip Drive Video/Lily đều là khóc; không có clip sốc"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-17__stombers__ua-video__A",
@@ -6356,6 +6358,10 @@
       "video": "media/2026-11-19/no-contact/TG9/emma/video.mp4",
       "videos": [
         {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-19/no-contact/TG9/emma/ugc.mp4"
+        },
+        {
           "label": "Demo app",
           "src": "media/2026-11-19/no-contact/TG9/emma/demo.mp4"
         }
@@ -6371,9 +6377,7 @@
           "text": "38 days. 38 flowers 🌷"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC vui (Emma) — 2 clip Drive Video/Emma là buồn và khóc; không có clip vui"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-19__no-contact__VA2__natalie",
@@ -6876,6 +6880,10 @@
       "video": "media/2026-11-20/no-contact/TG2/chloe/video.mp4",
       "videos": [
         {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-20/no-contact/TG2/chloe/ugc.mp4"
+        },
+        {
           "label": "Demo app",
           "src": "media/2026-11-20/no-contact/TG2/chloe/demo.mp4"
         }
@@ -6891,9 +6899,7 @@
           "text": "47 days. 47 flowers."
         }
       ],
-      "missing": [
-        "0–3s: clip UGC vui (Chloe) — 3 clip Drive Video/Chloe là thờ ơ, buồn, khóc; không có clip vui"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-20__no-contact__VA3__mira",
@@ -6960,6 +6966,10 @@
       "video": "media/2026-11-20/no-contact/VP1/ava/video.mp4",
       "videos": [
         {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-20/no-contact/VP1/ava/ugc.mp4"
+        },
+        {
           "label": "Demo app",
           "src": "media/2026-11-20/no-contact/VP1/ava/demo.mp4"
         }
@@ -6975,9 +6985,7 @@
           "text": "where was this after the first one 😭"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC sốc — chưa có clip Ava khớp cảm xúc"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-20__stombers__ua-video__A",
@@ -7412,6 +7420,10 @@
       "video": "media/2026-11-21/no-contact/VA2/luna/video.mp4",
       "videos": [
         {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-21/no-contact/VA2/luna/ugc.mp4"
+        },
+        {
           "label": "Demo app",
           "src": "media/2026-11-21/no-contact/VA2/luna/demo.mp4"
         }
@@ -7427,9 +7439,7 @@
           "text": "so what will it be?"
         }
       ],
-      "missing": [
-        "0–3s: clip UGC thờ ơ (Luna) — Drive Video/Luna chỉ có 2 clip, đã dùng cho VP2 16/11 và TG8 18/11"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-21__no-contact__VA3__emma",
@@ -8088,5 +8098,5 @@
       ]
     }
   ],
-  "generated": "2026-11-15T11:44:52"
+  "generated": "2026-11-15T14:05:38"
 }
