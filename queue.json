@@ -4593,7 +4593,16 @@
         "media/2026-11-16/crossi/VA1/emily/01.jpg"
       ],
       "video": "media/2026-11-16/crossi/VA1/emily/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-16/crossi/VA1/emily/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-16/crossi/VA1/emily/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -4970,7 +4979,16 @@
         "media/2026-11-16/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-16/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (10s gốc, đoạn đã dùng 0.8–4.4s)",
+          "src": "media/2026-11-16/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-16/stombers/ua-video/A/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5004,7 +5022,16 @@
         "media/2026-11-16/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-16/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (15s gốc, đoạn đã dùng 4.3–7.9s)",
+          "src": "media/2026-11-16/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-16/stombers/ua-video/B/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5067,7 +5094,16 @@
         "media/2026-11-17/crossi/VA2/melanie/01.jpg"
       ],
       "video": "media/2026-11-17/crossi/VA2/melanie/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-17/crossi/VA2/melanie/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-17/crossi/VA2/melanie/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5449,7 +5485,16 @@
         "media/2026-11-17/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-17/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-17/stombers/ua-video/A/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5479,7 +5524,16 @@
         "media/2026-11-17/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-17/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-17/stombers/ua-video/B/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5542,7 +5596,16 @@
         "media/2026-11-18/crossi/VS1/emily/01.jpg"
       ],
       "video": "media/2026-11-18/crossi/VS1/emily/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-18/crossi/VS1/emily/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-18/crossi/VS1/emily/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5906,7 +5969,16 @@
         "media/2026-11-18/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (8s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-18/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-18/stombers/ua-video/A/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5936,7 +6008,16 @@
         "media/2026-11-18/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-18/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-18/stombers/ua-video/B/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6021,7 +6102,16 @@
         "media/2026-11-19/crossi/VS2/melanie/01.jpg"
       ],
       "video": "media/2026-11-19/crossi/VS2/melanie/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (3s gốc)",
+          "src": "media/2026-11-19/crossi/VS2/melanie/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-19/crossi/VS2/melanie/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6391,7 +6481,16 @@
         "media/2026-11-19/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (15s gốc, đoạn đã dùng 9–12.6s)",
+          "src": "media/2026-11-19/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-19/stombers/ua-video/A/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6421,7 +6520,16 @@
         "media/2026-11-19/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (11s gốc, đoạn đã dùng 0.3–3.9s)",
+          "src": "media/2026-11-19/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-19/stombers/ua-video/B/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6510,7 +6618,16 @@
         "media/2026-11-20/crossi/VA3/emily/01.jpg"
       ],
       "video": "media/2026-11-20/crossi/VA3/emily/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-20/crossi/VA3/emily/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-20/crossi/VA3/emily/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6882,7 +6999,16 @@
         "media/2026-11-20/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (15s gốc, đoạn đã dùng 6.4–10s)",
+          "src": "media/2026-11-20/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-20/stombers/ua-video/A/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6916,7 +7042,16 @@
         "media/2026-11-20/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (12s gốc, đoạn đã dùng 6.5–10.1s)",
+          "src": "media/2026-11-20/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-20/stombers/ua-video/B/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6985,7 +7120,16 @@
         "media/2026-11-21/crossi/VS3/melanie/01.jpg"
       ],
       "video": "media/2026-11-21/crossi/VS3/melanie/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-21/crossi/VS3/melanie/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-21/crossi/VS3/melanie/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7350,7 +7494,16 @@
         "media/2026-11-21/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-21/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-21/stombers/ua-video/A/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7380,7 +7533,16 @@
         "media/2026-11-21/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (6s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-21/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-21/stombers/ua-video/B/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7828,7 +7990,16 @@
         "media/2026-11-22/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-22/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-22/stombers/ua-video/A/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7858,7 +8029,16 @@
         "media/2026-11-22/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
+          "src": "media/2026-11-22/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-22/stombers/ua-video/B/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7908,5 +8088,5 @@
       ]
     }
   ],
-  "generated": "2026-11-15T11:23:51"
+  "generated": "2026-11-15T11:44:52"
 }
