@@ -4560,6 +4560,7 @@
         "media/2026-11-16/crossi/V2/melanie/07.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"i thought i'd never find my person\"",
         "but i was",
@@ -4592,6 +4593,7 @@
         "media/2026-11-16/crossi/VA1/emily/01.jpg"
       ],
       "video": "media/2026-11-16/crossi/VA1/emily/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -4630,6 +4632,7 @@
         "media/2026-11-16/no-contact/A/mira/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "1 day no contact",
         "1 week no contact",
@@ -4665,6 +4668,7 @@
         "media/2026-11-16/no-contact/B/ava/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"He will never come back\"",
         null,
@@ -4700,6 +4704,7 @@
         "media/2026-11-16/no-contact/D1/bette/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "3 days before the breakup (everything was perfect 🥹)",
         "The day he left me 💔",
@@ -4735,6 +4740,7 @@
         "media/2026-11-16/no-contact/E/lyli/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "one day i'm begging for him to love me again because I can't live without him",
         "and the next day I don't care at all and hate him for being able to hurt me so easily",
@@ -4769,6 +4775,7 @@
         "media/2026-11-16/no-contact/F/natalie/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "missed you today but I remembered losing me was your decision",
         "missed you today but I remembered how easy it was for you to leave",
@@ -4803,6 +4810,7 @@
         "media/2026-11-16/no-contact/TG1/chloe/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"you'll text him by day 3\"",
         "day 3",
@@ -4833,6 +4841,16 @@
         "media/2026-11-16/no-contact/VA1/emma/01.jpg"
       ],
       "video": "media/2026-11-16/no-contact/VA1/emma/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-16/no-contact/VA1/emma/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-16/no-contact/VA1/emma/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -4866,6 +4884,16 @@
         "media/2026-11-16/no-contact/VA3/peyton/01.jpg"
       ],
       "video": "media/2026-11-16/no-contact/VA3/peyton/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-16/no-contact/VA3/peyton/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-16/no-contact/VA3/peyton/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -4899,6 +4927,16 @@
         "media/2026-11-16/no-contact/VP2/luna/01.jpg"
       ],
       "video": "media/2026-11-16/no-contact/VP2/luna/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-16/no-contact/VP2/luna/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-16/no-contact/VP2/luna/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -4932,6 +4970,7 @@
         "media/2026-11-16/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-16/stombers/ua-video/A/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -4965,6 +5004,7 @@
         "media/2026-11-16/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-16/stombers/ua-video/B/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -4997,6 +5037,7 @@
         "media/2026-11-17/crossi/V1/emily/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"call me crazy but i promise we met before we started dating\"",
         "\"i feel like i've known you my whole life\"",
@@ -5026,6 +5067,7 @@
         "media/2026-11-17/crossi/VA2/melanie/01.jpg"
       ],
       "video": "media/2026-11-17/crossi/VA2/melanie/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5064,6 +5106,7 @@
         "media/2026-11-17/no-contact/A/peyton/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Day 1 no contact",
         "1 month no contact",
@@ -5104,6 +5147,7 @@
         "media/2026-11-17/no-contact/B/luna/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"He will never come back\"",
         null,
@@ -5137,6 +5181,7 @@
         "media/2026-11-17/no-contact/C1/natalie/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "He broke no contact after 10 months so I asked my mom for advice & honestly, I think every girl needs to hear this..",
         "his text",
@@ -5170,6 +5215,7 @@
         "media/2026-11-17/no-contact/E/bette/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "one day i'm begging for him to love me again because I can't live without him",
         "and the next day I don't care at all and hate him for being able to hurt me so easily",
@@ -5205,6 +5251,7 @@
         "media/2026-11-17/no-contact/G/mira/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Day 1 no contact (very hard, almost never left my room or ate)",
         "1 month no contact (on and off crying, debating on breaking no contact)",
@@ -5242,6 +5289,7 @@
         "media/2026-11-17/no-contact/P2/emma/07.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "5 signs you're about to break no contact (number 3 is me)",
         "1. you \"accidentally\" watch his story",
@@ -5274,6 +5322,16 @@
         "media/2026-11-17/no-contact/VA1/ava/01.jpg"
       ],
       "video": "media/2026-11-17/no-contact/VA1/ava/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-17/no-contact/VA1/ava/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-17/no-contact/VA1/ava/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5307,6 +5365,16 @@
         "media/2026-11-17/no-contact/VA2/chloe/01.jpg"
       ],
       "video": "media/2026-11-17/no-contact/VA2/chloe/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-17/no-contact/VA2/chloe/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-17/no-contact/VA2/chloe/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5340,6 +5408,12 @@
         "media/2026-11-17/no-contact/VP1/lyli/01.jpg"
       ],
       "video": "media/2026-11-17/no-contact/VP1/lyli/video.mp4",
+      "videos": [
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-17/no-contact/VP1/lyli/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5375,6 +5449,7 @@
         "media/2026-11-17/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/A/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5404,6 +5479,7 @@
         "media/2026-11-17/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/B/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5436,6 +5512,7 @@
         "media/2026-11-18/crossi/V1/melanie/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"i feel like we've met before we started dating\"",
         "\"you seem so familiar\"",
@@ -5465,6 +5542,7 @@
         "media/2026-11-18/crossi/VS1/emily/01.jpg"
       ],
       "video": "media/2026-11-18/crossi/VS1/emily/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5504,6 +5582,7 @@
         "media/2026-11-18/no-contact/A/natalie/07.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "1 day not texting him",
         "1 month not texting him",
@@ -5540,6 +5619,7 @@
         "media/2026-11-18/no-contact/B/chloe/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"He will never come back\"",
         null,
@@ -5574,6 +5654,7 @@
         "media/2026-11-18/no-contact/F/lyli/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "missed you today but I remembered how easy it was for you to leave",
         "missed you today but I remembered losing me was your decision",
@@ -5609,6 +5690,7 @@
         "media/2026-11-18/no-contact/G/emma/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Day 1 no contact (very hard, almost never left my room or ate)",
         "1 month no contact (on and off crying, debating on breaking no contact)",
@@ -5641,6 +5723,7 @@
         "media/2026-11-18/no-contact/H/mira/02.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Can we normalize that sending a text like this after 6 months of no contact right on your birthday is absolutely insane?!!",
         "on my birthday???"
@@ -5671,6 +5754,7 @@
         "media/2026-11-18/no-contact/TB2/peyton/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "how i sleep knowing he's seen my story and i haven't replied in 83 days",
         "him at 1am:",
@@ -5706,6 +5790,7 @@
         "media/2026-11-18/no-contact/TG4/ava/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "every time you check his story you restart from day 1",
         "i learned that the hard way. 3 times.",
@@ -5735,6 +5820,16 @@
         "media/2026-11-18/no-contact/TG8/luna/01.jpg"
       ],
       "video": "media/2026-11-18/no-contact/TG8/luna/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-18/no-contact/TG8/luna/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-18/no-contact/TG8/luna/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5768,6 +5863,16 @@
         "media/2026-11-18/no-contact/VA1/bette/01.jpg"
       ],
       "video": "media/2026-11-18/no-contact/VA1/bette/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-18/no-contact/VA1/bette/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-18/no-contact/VA1/bette/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5801,6 +5906,7 @@
         "media/2026-11-18/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/A/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5830,6 +5936,7 @@
         "media/2026-11-18/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/B/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5872,6 +5979,7 @@
         "media/2026-11-19/crossi/V4/emily/14.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "had him",
         "lost him",
@@ -5913,6 +6021,7 @@
         "media/2026-11-19/crossi/VS2/melanie/01.jpg"
       ],
       "video": "media/2026-11-19/crossi/VS2/melanie/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5951,6 +6060,7 @@
         "media/2026-11-19/no-contact/A/bette/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "1 day not texting him",
         "2 months not texting him",
@@ -5986,6 +6096,7 @@
         "media/2026-11-19/no-contact/B/mira/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"He will never come back\"",
         null,
@@ -6020,6 +6131,7 @@
         "media/2026-11-19/no-contact/E/ava/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "one day i'm begging for him to love me again because I can't live without him",
         "and the next day I don't care at all and hate him for being able to hurt me so easily",
@@ -6055,6 +6167,7 @@
         "media/2026-11-19/no-contact/G/luna/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Day 1 no contact (very hard, almost never left my room or ate)",
         "1 month no contact (on and off crying, debating on breaking no contact)",
@@ -6088,6 +6201,7 @@
         "media/2026-11-19/no-contact/P1/chloe/03.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "other girls: (texting him \"happy birthday\" on day 162)",
         "me:",
@@ -6116,6 +6230,7 @@
         "media/2026-11-19/no-contact/TG7/lyli/01.jpg"
       ],
       "video": "media/2026-11-19/no-contact/TG7/lyli/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6149,6 +6264,12 @@
         "media/2026-11-19/no-contact/TG9/emma/01.jpg"
       ],
       "video": "media/2026-11-19/no-contact/TG9/emma/video.mp4",
+      "videos": [
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-19/no-contact/TG9/emma/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6184,6 +6305,16 @@
         "media/2026-11-19/no-contact/VA2/natalie/01.jpg"
       ],
       "video": "media/2026-11-19/no-contact/VA2/natalie/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-19/no-contact/VA2/natalie/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-19/no-contact/VA2/natalie/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6217,6 +6348,16 @@
         "media/2026-11-19/no-contact/VP2/peyton/01.jpg"
       ],
       "video": "media/2026-11-19/no-contact/VP2/peyton/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-19/no-contact/VP2/peyton/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-19/no-contact/VP2/peyton/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6250,6 +6391,7 @@
         "media/2026-11-19/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/A/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6279,6 +6421,7 @@
         "media/2026-11-19/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/B/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6321,6 +6464,7 @@
         "media/2026-11-20/crossi/V4/melanie/14.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "had him",
         "lost him",
@@ -6366,6 +6510,7 @@
         "media/2026-11-20/crossi/VA3/emily/01.jpg"
       ],
       "video": "media/2026-11-20/crossi/VA3/emily/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6404,6 +6549,7 @@
         "media/2026-11-20/no-contact/A/emma/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "1 day not texting him",
         "2 months not texting him",
@@ -6439,6 +6585,7 @@
         "media/2026-11-20/no-contact/B/lyli/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"He will never come back\"",
         null,
@@ -6474,6 +6621,7 @@
         "media/2026-11-20/no-contact/D1/peyton/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "1 week before the breakup (I was the happiest girl in the world 😊)",
         "The day he left me 💔",
@@ -6514,6 +6662,7 @@
         "media/2026-11-20/no-contact/E/natalie/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "one day i'm begging for him to love me again because I can't live without him",
         "and the next day I don't care at all and hate him for being able to hurt me so easily",
@@ -6548,6 +6697,7 @@
         "media/2026-11-20/no-contact/F/luna/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "missed you today but remembered if you loved me you would've fought for me",
         "missed you today but I remembered how easy it was for you to leave",
@@ -6579,6 +6729,7 @@
         "media/2026-11-20/no-contact/H/bette/02.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Girls, can we normalize that sending a text like this after 8 months of no contact right when someone has started healing is absolutely insane??",
         "should i reply?"
@@ -6606,6 +6757,12 @@
         "media/2026-11-20/no-contact/TG2/chloe/01.jpg"
       ],
       "video": "media/2026-11-20/no-contact/TG2/chloe/video.mp4",
+      "videos": [
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-20/no-contact/TG2/chloe/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6641,6 +6798,16 @@
         "media/2026-11-20/no-contact/VA3/mira/01.jpg"
       ],
       "video": "media/2026-11-20/no-contact/VA3/mira/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-20/no-contact/VA3/mira/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-20/no-contact/VA3/mira/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6674,6 +6841,12 @@
         "media/2026-11-20/no-contact/VP1/ava/01.jpg"
       ],
       "video": "media/2026-11-20/no-contact/VP1/ava/video.mp4",
+      "videos": [
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-20/no-contact/VP1/ava/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6709,6 +6882,7 @@
         "media/2026-11-20/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/A/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6742,6 +6916,7 @@
         "media/2026-11-20/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/B/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6777,6 +6952,7 @@
         "media/2026-11-21/crossi/V2/emily/07.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"i thought i'd never find my person\"",
         "but i was",
@@ -6809,6 +6985,7 @@
         "media/2026-11-21/crossi/VS3/melanie/01.jpg"
       ],
       "video": "media/2026-11-21/crossi/VS3/melanie/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6847,6 +7024,7 @@
         "media/2026-11-21/no-contact/A/chloe/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "1 day not texting him",
         "1 month not texting him",
@@ -6882,6 +7060,7 @@
         "media/2026-11-21/no-contact/E/mira/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "one day i'm begging for him to love me again because I can't live without him",
         "and the next day I don't care at all and hate him for being able to hurt me so easily",
@@ -6916,6 +7095,7 @@
         "media/2026-11-21/no-contact/F/bette/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "missed you today but I remembered how easy it was for you to leave",
         "missed you today but I remembered losing me was your decision",
@@ -6951,6 +7131,7 @@
         "media/2026-11-21/no-contact/G/natalie/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Day 1 no contact (very hard, almost never left my room or ate)",
         "1 month no contact (on and off crying, debating on breaking no contact)",
@@ -6983,6 +7164,7 @@
         "media/2026-11-21/no-contact/H/ava/02.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Can we normalize that sending a text like this after 4 months of no contact right on your birthday is absolutely insane?!!",
         "should i reply?"
@@ -7013,6 +7195,7 @@
         "media/2026-11-21/no-contact/TB5/lyli/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "my biggest flex right now:",
         "84 days of not texting him",
@@ -7042,6 +7225,12 @@
         "media/2026-11-21/no-contact/TG5/peyton/01.jpg"
       ],
       "video": "media/2026-11-21/no-contact/TG5/peyton/video.mp4",
+      "videos": [
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-21/no-contact/TG5/peyton/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7077,6 +7266,12 @@
         "media/2026-11-21/no-contact/VA2/luna/01.jpg"
       ],
       "video": "media/2026-11-21/no-contact/VA2/luna/video.mp4",
+      "videos": [
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-21/no-contact/VA2/luna/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7112,6 +7307,16 @@
         "media/2026-11-21/no-contact/VA3/emma/01.jpg"
       ],
       "video": "media/2026-11-21/no-contact/VA3/emma/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-21/no-contact/VA3/emma/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-21/no-contact/VA3/emma/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7145,6 +7350,7 @@
         "media/2026-11-21/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/A/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7174,6 +7380,7 @@
         "media/2026-11-21/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/B/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7206,6 +7413,7 @@
         "media/2026-11-22/crossi/D1/emily/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"call me crazy but i swear we've met before we started dating\"",
         "\"you seem so familiar\"",
@@ -7240,6 +7448,7 @@
         "media/2026-11-22/crossi/N1/melanie/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "there is no such thing as a coincidence",
         "aug 17 2019. lower east side. same hour",
@@ -7277,6 +7486,7 @@
         "media/2026-11-22/no-contact/B/natalie/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "\"He will never come back\"",
         null,
@@ -7311,6 +7521,7 @@
         "media/2026-11-22/no-contact/E/peyton/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "one day i'm begging for him to love me again because I can't live without him",
         "and the next day I don't care at all and hate him for being able to hurt me so easily",
@@ -7350,6 +7561,7 @@
         "media/2026-11-22/no-contact/F/mira/05.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "missed you today but I remembered how easy it was for you to move on",
         "missed you today but I remembered losing me was your decision",
@@ -7385,6 +7597,7 @@
         "media/2026-11-22/no-contact/G/bette/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "Day 1 no contact (very hard, almost never left my room or ate)",
         "1 month no contact (on and off crying, debating on breaking no contact)",
@@ -7416,6 +7629,16 @@
         "media/2026-11-22/no-contact/TB1/ava/01.jpg"
       ],
       "video": "media/2026-11-22/no-contact/TB1/ava/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-22/no-contact/TB1/ava/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-22/no-contact/TB1/ava/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7452,6 +7675,7 @@
         "media/2026-11-22/no-contact/TG3/luna/04.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "missed you today but i remembered i'd lose 47 flowers if i texted you",
         "missed you today but i remembered how easy it was for you to leave",
@@ -7486,6 +7710,7 @@
         "media/2026-11-22/no-contact/TG6/emma/06.jpg"
       ],
       "video": "",
+      "videos": [],
       "slide_text": [
         "calling all girls who still check his story at 2am 🫠",
         "that was me. day 1.",
@@ -7517,6 +7742,16 @@
         "media/2026-11-22/no-contact/VA1/chloe/01.jpg"
       ],
       "video": "media/2026-11-22/no-contact/VA1/chloe/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-22/no-contact/VA1/chloe/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-22/no-contact/VA1/chloe/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7550,6 +7785,16 @@
         "media/2026-11-22/no-contact/VA3/lyli/01.jpg"
       ],
       "video": "media/2026-11-22/no-contact/VA3/lyli/video.mp4",
+      "videos": [
+        {
+          "label": "Clip UGC (5s gốc)",
+          "src": "media/2026-11-22/no-contact/VA3/lyli/ugc.mp4"
+        },
+        {
+          "label": "Demo app",
+          "src": "media/2026-11-22/no-contact/VA3/lyli/demo.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7583,6 +7828,7 @@
         "media/2026-11-22/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/A/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7612,6 +7858,7 @@
         "media/2026-11-22/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/B/video.mp4",
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7661,5 +7908,5 @@
       ]
     }
   ],
-  "generated": "2026-11-14T18:21:54"
+  "generated": "2026-11-15T11:23:51"
 }

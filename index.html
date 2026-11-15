@@ -74,6 +74,10 @@
            border: 1px solid var(--line); background: var(--line); scroll-snap-align: start; cursor: zoom-in; padding: 0; }
   .slide img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .vid { width: min(240px, 70%); aspect-ratio: 9 / 16; max-width: 100%; border-radius: 10px; background: #000; display: block; }
+  .parts { display: flex; gap: 10px; flex-wrap: wrap; width: 100%; }
+  .part { flex: 1 1 140px; min-width: 0; max-width: 240px; display: grid; gap: 6px; align-content: start; }
+  .part .vid { width: 100%; }
+  .part-label { font: 500 .78rem var(--mono); color: var(--muted, inherit); }
   a.btn { text-align: center; text-decoration: none; box-sizing: border-box; }
   .slide b { position: absolute; left: 6px; top: 6px; font: 500 .68rem var(--mono); background: rgba(0,0,0,.6); color: #fff; padding: 1px 6px; border-radius: 6px; }
 
@@ -347,13 +351,13 @@ async function saveAll(post, btn) {
   finally { btn.disabled = false; btn.textContent = label; }
 }
 
-async function saveVideo(post, btn) {
+async function saveVideo(post, btn, src = post.video, suffix = "", label = "Lưu video") {
   btn.disabled = true; btn.textContent = "Đang chuẩn bị…";
   try {
-    const blob = await (await fetch(post.video)).blob();
-    const file = new File([blob], `${baseName(post)}.mp4`, { type: "video/mp4" });
+    const blob = await (await fetch(src)).blob();
+    const file = new File([blob], `${baseName(post)}${suffix}.mp4`, { type: "video/mp4" });
     if (navigator.canShare && navigator.share && navigator.canShare({ files: [file] })) {
-      btn.disabled = false; btn.textContent = "Lưu video";
+      btn.disabled = false; btn.textContent = label;
       await navigator.share({ files: [file] });
       return;
     }
@@ -363,7 +367,25 @@ async function saveVideo(post, btn) {
     setTimeout(() => URL.revokeObjectURL(url), 10000);
   } catch (e) {
     if (!(e && e.name === "AbortError")) toast("Bấm “Mở video” → nút Chia sẻ → Lưu video");
-  } finally { btn.disabled = false; btn.textContent = "Lưu video"; }
+  } finally { btn.disabled = false; btn.textContent = label; }
+}
+
+// A post delivered as separate pieces (UGC clip + app demo): one labelled player and one save button each.
+function videoParts(p) {
+  const wrap = document.createElement("div"); wrap.className = "parts";
+  p.videos.forEach((v, k) => {
+    const col = document.createElement("div"); col.className = "part";
+    const cap = document.createElement("span"); cap.className = "part-label"; cap.textContent = `${k + 1}. ${v.label}`;
+    const el = document.createElement("video"); el.className = "vid"; el.src = v.src; el.controls = true;
+    el.playsInline = true; el.preload = "metadata";
+    const btn = document.createElement("button"); btn.className = "btn ghost"; btn.type = "button";
+    const label = `Lưu video ${k + 1}`;
+    btn.textContent = label;
+    btn.addEventListener("click", () => saveVideo(p, btn, v.src, `_${k + 1}`, label));
+    col.append(cap, el, btn);
+    wrap.appendChild(col);
+  });
+  return wrap;
 }
 
 function postCard(p) {
@@ -375,7 +397,9 @@ function postCard(p) {
   head.append(acct, meta);
 
   const strip = document.createElement("div"); strip.className = "strip";
-  if (p.video) {
+  if (p.videos && p.videos.length) {
+    strip.appendChild(videoParts(p));
+  } else if (p.video) {
     const v = document.createElement("video"); v.className = "vid"; v.src = p.video; v.controls = true;
     v.playsInline = true; v.preload = "metadata"; if (p.slides[0]) v.poster = p.slides[0];
     strip.appendChild(v);
@@ -402,6 +426,18 @@ function postCard(p) {
   (p.missing || []).forEach(m => { const s = document.createElement("span"); s.className = "rem rem-missing"; s.textContent = "Thiếu: " + m; reminders.appendChild(s); });
 
   const actions = document.createElement("div"); actions.className = "actions";
+  if (p.videos && p.videos.length) {
+    // per-piece save buttons live under each player; keep only a hint here
+    const hint = document.createElement("span"); hint.className = "rem";
+    hint.textContent = "Lưu từng video, tự cắt/chỉnh clip UGC rồi ghép trong TikTok";
+    actions.appendChild(hint);
+    const parts0 = [head, strip];
+    const st0 = slideTexts(p);
+    if (st0) parts0.push(st0);
+    parts0.push(field("Title", p.title), field("Caption", p.caption), reminders, actions);
+    card.append(...parts0);
+    return card;
+  }
   const save = document.createElement("button"); save.className = "btn ghost"; save.type = "button";
   save.textContent = p.video ? "Lưu video" : "Lưu tất cả ảnh";
   save.addEventListener("click", () => p.video ? saveVideo(p, save) : saveAll(p, save));
