@@ -4535,88 +4535,6 @@
       ]
     },
     {
-      "key": "2026-11-16__crossi__V2__melanie",
-      "date": "2026-11-16",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "V2",
-      "number": "melanie",
-      "variant": "V2",
-      "accounts": [
-        "Melanie"
-      ],
-      "title": "\"i thought i'd never find my person\"",
-      "caption": "proved me wrong in the best way 🫶 #couple #redstringtheory #invisiblestring #fyp",
-      "music": "son original - ★",
-      "music_url": "https://www.tiktok.com/music/son-original-7613789876936313622",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-16/crossi/V2/melanie/01.jpg",
-        "media/2026-11-16/crossi/V2/melanie/02.jpg",
-        "media/2026-11-16/crossi/V2/melanie/03.jpg",
-        "media/2026-11-16/crossi/V2/melanie/04.jpg",
-        "media/2026-11-16/crossi/V2/melanie/05.jpg",
-        "media/2026-11-16/crossi/V2/melanie/06.jpg",
-        "media/2026-11-16/crossi/V2/melanie/07.jpg"
-      ],
-      "video": "",
-      "videos": [],
-      "slide_text": [
-        "\"i thought i'd never find my person\"",
-        "but i was",
-        "so",
-        "so",
-        "so",
-        "wrong",
-        "we crossed paths 173 times before we ever met"
-      ],
-      "video_text": [],
-      "missing": []
-    },
-    {
-      "key": "2026-11-16__crossi__VA1__emily",
-      "date": "2026-11-16",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "VA1",
-      "number": "emily",
-      "variant": "VA1",
-      "accounts": [
-        "Emily"
-      ],
-      "title": "wdym there's an app that tells you how many times you've crossed paths with someone",
-      "caption": "the invisible string theory is reallll 😵 #redstringtheory #invisiblestring #couple #fyp",
-      "music": "original sound - Viral Green Screen Hub",
-      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-16/crossi/VA1/emily/01.jpg"
-      ],
-      "video": "media/2026-11-16/crossi/VA1/emily/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (3s gốc)",
-          "src": "media/2026-11-16/crossi/VA1/emily/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-16/crossi/VA1/emily/demo.mp4"
-        }
-      ],
-      "slide_text": [],
-      "video_text": [
-        {
-          "t": "0–3s",
-          "text": "wdym there's an app that tells you how many times you've crossed paths with someone"
-        },
-        {
-          "t": "3–8s",
-          "text": "236 times. before we even met 😭"
-        }
-      ],
-      "missing": []
-    },
-    {
       "key": "2026-11-16__no-contact__A__mira",
       "date": "2026-11-16",
       "app": "no-contact",
@@ -4936,16 +4854,7 @@
         "media/2026-11-16/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-16/stombers/ua-video/A/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (10s gốc, đoạn đã dùng 0.8–4.4s)",
-          "src": "media/2026-11-16/stombers/ua-video/A/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-16/stombers/ua-video/A/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -4979,97 +4888,12 @@
         "media/2026-11-16/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-16/stombers/ua-video/B/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (15s gốc, đoạn đã dùng 4.3–7.9s)",
-          "src": "media/2026-11-16/stombers/ua-video/B/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-16/stombers/ua-video/B/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
           "t": "0–8s",
           "text": "pov: loser of this week's step race has to bring the pie to friendsgiving"
-        }
-      ],
-      "missing": []
-    },
-    {
-      "key": "2026-11-17__crossi__V1__emily",
-      "date": "2026-11-17",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "V1",
-      "number": "emily",
-      "variant": "V1",
-      "accounts": [
-        "Emily"
-      ],
-      "title": "\"call me crazy but i promise we met before we started dating\"",
-      "caption": "were meant to be 🥹 #couple #redstringtheory #invisiblestring #soulmate #fyp",
-      "music": "original sound - Lina <3",
-      "music_url": "https://www.tiktok.com/music/original-sound-7639512005708352270",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-17/crossi/V1/emily/01.jpg",
-        "media/2026-11-17/crossi/V1/emily/02.jpg",
-        "media/2026-11-17/crossi/V1/emily/03.jpg",
-        "media/2026-11-17/crossi/V1/emily/04.jpg"
-      ],
-      "video": "",
-      "videos": [],
-      "slide_text": [
-        "\"call me crazy but i promise we met before we started dating\"",
-        "\"i feel like i've known you my whole life\"",
-        "\"you seem so familiar\"",
-        "we crossed paths 157 times before we ever met 😭"
-      ],
-      "video_text": [],
-      "missing": []
-    },
-    {
-      "key": "2026-11-17__crossi__VA2__melanie",
-      "date": "2026-11-17",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "VA2",
-      "number": "melanie",
-      "variant": "VA2",
-      "accounts": [
-        "Melanie"
-      ],
-      "title": "pov: you and your bf crossed paths 236 times before you met…",
-      "caption": "i love my boyfriend #redstringtheory #invisiblestringtheory #pathcrossing #fyp",
-      "music": "som original - P’h",
-      "music_url": "https://www.tiktok.com/music/som-original-Ph-7277732770289224453",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-17/crossi/VA2/melanie/01.jpg"
-      ],
-      "video": "media/2026-11-17/crossi/VA2/melanie/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (3s gốc)",
-          "src": "media/2026-11-17/crossi/VA2/melanie/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-17/crossi/VA2/melanie/demo.mp4"
-        }
-      ],
-      "slide_text": [],
-      "video_text": [
-        {
-          "t": "0–3s",
-          "text": "pov: you and your bf crossed paths 236 times before you met…"
-        },
-        {
-          "t": "3–8s",
-          "text": "first time: seattle, 2016. we met in 2021"
         }
       ],
       "missing": []
@@ -5402,16 +5226,7 @@
         "media/2026-11-17/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/A/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-17/stombers/ua-video/A/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-17/stombers/ua-video/A/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5441,97 +5256,12 @@
         "media/2026-11-17/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/B/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-17/stombers/ua-video/B/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-17/stombers/ua-video/B/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
           "t": "0–8s",
           "text": "pacing during my zoom meeting bc i'm 300 steps behind"
-        }
-      ],
-      "missing": []
-    },
-    {
-      "key": "2026-11-18__crossi__V1__melanie",
-      "date": "2026-11-18",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "V1",
-      "number": "melanie",
-      "variant": "V1",
-      "accounts": [
-        "Melanie"
-      ],
-      "title": "\"i feel like we've met before we started dating\"",
-      "caption": "literally meant to be 🥹 #couple #redstringtheory #soulmate #fyp",
-      "music": "original sound - Lina <3",
-      "music_url": "https://www.tiktok.com/music/original-sound-7639512005708352270",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-18/crossi/V1/melanie/01.jpg",
-        "media/2026-11-18/crossi/V1/melanie/02.jpg",
-        "media/2026-11-18/crossi/V1/melanie/03.jpg",
-        "media/2026-11-18/crossi/V1/melanie/04.jpg"
-      ],
-      "video": "",
-      "videos": [],
-      "slide_text": [
-        "\"i feel like we've met before we started dating\"",
-        "\"you seem so familiar\"",
-        "\"i feel like i've known you my whole life\"",
-        "we crossed paths 127 times before we ever met 😭"
-      ],
-      "video_text": [],
-      "missing": []
-    },
-    {
-      "key": "2026-11-18__crossi__VS1__emily",
-      "date": "2026-11-18",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "VS1",
-      "number": "emily",
-      "variant": "VS1",
-      "accounts": [
-        "Emily"
-      ],
-      "title": "2 years with my bf and i'm only finding this NOW?!",
-      "caption": "54 steps. i can't 😭 #couple #redstringtheory #invisiblestring #fyp",
-      "music": "original sound - nona 𓆉",
-      "music_url": "https://www.tiktok.com/music/original-sound-7656149567334894350",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-18/crossi/VS1/emily/01.jpg"
-      ],
-      "video": "media/2026-11-18/crossi/VS1/emily/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (5s gốc)",
-          "src": "media/2026-11-18/crossi/VS1/emily/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-18/crossi/VS1/emily/demo.mp4"
-        }
-      ],
-      "slide_text": [],
-      "video_text": [
-        {
-          "t": "0–3s",
-          "text": "2 years with my bf and i'm only finding this NOW?!"
-        },
-        {
-          "t": "3–8s",
-          "text": "we were 54 steps apart in 2019 😭"
         }
       ],
       "missing": []
@@ -5850,16 +5580,7 @@
         "media/2026-11-18/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/A/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (8s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-18/stombers/ua-video/A/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-18/stombers/ua-video/A/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5889,16 +5610,7 @@
         "media/2026-11-18/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/B/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-18/stombers/ua-video/B/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-18/stombers/ua-video/B/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -5909,97 +5621,31 @@
       "missing": []
     },
     {
-      "key": "2026-11-19__crossi__V4__emily",
-      "date": "2026-11-19",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "V4",
-      "number": "emily",
-      "variant": "V4",
+      "key": "2026-11-18__stombers__ua-video__C",
+      "date": "2026-11-18",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "C",
+      "variant": "C-w47-1",
       "accounts": [
-        "Emily"
+        "C"
       ],
-      "title": "had him",
-      "caption": "worth the wait #couple #redstringtheory #invisiblestring #fyp",
-      "music": "drop dead - Olivia Rodrigo",
-      "music_url": "https://www.tiktok.com/music/drop-dead-7628647481840404481",
-      "is_aigc": true,
+      "title": "when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a weekly step competition where loser buys coffee on Monday 😅",
+      "caption": "i'm way too competitive for this #steps #walking #stepchallenge #competition #fyp",
+      "music": "S1 · original sound - TuDía13",
+      "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
+      "is_aigc": false,
       "slides": [
-        "media/2026-11-19/crossi/V4/emily/01.jpg",
-        "media/2026-11-19/crossi/V4/emily/02.jpg",
-        "media/2026-11-19/crossi/V4/emily/03.jpg",
-        "media/2026-11-19/crossi/V4/emily/04.jpg",
-        "media/2026-11-19/crossi/V4/emily/05.jpg",
-        "media/2026-11-19/crossi/V4/emily/06.jpg",
-        "media/2026-11-19/crossi/V4/emily/07.jpg",
-        "media/2026-11-19/crossi/V4/emily/08.jpg",
-        "media/2026-11-19/crossi/V4/emily/09.jpg",
-        "media/2026-11-19/crossi/V4/emily/10.jpg",
-        "media/2026-11-19/crossi/V4/emily/11.jpg",
-        "media/2026-11-19/crossi/V4/emily/12.jpg",
-        "media/2026-11-19/crossi/V4/emily/13.jpg",
-        "media/2026-11-19/crossi/V4/emily/14.jpg"
+        "media/2026-11-18/stombers/ua-video/C/01.jpg"
       ],
-      "video": "",
+      "video": "media/2026-11-18/stombers/ua-video/C/video.mp4",
       "videos": [],
-      "slide_text": [
-        "had him",
-        "lost him",
-        "wanted him back",
-        "waited",
-        "and waited",
-        "i saw we crossed paths 263 times before we met so i knew he was my soulmate so i had to keep trying",
-        "more waiting",
-        "still waiting",
-        "saw my chance and humbled him",
-        "making progress",
-        "even more progress",
-        "and more progress",
-        "little more",
-        "bagged himmmm"
-      ],
-      "video_text": [],
-      "missing": []
-    },
-    {
-      "key": "2026-11-19__crossi__VS2__melanie",
-      "date": "2026-11-19",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "VS2",
-      "number": "melanie",
-      "variant": "VS2",
-      "accounts": [
-        "Melanie"
-      ],
-      "title": "\"you two only met by luck\"",
-      "caption": "luck who? 💀 #couple #redstringtheory #invisiblestring #fyp",
-      "music": "original sound - Boiler Room",
-      "music_url": "https://www.tiktok.com/music/original-sound-7595990081513573153",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-19/crossi/VS2/melanie/01.jpg"
-      ],
-      "video": "media/2026-11-19/crossi/VS2/melanie/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (3s gốc)",
-          "src": "media/2026-11-19/crossi/VS2/melanie/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-19/crossi/VS2/melanie/demo.mp4"
-        }
-      ],
       "slide_text": [],
       "video_text": [
         {
-          "t": "0–3s",
-          "text": "\"you two only met by luck\""
-        },
-        {
-          "t": "3–8s",
-          "text": "luck had 236 tries apparently 💀"
+          "t": "0–8s",
+          "text": "when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a weekly step competition where loser buys coffee on Monday 😅"
         }
       ],
       "missing": []
@@ -6319,16 +5965,7 @@
         "media/2026-11-19/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/A/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (15s gốc, đoạn đã dùng 9–12.6s)",
-          "src": "media/2026-11-19/stombers/ua-video/A/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-19/stombers/ua-video/A/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6358,16 +5995,7 @@
         "media/2026-11-19/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/B/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (11s gốc, đoạn đã dùng 0.3–3.9s)",
-          "src": "media/2026-11-19/stombers/ua-video/B/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-19/stombers/ua-video/B/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6378,97 +6006,31 @@
       "missing": []
     },
     {
-      "key": "2026-11-20__crossi__V4__melanie",
-      "date": "2026-11-20",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "V4",
-      "number": "melanie",
-      "variant": "V4",
+      "key": "2026-11-19__stombers__ua-video__C",
+      "date": "2026-11-19",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "C",
+      "variant": "C-w47-2",
       "accounts": [
-        "Melanie"
+        "C"
       ],
-      "title": "had him",
-      "caption": "worth every second of waiting 🥹 #couple #redstringtheory #invisiblestring #fyp",
-      "music": "drop dead - Olivia Rodrigo",
-      "music_url": "https://www.tiktok.com/music/drop-dead-7628647481840404481",
-      "is_aigc": true,
+      "title": "POV you and your bff started a step competition to see who gets the most steps",
+      "caption": "she's not catching me #steps #walking #stepchallenge #bestfriend #fyp",
+      "music": "S3 · original sound - Deo M. Divinagracia",
+      "music_url": "https://www.tiktok.com/@jocelynwalking/video/7633664090220645646",
+      "is_aigc": false,
       "slides": [
-        "media/2026-11-20/crossi/V4/melanie/01.jpg",
-        "media/2026-11-20/crossi/V4/melanie/02.jpg",
-        "media/2026-11-20/crossi/V4/melanie/03.jpg",
-        "media/2026-11-20/crossi/V4/melanie/04.jpg",
-        "media/2026-11-20/crossi/V4/melanie/05.jpg",
-        "media/2026-11-20/crossi/V4/melanie/06.jpg",
-        "media/2026-11-20/crossi/V4/melanie/07.jpg",
-        "media/2026-11-20/crossi/V4/melanie/08.jpg",
-        "media/2026-11-20/crossi/V4/melanie/09.jpg",
-        "media/2026-11-20/crossi/V4/melanie/10.jpg",
-        "media/2026-11-20/crossi/V4/melanie/11.jpg",
-        "media/2026-11-20/crossi/V4/melanie/12.jpg",
-        "media/2026-11-20/crossi/V4/melanie/13.jpg",
-        "media/2026-11-20/crossi/V4/melanie/14.jpg"
+        "media/2026-11-19/stombers/ua-video/C/01.jpg"
       ],
-      "video": "",
+      "video": "media/2026-11-19/stombers/ua-video/C/video.mp4",
       "videos": [],
-      "slide_text": [
-        "had him",
-        "lost him",
-        "wanted him back",
-        "waited",
-        "and waited",
-        "i saw we crossed paths 219 times before we met so i knew he was my soulmate so i had to keep trying",
-        "more waiting",
-        "still waiting",
-        "saw my chance and humbled him",
-        "making progress",
-        "even more progress",
-        "and more progress",
-        "little more",
-        "bagged himmmm"
-      ],
-      "video_text": [],
-      "missing": []
-    },
-    {
-      "key": "2026-11-20__crossi__VA3__emily",
-      "date": "2026-11-20",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "VA3",
-      "number": "emily",
-      "variant": "VA3",
-      "accounts": [
-        "Emily"
-      ],
-      "title": "i just found out me and my bf crossed paths 236 times before we actually met 🥹",
-      "caption": "236 times is crazy, just meant to be 🥰 #couple #redstringtheory #boyfriend #fyp",
-      "music": "original sound - carissa",
-      "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-20/crossi/VA3/emily/01.jpg"
-      ],
-      "video": "media/2026-11-20/crossi/VA3/emily/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (5s gốc)",
-          "src": "media/2026-11-20/crossi/VA3/emily/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-20/crossi/VA3/emily/demo.mp4"
-        }
-      ],
       "slide_text": [],
       "video_text": [
         {
-          "t": "0–3s",
-          "text": "i just found out me and my bf crossed paths 236 times before we actually met 🥹"
-        },
-        {
-          "t": "3–8s",
-          "text": "5 years of almost"
+          "t": "0–8s",
+          "text": "POV you and your bff started a step competition to see who gets the most steps"
         }
       ],
       "missing": []
@@ -6793,16 +6355,7 @@
         "media/2026-11-20/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/A/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (15s gốc, đoạn đã dùng 6.4–10s)",
-          "src": "media/2026-11-20/stombers/ua-video/A/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-20/stombers/ua-video/A/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6836,16 +6389,7 @@
         "media/2026-11-20/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/B/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (12s gốc, đoạn đã dùng 6.5–10.1s)",
-          "src": "media/2026-11-20/stombers/ua-video/B/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-20/stombers/ua-video/B/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -6856,83 +6400,31 @@
       "missing": []
     },
     {
-      "key": "2026-11-21__crossi__V2__emily",
-      "date": "2026-11-21",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "V2",
-      "number": "emily",
-      "variant": "V2",
+      "key": "2026-11-20__stombers__ua-video__C",
+      "date": "2026-11-20",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "C",
+      "variant": "C-w47-3",
       "accounts": [
-        "Emily"
+        "C"
       ],
-      "title": "\"i thought i'd never find my person\"",
-      "caption": "tag the person who proved you wrong 🫶 #couple #redstringtheory #fyp",
-      "music": "son original - ★",
-      "music_url": "https://www.tiktok.com/music/son-original-7613789876936313622",
-      "is_aigc": true,
+      "title": "me after seeing that girls 30 days of 30k steps a day results",
+      "caption": "i need to lock in #steps #walking #stepchallenge #30ksteps #fyp",
+      "music": "S4 · Gangnam Style - Vértice Noticias",
+      "music_url": "https://www.tiktok.com/@jocelynwalking/video/7703064212976766222",
+      "is_aigc": false,
       "slides": [
-        "media/2026-11-21/crossi/V2/emily/01.jpg",
-        "media/2026-11-21/crossi/V2/emily/02.jpg",
-        "media/2026-11-21/crossi/V2/emily/03.jpg",
-        "media/2026-11-21/crossi/V2/emily/04.jpg",
-        "media/2026-11-21/crossi/V2/emily/05.jpg",
-        "media/2026-11-21/crossi/V2/emily/06.jpg",
-        "media/2026-11-21/crossi/V2/emily/07.jpg"
+        "media/2026-11-20/stombers/ua-video/C/01.jpg"
       ],
-      "video": "",
+      "video": "media/2026-11-20/stombers/ua-video/C/video.mp4",
       "videos": [],
-      "slide_text": [
-        "\"i thought i'd never find my person\"",
-        "but i was",
-        "so",
-        "so",
-        "so",
-        "wrong",
-        "we crossed paths 149 times before we ever met"
-      ],
-      "video_text": [],
-      "missing": []
-    },
-    {
-      "key": "2026-11-21__crossi__VS3__melanie",
-      "date": "2026-11-21",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "VS3",
-      "number": "melanie",
-      "variant": "VS3",
-      "accounts": [
-        "Melanie"
-      ],
-      "title": "calling all girls who swear they met their bf before they started dating",
-      "caption": "you weren't crazy 🫶 #redstringtheory #couple #soulmate #fyp",
-      "music": "original sound - Viral Green Screen Hub",
-      "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-21/crossi/VS3/melanie/01.jpg"
-      ],
-      "video": "media/2026-11-21/crossi/VS3/melanie/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (5s gốc)",
-          "src": "media/2026-11-21/crossi/VS3/melanie/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-21/crossi/VS3/melanie/demo.mp4"
-        }
-      ],
       "slide_text": [],
       "video_text": [
         {
-          "t": "0–3s",
-          "text": "calling all girls who swear they met their bf before they started dating"
-        },
-        {
-          "t": "3–8s",
-          "text": "you weren't crazy. 1,700 days of almost"
+          "t": "0–8s",
+          "text": "me after seeing that girls 30 days of 30k steps a day results"
         }
       ],
       "missing": []
@@ -7249,16 +6741,7 @@
         "media/2026-11-21/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/A/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-21/stombers/ua-video/A/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-21/stombers/ua-video/A/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7288,16 +6771,7 @@
         "media/2026-11-21/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/B/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (6s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-21/stombers/ua-video/B/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-21/stombers/ua-video/B/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7308,73 +6782,33 @@
       "missing": []
     },
     {
-      "key": "2026-11-22__crossi__D1__emily",
-      "date": "2026-11-22",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "D1",
-      "number": "emily",
-      "variant": "D1",
+      "key": "2026-11-21__stombers__ua-video__C",
+      "date": "2026-11-21",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "C",
+      "variant": "C-w47-4",
       "accounts": [
-        "Emily"
+        "C"
       ],
-      "title": "\"call me crazy but i swear we've met before we started dating\"",
-      "caption": "120 meters. how 😭 #couple #redstringtheory #invisiblestring #fyp",
-      "music": "original sound - Lina <3",
-      "music_url": "https://www.tiktok.com/music/original-sound-7639512005708352270",
-      "is_aigc": true,
+      "title": "when my work holds a company wide step competition and winner gets a free week of PTO but they have no idea who they're dealing with",
+      "caption": "free PTO is on the line #steps #walking #stepchallenge #corporatelife #fyp",
+      "music": "S2 · Heaven and Hell / Can-Can (MACHO music)",
+      "music_url": "https://www.tiktok.com/@jocelynwalking/video/7664729714321313038",
+      "is_aigc": false,
       "slides": [
-        "media/2026-11-22/crossi/D1/emily/01.jpg",
-        "media/2026-11-22/crossi/D1/emily/02.jpg",
-        "media/2026-11-22/crossi/D1/emily/03.jpg",
-        "media/2026-11-22/crossi/D1/emily/04.jpg"
+        "media/2026-11-21/stombers/ua-video/C/01.jpg"
       ],
-      "video": "",
+      "video": "media/2026-11-21/stombers/ua-video/C/video.mp4",
       "videos": [],
-      "slide_text": [
-        "\"call me crazy but i swear we've met before we started dating\"",
-        "\"you seem so familiar\"",
-        "\"i feel like i've known you my whole life\"",
-        "we were 120 m apart in 2019 and had no idea 😭"
+      "slide_text": [],
+      "video_text": [
+        {
+          "t": "0–8s",
+          "text": "when my work holds a company wide step competition and winner gets a free week of PTO but they have no idea who they're dealing with"
+        }
       ],
-      "video_text": [],
-      "missing": []
-    },
-    {
-      "key": "2026-11-22__crossi__N1__melanie",
-      "date": "2026-11-22",
-      "app": "crossi",
-      "app_name": "Crossi",
-      "format": "N1",
-      "number": "melanie",
-      "variant": "N1",
-      "accounts": [
-        "Melanie"
-      ],
-      "title": "there is no such thing as a coincidence",
-      "caption": "the universe really tried 3 times 🫶 #redstringtheory #couple #fate #fyp",
-      "music": "original sound (7421958305188170526)",
-      "music_url": "https://www.tiktok.com/music/original-sound-7421958305188170526",
-      "is_aigc": true,
-      "slides": [
-        "media/2026-11-22/crossi/N1/melanie/01.jpg",
-        "media/2026-11-22/crossi/N1/melanie/02.jpg",
-        "media/2026-11-22/crossi/N1/melanie/03.jpg",
-        "media/2026-11-22/crossi/N1/melanie/04.jpg",
-        "media/2026-11-22/crossi/N1/melanie/05.jpg",
-        "media/2026-11-22/crossi/N1/melanie/06.jpg"
-      ],
-      "video": "",
-      "videos": [],
-      "slide_text": [
-        "there is no such thing as a coincidence",
-        "aug 17 2019. lower east side. same hour",
-        "oct 12 2019. east village. 54 steps apart",
-        "jun 20 2020. domino park. 80 m apart",
-        "mar 13 2021. our first date. east village again",
-        "3 times we almost met before we actually did"
-      ],
-      "video_text": [],
       "missing": []
     },
     {
@@ -7703,16 +7137,7 @@
         "media/2026-11-22/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/A/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-22/stombers/ua-video/A/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-22/stombers/ua-video/A/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7742,16 +7167,7 @@
         "media/2026-11-22/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/B/video.mp4",
-      "videos": [
-        {
-          "label": "Clip UGC (7s gốc, đoạn đã dùng 0.5–4.1s)",
-          "src": "media/2026-11-22/stombers/ua-video/B/ugc.mp4"
-        },
-        {
-          "label": "Demo app",
-          "src": "media/2026-11-22/stombers/ua-video/B/demo.mp4"
-        }
-      ],
+      "videos": [],
       "slide_text": [],
       "video_text": [
         {
@@ -7764,19 +7180,39 @@
         }
       ],
       "missing": []
+    },
+    {
+      "key": "2026-11-22__stombers__ua-video__C",
+      "date": "2026-11-22",
+      "app": "stombers",
+      "app_name": "Stombers",
+      "format": "ua-video",
+      "number": "C",
+      "variant": "C-w47-5",
+      "accounts": [
+        "C"
+      ],
+      "title": "\"How do you not get bored going on so many walks?\"",
+      "caption": "it's lowkey the best motivation #steps #walking #stepchallenge #walkingtok #fyp",
+      "music": "S7 · original sound - Boiler Room",
+      "music_url": "https://www.tiktok.com/@jocelynwalking/video/7619360858363235597",
+      "is_aigc": false,
+      "slides": [
+        "media/2026-11-22/stombers/ua-video/C/01.jpg"
+      ],
+      "video": "media/2026-11-22/stombers/ua-video/C/video.mp4",
+      "videos": [],
+      "slide_text": [],
+      "video_text": [
+        {
+          "t": "0–8s",
+          "text": "\"How do you not get bored going on so many walks?\""
+        }
+      ],
+      "missing": []
     }
   ],
   "registry": [
-    {
-      "app": "crossi",
-      "app_name": "Crossi",
-      "accounts": [
-        "A",
-        "B",
-        "Emily",
-        "Melanie"
-      ]
-    },
     {
       "app": "no-contact",
       "app_name": "Better off",
@@ -7797,9 +7233,10 @@
       "app_name": "Stombers",
       "accounts": [
         "A",
-        "B"
+        "B",
+        "C"
       ]
     }
   ],
-  "generated": "2026-11-15T14:49:08"
+  "generated": "2026-11-16T00:13:25"
 }
