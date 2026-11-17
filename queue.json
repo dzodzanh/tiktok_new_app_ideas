@@ -5002,6 +5002,7 @@
         "we crossed paths 157 times before we ever met 😭"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5036,6 +5037,7 @@
           "text": "first time: seattle, 2016. we met in 2021"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5071,6 +5073,7 @@
         "guess who's back"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5104,6 +5107,7 @@
         "should I break my no contact or listen to my mom?"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5139,6 +5143,7 @@
         "my peace is all i care"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5176,6 +5181,7 @@
         "They ALWAYS come back 😏"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5215,6 +5221,7 @@
         "what actually stopped me:"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5258,6 +5265,7 @@
           "text": "here's mine"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5301,6 +5309,7 @@
           "text": "so what will it be?"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5344,6 +5353,7 @@
           "text": "where was this after the first one 😭"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5366,7 +5376,16 @@
         "media/2026-11-17/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #5 (3–8s) https://www.pinterest.com/pin/799177896420699008/",
+          "src": "media/2026-11-17/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-02",
+          "src": "media/2026-11-17/stombers/ua-video/A/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5374,6 +5393,7 @@
           "text": "walking in circles while my coffee brews bc i'm 150 steps behind"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5396,7 +5416,16 @@
         "media/2026-11-17/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-17/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #6 (3–8s) https://www.pinterest.com/pin/486740672248198422/",
+          "src": "media/2026-11-17/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-09",
+          "src": "media/2026-11-17/stombers/ua-video/B/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5404,6 +5433,7 @@
           "text": "pacing during my zoom meeting bc i'm 300 steps behind"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5437,6 +5467,7 @@
         "we crossed paths 127 times before we ever met 😭"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5471,6 +5502,7 @@
           "text": "we were 54 steps apart in 2019 😭"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5510,6 +5542,7 @@
         "🥹😊"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5545,6 +5578,7 @@
         "guess who's back"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5580,6 +5614,7 @@
         "thats my why not"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5617,6 +5652,7 @@
         "They ALWAYS come back 😏"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5646,6 +5682,7 @@
         "on my birthday???"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5679,6 +5716,7 @@
         "day 52. not starting over for a story view 🌷"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5722,6 +5760,7 @@
           "text": "52 flowers. don't you dare 🌷"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5765,6 +5804,7 @@
           "text": "here's mine"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5787,7 +5827,16 @@
         "media/2026-11-18/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #1 (0–6s) https://www.pinterest.com/pin/710442910017265828/",
+          "src": "media/2026-11-18/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-03",
+          "src": "media/2026-11-18/stombers/ua-video/A/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5795,6 +5844,7 @@
           "text": "my bff said she's 'not even trying' and she's somehow 2,000 steps ahead"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5817,7 +5867,16 @@
         "media/2026-11-18/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #12 (3–8s) https://www.pinterest.com/pin/694961786264126111/",
+          "src": "media/2026-11-18/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-10",
+          "src": "media/2026-11-18/stombers/ua-video/B/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5825,6 +5884,7 @@
           "text": "me and my bff texting each other our step counts every hour like it's a sport"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5847,7 +5907,16 @@
         "media/2026-11-18/stombers/ua-video/C/01.jpg"
       ],
       "video": "media/2026-11-18/stombers/ua-video/C/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #2 (0–8s) https://www.pinterest.com/pin/300967187617311293/",
+          "src": "media/2026-11-18/stombers/ua-video/C/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-15",
+          "src": "media/2026-11-18/stombers/ua-video/C/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -5855,6 +5924,7 @@
           "text": "when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a weekly step competition where loser buys coffee on Monday 😅"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5908,6 +5978,7 @@
         "bagged himmmm"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5942,6 +6013,7 @@
           "text": "luck had 236 tries apparently 💀"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -5979,6 +6051,7 @@
         "🥹"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6014,6 +6087,7 @@
         "guess who's back"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6049,6 +6123,7 @@
         "my peace is all i care"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6086,6 +6161,7 @@
         "They ALWAYS come back 😏"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6117,6 +6193,7 @@
         "left on read 💅"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6151,6 +6228,7 @@
           "text": "60 days 🌷"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6194,6 +6272,7 @@
           "text": "38 days. 38 flowers 🌷"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6237,6 +6316,7 @@
           "text": "so what will it be?"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6259,7 +6339,16 @@
         "media/2026-11-19/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #15 (0–5s) https://www.pinterest.com/pin/929360073115742388/",
+          "src": "media/2026-11-19/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-04",
+          "src": "media/2026-11-19/stombers/ua-video/A/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6267,6 +6356,7 @@
           "text": "getting my steps in now so i can eat whatever i want on thanksgiving"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6289,7 +6379,16 @@
         "media/2026-11-19/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #13 (0–5s) https://www.pinterest.com/pin/816136763765712509/",
+          "src": "media/2026-11-19/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-11",
+          "src": "media/2026-11-19/stombers/ua-video/B/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6297,6 +6396,7 @@
           "text": "i have never walked this much in my life and it's all bc of my group chat"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6319,7 +6419,16 @@
         "media/2026-11-19/stombers/ua-video/C/01.jpg"
       ],
       "video": "media/2026-11-19/stombers/ua-video/C/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #4 (0–3s) https://www.pinterest.com/pin/216595063322277276/",
+          "src": "media/2026-11-19/stombers/ua-video/C/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-16",
+          "src": "media/2026-11-19/stombers/ua-video/C/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6327,6 +6436,7 @@
           "text": "POV you and your bff started a step competition to see who gets the most steps"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6380,6 +6490,7 @@
         "bagged himmmm"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6414,6 +6525,7 @@
           "text": "5 years of almost"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6451,6 +6563,7 @@
         "🥹😊"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6486,6 +6599,7 @@
         "guess who's back"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6521,6 +6635,7 @@
         "my peace is all i care"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6556,6 +6671,7 @@
         "thats my why not"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6585,6 +6701,7 @@
         "should i reply?"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6628,6 +6745,7 @@
           "text": "47 days. 47 flowers."
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6671,6 +6789,7 @@
           "text": "day 103 and nothing. i'm done checking"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6714,6 +6833,7 @@
           "text": "where was this after the first one 😭"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6736,7 +6856,16 @@
         "media/2026-11-20/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #7 (3–8s) https://www.pinterest.com/pin/926967535798965288/",
+          "src": "media/2026-11-20/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-05",
+          "src": "media/2026-11-20/stombers/ua-video/A/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6748,6 +6877,7 @@
           "text": "last place. 2 days left"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6770,7 +6900,16 @@
         "media/2026-11-20/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #9 (3–6.2s) https://www.pinterest.com/pin/981081100066498196/",
+          "src": "media/2026-11-20/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-12",
+          "src": "media/2026-11-20/stombers/ua-video/B/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6778,6 +6917,7 @@
           "text": "burning off thanksgiving dinner a week early bc my friends are winning"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6800,7 +6940,16 @@
         "media/2026-11-20/stombers/ua-video/C/01.jpg"
       ],
       "video": "media/2026-11-20/stombers/ua-video/C/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #10 (2.3–5.3s) https://www.pinterest.com/pin/981081100065743413/",
+          "src": "media/2026-11-20/stombers/ua-video/C/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-17",
+          "src": "media/2026-11-20/stombers/ua-video/C/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -6808,6 +6957,7 @@
           "text": "me after seeing that girls 30 days of 30k steps a day results"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6847,6 +6997,7 @@
         "we crossed paths 149 times before we ever met"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6881,6 +7032,7 @@
           "text": "you weren't crazy. 1,700 days of almost"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6918,6 +7070,7 @@
         "🤍"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6953,6 +7106,7 @@
         "my peace is all i care"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -6988,6 +7142,7 @@
         "thats my why not"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7025,6 +7180,7 @@
         "They ALWAYS come back 😏"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7054,6 +7210,7 @@
         "should i reply?"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7087,6 +7244,7 @@
         "not even a \"wyd\" 💅"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7130,6 +7288,7 @@
           "text": "so what will it be?"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7173,6 +7332,7 @@
           "text": "day 24 and nothing. i'm done checking"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7195,7 +7355,16 @@
         "media/2026-11-21/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #12 (3–8s) https://www.pinterest.com/pin/694961786264126111/",
+          "src": "media/2026-11-21/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-06",
+          "src": "media/2026-11-21/stombers/ua-video/A/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7203,6 +7372,7 @@
           "text": "walking every aisle in trader joe's bc my friend just passed me"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7225,7 +7395,16 @@
         "media/2026-11-21/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #1 (0–6s) https://www.pinterest.com/pin/710442910017265828/",
+          "src": "media/2026-11-21/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-13",
+          "src": "media/2026-11-21/stombers/ua-video/B/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7233,6 +7412,7 @@
           "text": "pov: your friends made a step race and now you check the leaderboard more than instagram"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7255,7 +7435,16 @@
         "media/2026-11-21/stombers/ua-video/C/01.jpg"
       ],
       "video": "media/2026-11-21/stombers/ua-video/C/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #6 (3–8s) https://www.pinterest.com/pin/486740672248198422/",
+          "src": "media/2026-11-21/stombers/ua-video/C/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-18",
+          "src": "media/2026-11-21/stombers/ua-video/C/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7263,6 +7452,7 @@
           "text": "when my work holds a company wide step competition and winner gets a free week of PTO but they have no idea who they're dealing with"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7296,6 +7486,7 @@
         "we were 120 m apart in 2019 and had no idea 😭"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7333,6 +7524,7 @@
         "3 times we almost met before we actually did"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7368,6 +7560,7 @@
         "guess who's back"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7403,6 +7596,7 @@
         "thats my why not"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7440,6 +7634,7 @@
         "They ALWAYS come back 😏"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7483,6 +7678,7 @@
           "text": "it tells me i'm doing so well every morning :')"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7516,6 +7712,7 @@
         "1 day no contact = 1 flower"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7553,6 +7750,7 @@
         "1 day no contact = 1 flower 🌱"
       ],
       "video_text": [],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7596,6 +7794,7 @@
           "text": "here's mine"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7639,6 +7838,7 @@
           "text": "day 85 and nothing. i'm done checking"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7661,7 +7861,16 @@
         "media/2026-11-22/stombers/ua-video/A/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/A/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #2 (0–8s) https://www.pinterest.com/pin/300967187617311293/",
+          "src": "media/2026-11-22/stombers/ua-video/A/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-07",
+          "src": "media/2026-11-22/stombers/ua-video/A/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7669,6 +7878,7 @@
           "text": "sunday at 11:40pm and the whole group chat is suddenly 'going for a walk'"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7691,7 +7901,16 @@
         "media/2026-11-22/stombers/ua-video/B/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/B/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #5 (3–8s) https://www.pinterest.com/pin/799177896420699008/",
+          "src": "media/2026-11-22/stombers/ua-video/B/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-14",
+          "src": "media/2026-11-22/stombers/ua-video/B/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7703,6 +7922,7 @@
           "text": "50 steps left"
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -7725,7 +7945,16 @@
         "media/2026-11-22/stombers/ua-video/C/01.jpg"
       ],
       "video": "media/2026-11-22/stombers/ua-video/C/video.mp4",
-      "videos": [],
+      "videos": [
+        {
+          "label": "Source UGC #4 (0–3s) https://www.pinterest.com/pin/216595063322277276/",
+          "src": "media/2026-11-22/stombers/ua-video/C/ugc.mp4"
+        },
+        {
+          "label": "Demo app: màn đường đua ST-19",
+          "src": "media/2026-11-22/stombers/ua-video/C/race.mp4"
+        }
+      ],
       "slide_text": [],
       "video_text": [
         {
@@ -7733,6 +7962,7 @@
           "text": "\"How do you not get bored going on so many walks?\""
         }
       ],
+      "plan_req": "",
       "missing": []
     },
     {
@@ -11712,5 +11942,5 @@
       ]
     }
   ],
-  "generated": "2026-11-17T10:30:04"
+  "generated": "2026-11-17T15:45:08"
 }
