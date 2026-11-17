@@ -7982,10 +7982,10 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7639512005708352270",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/crossi/V1/emily/01.jpg",
-        "media/2026-11-23/crossi/V1/emily/02.jpg",
-        "media/2026-11-23/crossi/V1/emily/03.jpg",
-        "media/2026-11-23/crossi/V1/emily/04.jpg"
+        "media/2026-11-23/crossi/V1/emily/01.jpg?v=e2a909a2",
+        "media/2026-11-23/crossi/V1/emily/02.jpg?v=e3ccdad7",
+        "media/2026-11-23/crossi/V1/emily/03.jpg?v=59befb0b",
+        "media/2026-11-23/crossi/V1/emily/04.jpg?v=4d984adf"
       ],
       "video": "",
       "videos": [],
@@ -8016,17 +8016,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/crossi/VA1/melanie/01.jpg"
+        "media/2026-11-23/crossi/VA1/melanie/01.jpg?v=bb2b0c16"
       ],
-      "video": "media/2026-11-23/crossi/VA1/melanie/video.mp4",
+      "video": "media/2026-11-23/crossi/VA1/melanie/video.mp4?v=5397102c",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC sốc — Mint đang quay)",
-          "src": "media/2026-11-23/crossi/VA1/melanie/ugc.mp4"
+          "src": "media/2026-11-23/crossi/VA1/melanie/ugc.mp4?v=53a44d7e"
         },
         {
           "label": "Demo app (5.0s)",
-          "src": "media/2026-11-23/crossi/VA1/melanie/demo.mp4"
+          "src": "media/2026-11-23/crossi/VA1/melanie/demo.mp4?v=72320205"
         }
       ],
       "slide_text": [],
@@ -8062,10 +8062,10 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7549521904802712342",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/C1/ava/01.jpg",
-        "media/2026-11-23/no-contact/C1/ava/02.jpg",
-        "media/2026-11-23/no-contact/C1/ava/03.jpg",
-        "media/2026-11-23/no-contact/C1/ava/04.jpg"
+        "media/2026-11-23/no-contact/C1/ava/01.jpg?v=e9152c05",
+        "media/2026-11-23/no-contact/C1/ava/02.jpg?v=a9434c6d",
+        "media/2026-11-23/no-contact/C1/ava/03.jpg?v=2910badb",
+        "media/2026-11-23/no-contact/C1/ava/04.jpg?v=aed28956"
       ],
       "video": "",
       "videos": [],
@@ -8096,11 +8096,11 @@
       "music_url": "https://www.tiktok.com/music/Originalton-7569683320813013782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/E/bette/01.jpg",
-        "media/2026-11-23/no-contact/E/bette/02.jpg",
-        "media/2026-11-23/no-contact/E/bette/03.jpg",
-        "media/2026-11-23/no-contact/E/bette/04.jpg",
-        "media/2026-11-23/no-contact/E/bette/05.jpg"
+        "media/2026-11-23/no-contact/E/bette/01.jpg?v=b1085672",
+        "media/2026-11-23/no-contact/E/bette/02.jpg?v=899aab69",
+        "media/2026-11-23/no-contact/E/bette/03.jpg?v=ff6a44df",
+        "media/2026-11-23/no-contact/E/bette/04.jpg?v=2ee39aa7",
+        "media/2026-11-23/no-contact/E/bette/05.jpg?v=3d619dc2"
       ],
       "video": "",
       "videos": [],
@@ -8132,11 +8132,11 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7672894552029563680",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/F/natalie/01.jpg",
-        "media/2026-11-23/no-contact/F/natalie/02.jpg",
-        "media/2026-11-23/no-contact/F/natalie/03.jpg",
-        "media/2026-11-23/no-contact/F/natalie/04.jpg",
-        "media/2026-11-23/no-contact/F/natalie/05.jpg"
+        "media/2026-11-23/no-contact/F/natalie/01.jpg?v=921bd04a",
+        "media/2026-11-23/no-contact/F/natalie/02.jpg?v=86333a92",
+        "media/2026-11-23/no-contact/F/natalie/03.jpg?v=5343aca2",
+        "media/2026-11-23/no-contact/F/natalie/04.jpg?v=6520d01c",
+        "media/2026-11-23/no-contact/F/natalie/05.jpg?v=1f07688c"
       ],
       "video": "",
       "videos": [],
@@ -8168,11 +8168,11 @@
       "music_url": "https://www.tiktok.com/music/all-too-well-7277688033436715782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/I/mira/01.jpg",
-        "media/2026-11-23/no-contact/I/mira/02.jpg",
-        "media/2026-11-23/no-contact/I/mira/03.jpg",
-        "media/2026-11-23/no-contact/I/mira/04.jpg",
-        "media/2026-11-23/no-contact/I/mira/05.jpg"
+        "media/2026-11-23/no-contact/I/mira/01.jpg?v=39c7a10c",
+        "media/2026-11-23/no-contact/I/mira/02.jpg?v=b731308b",
+        "media/2026-11-23/no-contact/I/mira/03.jpg?v=e0e65182",
+        "media/2026-11-23/no-contact/I/mira/04.jpg?v=546d8d17",
+        "media/2026-11-23/no-contact/I/mira/05.jpg?v=f127894b"
       ],
       "video": "",
       "videos": [],
@@ -8204,13 +8204,13 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/TG14/emma/01.jpg"
+        "media/2026-11-23/no-contact/TG14/emma/01.jpg?v=12e2576d"
       ],
-      "video": "media/2026-11-23/no-contact/TG14/emma/video.mp4",
+      "video": "media/2026-11-23/no-contact/TG14/emma/video.mp4?v=1848d39c",
       "videos": [
         {
           "label": "Demo app (10s)",
-          "src": "media/2026-11-23/no-contact/TG14/emma/demo.mp4"
+          "src": "media/2026-11-23/no-contact/TG14/emma/demo.mp4?v=1848d39c"
         }
       ],
       "slide_text": [],
@@ -8244,17 +8244,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/TG16/peyton/01.jpg"
+        "media/2026-11-23/no-contact/TG16/peyton/01.jpg?v=4af2ea08"
       ],
-      "video": "media/2026-11-23/no-contact/TG16/peyton/video.mp4",
+      "video": "media/2026-11-23/no-contact/TG16/peyton/video.mp4?v=c9be722b",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC vui — Mint đang quay)",
-          "src": "media/2026-11-23/no-contact/TG16/peyton/ugc.mp4"
+          "src": "media/2026-11-23/no-contact/TG16/peyton/ugc.mp4?v=41d3541b"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-23/no-contact/TG16/peyton/demo.mp4"
+          "src": "media/2026-11-23/no-contact/TG16/peyton/demo.mp4?v=c92d8743"
         }
       ],
       "slide_text": [],
@@ -8290,17 +8290,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/TG17/chloe/01.jpg"
+        "media/2026-11-23/no-contact/TG17/chloe/01.jpg?v=cbc1b47e"
       ],
-      "video": "media/2026-11-23/no-contact/TG17/chloe/video.mp4",
+      "video": "media/2026-11-23/no-contact/TG17/chloe/video.mp4?v=595e218a",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC buồn — Mint đang quay)",
-          "src": "media/2026-11-23/no-contact/TG17/chloe/ugc.mp4"
+          "src": "media/2026-11-23/no-contact/TG17/chloe/ugc.mp4?v=3d3d039e"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-23/no-contact/TG17/chloe/demo.mp4"
+          "src": "media/2026-11-23/no-contact/TG17/chloe/demo.mp4?v=845b39b5"
         }
       ],
       "slide_text": [],
@@ -8336,17 +8336,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7467694112192449310",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/VA1/lyli/01.jpg"
+        "media/2026-11-23/no-contact/VA1/lyli/01.jpg?v=e1d0cf7f"
       ],
-      "video": "media/2026-11-23/no-contact/VA1/lyli/video.mp4",
+      "video": "media/2026-11-23/no-contact/VA1/lyli/video.mp4?v=d2f2b604",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC buồn — Mint đang quay)",
-          "src": "media/2026-11-23/no-contact/VA1/lyli/ugc.mp4"
+          "src": "media/2026-11-23/no-contact/VA1/lyli/ugc.mp4?v=3d3d039e"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-23/no-contact/VA1/lyli/demo.mp4"
+          "src": "media/2026-11-23/no-contact/VA1/lyli/demo.mp4?v=c5dd35fb"
         }
       ],
       "slide_text": [],
@@ -8382,17 +8382,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-23/no-contact/VP1/luna/01.jpg"
+        "media/2026-11-23/no-contact/VP1/luna/01.jpg?v=eac36841"
       ],
-      "video": "media/2026-11-23/no-contact/VP1/luna/video.mp4",
+      "video": "media/2026-11-23/no-contact/VP1/luna/video.mp4?v=2ec2580f",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC sốc — Mint đang quay)",
-          "src": "media/2026-11-23/no-contact/VP1/luna/ugc.mp4"
+          "src": "media/2026-11-23/no-contact/VP1/luna/ugc.mp4?v=84d17836"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-23/no-contact/VP1/luna/demo.mp4"
+          "src": "media/2026-11-23/no-contact/VP1/luna/demo.mp4?v=742e58bf"
         }
       ],
       "slide_text": [],
@@ -8428,17 +8428,17 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-23/stombers/ua-video/A/01.jpg"
+        "media/2026-11-23/stombers/ua-video/A/01.jpg?v=e4ce4917"
       ],
-      "video": "media/2026-11-23/stombers/ua-video/A/video.mp4",
+      "video": "media/2026-11-23/stombers/ua-video/A/video.mp4?v=d1da36e4",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-23/stombers/ua-video/A/ugc.mp4"
+          "label": "Source UGC #1 (0–5.9s) https://www.pinterest.com/pin/710442910017265828/",
+          "src": "media/2026-11-23/stombers/ua-video/A/ugc.mp4?v=50d52f43"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-23/stombers/ua-video/A/demo.mp4"
+          "label": "Demo app: màn đường đua ST-20",
+          "src": "media/2026-11-23/stombers/ua-video/A/demo.mp4?v=684f2ed9"
         }
       ],
       "slide_text": [],
@@ -8449,9 +8449,7 @@
         }
       ],
       "plan_req": "T2 · 23/11 · video · 4th walk + cược\nHook: when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a weekly step competition where loser buys coffee on Monday 😅\nCaption: i'm way too competitive for this #steps #walking #stepchallenge #competition #fyp\nSố trên màn đua: Hạng 2/6 · 310 bước để vượt\nSound: S1 · original sound - TuDía13 (4.7M view)\nCảnh 1: Clip UGC đang đi bộ — chữ: when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a weekly step competition where loser buys coffee on Monday 😅\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-23__stombers__ua-video__B",
@@ -8470,17 +8468,17 @@
       "music_url": "https://www.tiktok.com/@anaswalks3/video/7639913402143395102",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-23/stombers/ua-video/B/01.jpg"
+        "media/2026-11-23/stombers/ua-video/B/01.jpg?v=1c8141bc"
       ],
-      "video": "media/2026-11-23/stombers/ua-video/B/video.mp4",
+      "video": "media/2026-11-23/stombers/ua-video/B/video.mp4?v=34c6062a",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-23/stombers/ua-video/B/ugc.mp4"
+          "label": "Source UGC #12 (3–8s) https://www.pinterest.com/pin/694961786264126111/",
+          "src": "media/2026-11-23/stombers/ua-video/B/ugc.mp4?v=e9ff954f"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-23/stombers/ua-video/B/demo.mp4"
+          "label": "Demo app: màn đường đua ST-27",
+          "src": "media/2026-11-23/stombers/ua-video/B/demo.mp4?v=818e43b5"
         }
       ],
       "slide_text": [],
@@ -8491,9 +8489,7 @@
         }
       ],
       "plan_req": "T2 · 23/11 · video · Đua với bạn thân\nHook: pov you and your friends get on a step competition to see who gets the most steps\nCaption: my motivation to get so many steps #steps #walking #stepchallenge #friends #fyp\nSố trên màn đua: Hạng 3/6 · 540 bước để vượt\nSound: S6 · Pump It - The Black Eyed Peas (41K like · 10K share)\nCảnh 1: Clip UGC đang đi bộ — chữ: pov you and your friends get on a step competition to see who gets the most steps\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-23__stombers__ua-video__C",
@@ -8512,17 +8508,17 @@
       "music_url": "https://www.tiktok.com/@anaswalks3/video/7639913402143395102",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-23/stombers/ua-video/C/01.jpg"
+        "media/2026-11-23/stombers/ua-video/C/01.jpg?v=d51dd575"
       ],
-      "video": "media/2026-11-23/stombers/ua-video/C/video.mp4",
+      "video": "media/2026-11-23/stombers/ua-video/C/video.mp4?v=3bbc4712",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-23/stombers/ua-video/C/ugc.mp4"
+          "label": "Source UGC #5 (3–8s) https://www.pinterest.com/pin/799177896420699008/",
+          "src": "media/2026-11-23/stombers/ua-video/C/ugc.mp4?v=72bf2553"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-23/stombers/ua-video/C/demo.mp4"
+          "label": "Demo app: màn đường đua ST-34",
+          "src": "media/2026-11-23/stombers/ua-video/C/demo.mp4?v=de057d15"
         }
       ],
       "slide_text": [],
@@ -8533,9 +8529,7 @@
         }
       ],
       "plan_req": "T2 · 23/11 · video · Đua với bạn thân\nHook: pov you and your friends get on a step competition to see who gets the most steps\nCaption: my motivation to get so many steps #steps #walking #stepchallenge #friends #fyp\nSố trên màn đua: Hạng 4/6 · 610 bước để vượt\nSound: S6 · Pump It - The Black Eyed Peas (41K like · 10K share)\nCảnh 1: Clip UGC đang đi bộ — chữ: pov you and your friends get on a step competition to see who gets the most steps\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-24__crossi__K1__melanie",
@@ -8554,11 +8548,11 @@
       "music_url": "https://www.tiktok.com/music/We-Are-The-People-6741589514336077826",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/crossi/K1/melanie/01.jpg",
-        "media/2026-11-24/crossi/K1/melanie/02.jpg",
-        "media/2026-11-24/crossi/K1/melanie/03.jpg",
-        "media/2026-11-24/crossi/K1/melanie/04.jpg",
-        "media/2026-11-24/crossi/K1/melanie/05.jpg"
+        "media/2026-11-24/crossi/K1/melanie/01.jpg?v=19d89199",
+        "media/2026-11-24/crossi/K1/melanie/02.jpg?v=1649a332",
+        "media/2026-11-24/crossi/K1/melanie/03.jpg?v=db7c8ad4",
+        "media/2026-11-24/crossi/K1/melanie/04.jpg?v=93451282",
+        "media/2026-11-24/crossi/K1/melanie/05.jpg?v=53dca028"
       ],
       "video": "",
       "videos": [],
@@ -8590,17 +8584,17 @@
       "music_url": "https://www.tiktok.com/music/som-original-Ph-7277732770289224453",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/crossi/VA2/emily/01.jpg"
+        "media/2026-11-24/crossi/VA2/emily/01.jpg?v=8fbaa221"
       ],
-      "video": "media/2026-11-24/crossi/VA2/emily/video.mp4",
+      "video": "media/2026-11-24/crossi/VA2/emily/video.mp4?v=5818f578",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC bối rối — Mint đang quay)",
-          "src": "media/2026-11-24/crossi/VA2/emily/ugc.mp4"
+          "src": "media/2026-11-24/crossi/VA2/emily/ugc.mp4?v=c2fa8441"
         },
         {
           "label": "Demo app (5.0s)",
-          "src": "media/2026-11-24/crossi/VA2/emily/demo.mp4"
+          "src": "media/2026-11-24/crossi/VA2/emily/demo.mp4?v=943fb600"
         }
       ],
       "slide_text": [],
@@ -8636,13 +8630,13 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-6956417149732784901",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/A/natalie/01.jpg",
-        "media/2026-11-24/no-contact/A/natalie/02.jpg",
-        "media/2026-11-24/no-contact/A/natalie/03.jpg",
-        "media/2026-11-24/no-contact/A/natalie/04.jpg",
-        "media/2026-11-24/no-contact/A/natalie/05.jpg",
-        "media/2026-11-24/no-contact/A/natalie/06.jpg",
-        "media/2026-11-24/no-contact/A/natalie/07.jpg"
+        "media/2026-11-24/no-contact/A/natalie/01.jpg?v=0facb23b",
+        "media/2026-11-24/no-contact/A/natalie/02.jpg?v=5aa36e71",
+        "media/2026-11-24/no-contact/A/natalie/03.jpg?v=830a5260",
+        "media/2026-11-24/no-contact/A/natalie/04.jpg?v=8a530ecf",
+        "media/2026-11-24/no-contact/A/natalie/05.jpg?v=3e5a7867",
+        "media/2026-11-24/no-contact/A/natalie/06.jpg?v=2b8e9cfa",
+        "media/2026-11-24/no-contact/A/natalie/07.jpg?v=9b092c44"
       ],
       "video": "",
       "videos": [],
@@ -8676,11 +8670,11 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7640939101746727711",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/B/mira/01.jpg",
-        "media/2026-11-24/no-contact/B/mira/02.jpg",
-        "media/2026-11-24/no-contact/B/mira/03.jpg",
-        "media/2026-11-24/no-contact/B/mira/04.jpg",
-        "media/2026-11-24/no-contact/B/mira/05.jpg"
+        "media/2026-11-24/no-contact/B/mira/01.jpg?v=c9cd3da2",
+        "media/2026-11-24/no-contact/B/mira/02.jpg?v=ce875460",
+        "media/2026-11-24/no-contact/B/mira/03.jpg?v=63d1da5d",
+        "media/2026-11-24/no-contact/B/mira/04.jpg?v=35d20b9c",
+        "media/2026-11-24/no-contact/B/mira/05.jpg?v=ee43cb24"
       ],
       "video": "",
       "videos": [],
@@ -8712,11 +8706,11 @@
       "music_url": "https://www.tiktok.com/music/Originalton-7569683320813013782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/E/chloe/01.jpg",
-        "media/2026-11-24/no-contact/E/chloe/02.jpg",
-        "media/2026-11-24/no-contact/E/chloe/03.jpg",
-        "media/2026-11-24/no-contact/E/chloe/04.jpg",
-        "media/2026-11-24/no-contact/E/chloe/05.jpg"
+        "media/2026-11-24/no-contact/E/chloe/01.jpg?v=08d3689d",
+        "media/2026-11-24/no-contact/E/chloe/02.jpg?v=48ed752b",
+        "media/2026-11-24/no-contact/E/chloe/03.jpg?v=ffba9453",
+        "media/2026-11-24/no-contact/E/chloe/04.jpg?v=4c873387",
+        "media/2026-11-24/no-contact/E/chloe/05.jpg?v=4056b455"
       ],
       "video": "",
       "videos": [],
@@ -8748,11 +8742,11 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7672894552029563680",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/F/emma/01.jpg",
-        "media/2026-11-24/no-contact/F/emma/02.jpg",
-        "media/2026-11-24/no-contact/F/emma/03.jpg",
-        "media/2026-11-24/no-contact/F/emma/04.jpg",
-        "media/2026-11-24/no-contact/F/emma/05.jpg"
+        "media/2026-11-24/no-contact/F/emma/01.jpg?v=573d2c88",
+        "media/2026-11-24/no-contact/F/emma/02.jpg?v=eaa3a0f5",
+        "media/2026-11-24/no-contact/F/emma/03.jpg?v=bb161ec3",
+        "media/2026-11-24/no-contact/F/emma/04.jpg?v=419921f4",
+        "media/2026-11-24/no-contact/F/emma/05.jpg?v=138a0f88"
       ],
       "video": "",
       "videos": [],
@@ -8784,11 +8778,11 @@
       "music_url": "https://www.tiktok.com/music/all-too-well-7277688033436715782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/I/peyton/01.jpg",
-        "media/2026-11-24/no-contact/I/peyton/02.jpg",
-        "media/2026-11-24/no-contact/I/peyton/03.jpg",
-        "media/2026-11-24/no-contact/I/peyton/04.jpg",
-        "media/2026-11-24/no-contact/I/peyton/05.jpg"
+        "media/2026-11-24/no-contact/I/peyton/01.jpg?v=d671da9a",
+        "media/2026-11-24/no-contact/I/peyton/02.jpg?v=5edd956b",
+        "media/2026-11-24/no-contact/I/peyton/03.jpg?v=8b26e672",
+        "media/2026-11-24/no-contact/I/peyton/04.jpg?v=546d8d17",
+        "media/2026-11-24/no-contact/I/peyton/05.jpg?v=062c3296"
       ],
       "video": "",
       "videos": [],
@@ -8824,9 +8818,9 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7703536771614771999",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/J/lyli/01.jpg",
-        "media/2026-11-24/no-contact/J/lyli/02.jpg",
-        "media/2026-11-24/no-contact/J/lyli/03.jpg"
+        "media/2026-11-24/no-contact/J/lyli/01.jpg?v=9248e068",
+        "media/2026-11-24/no-contact/J/lyli/02.jpg?v=9452d3f7",
+        "media/2026-11-24/no-contact/J/lyli/03.jpg?v=ed63fd3e"
       ],
       "video": "",
       "videos": [],
@@ -8856,12 +8850,12 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7691825425097575199",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/K/bette/01.jpg",
-        "media/2026-11-24/no-contact/K/bette/02.jpg",
-        "media/2026-11-24/no-contact/K/bette/03.jpg",
-        "media/2026-11-24/no-contact/K/bette/04.jpg",
-        "media/2026-11-24/no-contact/K/bette/05.jpg",
-        "media/2026-11-24/no-contact/K/bette/06.jpg"
+        "media/2026-11-24/no-contact/K/bette/01.jpg?v=48b8723c",
+        "media/2026-11-24/no-contact/K/bette/02.jpg?v=5f8d7fe5",
+        "media/2026-11-24/no-contact/K/bette/03.jpg?v=252ffb86",
+        "media/2026-11-24/no-contact/K/bette/04.jpg?v=08f3209b",
+        "media/2026-11-24/no-contact/K/bette/05.jpg?v=391e7557",
+        "media/2026-11-24/no-contact/K/bette/06.jpg?v=373b3abd"
       ],
       "video": "",
       "videos": [],
@@ -8894,17 +8888,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/TG11/ava/01.jpg"
+        "media/2026-11-24/no-contact/TG11/ava/01.jpg?v=493c3ef3"
       ],
-      "video": "media/2026-11-24/no-contact/TG11/ava/video.mp4",
+      "video": "media/2026-11-24/no-contact/TG11/ava/video.mp4?v=2ee752d5",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC sốc — Mint đang quay)",
-          "src": "media/2026-11-24/no-contact/TG11/ava/ugc.mp4"
+          "src": "media/2026-11-24/no-contact/TG11/ava/ugc.mp4?v=84d17836"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-24/no-contact/TG11/ava/demo.mp4"
+          "src": "media/2026-11-24/no-contact/TG11/ava/demo.mp4?v=98b8bc38"
         }
       ],
       "slide_text": [],
@@ -8940,12 +8934,12 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-6956417149732784901",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-24/no-contact/TG12/luna/01.jpg",
-        "media/2026-11-24/no-contact/TG12/luna/02.jpg",
-        "media/2026-11-24/no-contact/TG12/luna/03.jpg",
-        "media/2026-11-24/no-contact/TG12/luna/04.jpg",
-        "media/2026-11-24/no-contact/TG12/luna/05.jpg",
-        "media/2026-11-24/no-contact/TG12/luna/06.jpg"
+        "media/2026-11-24/no-contact/TG12/luna/01.jpg?v=bc86905c",
+        "media/2026-11-24/no-contact/TG12/luna/02.jpg?v=c6099cee",
+        "media/2026-11-24/no-contact/TG12/luna/03.jpg?v=4614a93e",
+        "media/2026-11-24/no-contact/TG12/luna/04.jpg?v=48dff499",
+        "media/2026-11-24/no-contact/TG12/luna/05.jpg?v=dd9a1937",
+        "media/2026-11-24/no-contact/TG12/luna/06.jpg?v=9a2cd12e"
       ],
       "video": "",
       "videos": [],
@@ -8978,17 +8972,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7664729714321313038",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-24/stombers/ua-video/A/01.jpg"
+        "media/2026-11-24/stombers/ua-video/A/01.jpg?v=1eb2f85e"
       ],
-      "video": "media/2026-11-24/stombers/ua-video/A/video.mp4",
+      "video": "media/2026-11-24/stombers/ua-video/A/video.mp4?v=2517e007",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-24/stombers/ua-video/A/ugc.mp4"
+          "label": "Source UGC #13 (0–5s) https://www.pinterest.com/pin/816136763765712509/",
+          "src": "media/2026-11-24/stombers/ua-video/A/ugc.mp4?v=c86b9238"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-24/stombers/ua-video/A/demo.mp4"
+          "label": "Demo app: màn đường đua ST-21",
+          "src": "media/2026-11-24/stombers/ua-video/A/demo.mp4?v=b7149dcb"
         }
       ],
       "slide_text": [],
@@ -8999,9 +8993,7 @@
         }
       ],
       "plan_req": "T3 · 24/11 · video · Công ty / PTO\nHook: when my work holds a company wide step competition and winner gets a free week of PTO but they have no idea who they're dealing with\nCaption: i've never been so motivated to get my steps in #steps #walking #stepchallenge #corporatelife #fyp\nSố trên màn đua: Hạng 1/12 · 24,180 bước hôm nay\nSound: S2 · Heaven and Hell / Can-Can (MACHO music) (2.2M view)\nCảnh 1: Clip UGC đang đi bộ — chữ: when my work holds a company wide step competition and winner gets a free week of PTO but they have no idea who they're dealing with\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-24__stombers__ua-video__B",
@@ -9020,17 +9012,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7703064212976766222",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-24/stombers/ua-video/B/01.jpg"
+        "media/2026-11-24/stombers/ua-video/B/01.jpg?v=567e7239"
       ],
-      "video": "media/2026-11-24/stombers/ua-video/B/video.mp4",
+      "video": "media/2026-11-24/stombers/ua-video/B/video.mp4?v=ffe44669",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-24/stombers/ua-video/B/ugc.mp4"
+          "label": "Source UGC #2 (0–8s) https://www.pinterest.com/pin/300967187617311293/",
+          "src": "media/2026-11-24/stombers/ua-video/B/ugc.mp4?v=1eb42ed6"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-24/stombers/ua-video/B/demo.mp4"
+          "label": "Demo app: màn đường đua ST-28",
+          "src": "media/2026-11-24/stombers/ua-video/B/demo.mp4?v=65c0d7ca"
         }
       ],
       "slide_text": [],
@@ -9041,9 +9033,7 @@
         }
       ],
       "plan_req": "T3 · 24/11 · video · 4th walk + cược\nHook: when you're on your 4th walk of the day bc your bffs thought it'd be a fun idea to start a weekly step competition where loser buys drinks this weekend\nCaption: not me buying drinks #steps #walking #stepchallenge #competition #fyp\nSố trên màn đua: Hạng 2/4 · 230 bước để vượt\nSound: S4 · Gangnam Style - Vértice Noticias (659K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: when you're on your 4th walk of the day bc your bffs thought it'd be a fun idea to start a weekly step competition where loser buys drinks this weekend\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-24__stombers__ua-video__C",
@@ -9062,17 +9052,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7655045869561040141",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-24/stombers/ua-video/C/01.jpg"
+        "media/2026-11-24/stombers/ua-video/C/01.jpg?v=46185f8f"
       ],
-      "video": "media/2026-11-24/stombers/ua-video/C/video.mp4",
+      "video": "media/2026-11-24/stombers/ua-video/C/video.mp4?v=d9983f36",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-24/stombers/ua-video/C/ugc.mp4"
+          "label": "Source UGC #6 (3–8s) https://www.pinterest.com/pin/486740672248198422/",
+          "src": "media/2026-11-24/stombers/ua-video/C/ugc.mp4?v=6f27033a"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-24/stombers/ua-video/C/demo.mp4"
+          "label": "Demo app: màn đường đua ST-35",
+          "src": "media/2026-11-24/stombers/ua-video/C/demo.mp4?v=815d2d77"
         }
       ],
       "slide_text": [],
@@ -9083,9 +9073,7 @@
         }
       ],
       "plan_req": "T3 · 24/11 · video · 4th walk + cược\nHook: No one: Me on my 5th walk of the day bc I'm in a step competition w my friends. Loser has to buy dinner\nCaption: not buying dinner #steps #walking #stepchallenge #competition #fyp\nSố trên màn đua: Hạng 2/5 · 330 bước để vượt\nSound: S5 · original sound - Fuseinatti (317K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: No one: Me on my 5th walk of the day bc I'm in a step competition w my friends. Loser has to buy dinner\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-25__crossi__K1__emily",
@@ -9104,11 +9092,11 @@
       "music_url": "https://www.tiktok.com/music/We-Are-The-People-6741589514336077826",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/crossi/K1/emily/01.jpg",
-        "media/2026-11-25/crossi/K1/emily/02.jpg",
-        "media/2026-11-25/crossi/K1/emily/03.jpg",
-        "media/2026-11-25/crossi/K1/emily/04.jpg",
-        "media/2026-11-25/crossi/K1/emily/05.jpg"
+        "media/2026-11-25/crossi/K1/emily/01.jpg?v=618e588b",
+        "media/2026-11-25/crossi/K1/emily/02.jpg?v=73f575d3",
+        "media/2026-11-25/crossi/K1/emily/03.jpg?v=48f2a45f",
+        "media/2026-11-25/crossi/K1/emily/04.jpg?v=0f9f6f00",
+        "media/2026-11-25/crossi/K1/emily/05.jpg?v=4957f216"
       ],
       "video": "",
       "videos": [],
@@ -9140,10 +9128,10 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7639512005708352270",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/crossi/V1/melanie/01.jpg",
-        "media/2026-11-25/crossi/V1/melanie/02.jpg",
-        "media/2026-11-25/crossi/V1/melanie/03.jpg",
-        "media/2026-11-25/crossi/V1/melanie/04.jpg"
+        "media/2026-11-25/crossi/V1/melanie/01.jpg?v=d6862d25",
+        "media/2026-11-25/crossi/V1/melanie/02.jpg?v=8e828e53",
+        "media/2026-11-25/crossi/V1/melanie/03.jpg?v=2960a49f",
+        "media/2026-11-25/crossi/V1/melanie/04.jpg?v=01094a73"
       ],
       "video": "",
       "videos": [],
@@ -9174,12 +9162,12 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-6956417149732784901",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/A/lyli/01.jpg",
-        "media/2026-11-25/no-contact/A/lyli/02.jpg",
-        "media/2026-11-25/no-contact/A/lyli/03.jpg",
-        "media/2026-11-25/no-contact/A/lyli/04.jpg",
-        "media/2026-11-25/no-contact/A/lyli/05.jpg",
-        "media/2026-11-25/no-contact/A/lyli/06.jpg"
+        "media/2026-11-25/no-contact/A/lyli/01.jpg?v=f434bd76",
+        "media/2026-11-25/no-contact/A/lyli/02.jpg?v=799995c2",
+        "media/2026-11-25/no-contact/A/lyli/03.jpg?v=c7bf92ec",
+        "media/2026-11-25/no-contact/A/lyli/04.jpg?v=2409aa96",
+        "media/2026-11-25/no-contact/A/lyli/05.jpg?v=2b8e9cfa",
+        "media/2026-11-25/no-contact/A/lyli/06.jpg?v=058ba3e4"
       ],
       "video": "",
       "videos": [],
@@ -9212,8 +9200,8 @@
       "music_url": "https://www.tiktok.com/music/to-that-one-person-7067009326149372719",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/H/bette/01.jpg",
-        "media/2026-11-25/no-contact/H/bette/02.jpg"
+        "media/2026-11-25/no-contact/H/bette/01.jpg?v=5f8d7fe5",
+        "media/2026-11-25/no-contact/H/bette/02.jpg?v=30aa0dbd"
       ],
       "video": "",
       "videos": [],
@@ -9242,11 +9230,11 @@
       "music_url": "https://www.tiktok.com/music/all-too-well-7277688033436715782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/I/natalie/01.jpg",
-        "media/2026-11-25/no-contact/I/natalie/02.jpg",
-        "media/2026-11-25/no-contact/I/natalie/03.jpg",
-        "media/2026-11-25/no-contact/I/natalie/04.jpg",
-        "media/2026-11-25/no-contact/I/natalie/05.jpg"
+        "media/2026-11-25/no-contact/I/natalie/01.jpg?v=274798aa",
+        "media/2026-11-25/no-contact/I/natalie/02.jpg?v=5fc31690",
+        "media/2026-11-25/no-contact/I/natalie/03.jpg?v=5928711e",
+        "media/2026-11-25/no-contact/I/natalie/04.jpg?v=546d8d17",
+        "media/2026-11-25/no-contact/I/natalie/05.jpg?v=7ecbfa06"
       ],
       "video": "",
       "videos": [],
@@ -9278,12 +9266,12 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7691825425097575199",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/K/ava/01.jpg",
-        "media/2026-11-25/no-contact/K/ava/02.jpg",
-        "media/2026-11-25/no-contact/K/ava/03.jpg",
-        "media/2026-11-25/no-contact/K/ava/04.jpg",
-        "media/2026-11-25/no-contact/K/ava/05.jpg",
-        "media/2026-11-25/no-contact/K/ava/06.jpg"
+        "media/2026-11-25/no-contact/K/ava/01.jpg?v=0e6d00df",
+        "media/2026-11-25/no-contact/K/ava/02.jpg?v=174766f4",
+        "media/2026-11-25/no-contact/K/ava/03.jpg?v=bf7d8f8f",
+        "media/2026-11-25/no-contact/K/ava/04.jpg?v=d396b3ba",
+        "media/2026-11-25/no-contact/K/ava/05.jpg?v=82a7cd93",
+        "media/2026-11-25/no-contact/K/ava/06.jpg?v=373b3abd"
       ],
       "video": "",
       "videos": [],
@@ -9316,9 +9304,9 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/TB6/emma/01.jpg",
-        "media/2026-11-25/no-contact/TB6/emma/02.jpg",
-        "media/2026-11-25/no-contact/TB6/emma/03.jpg"
+        "media/2026-11-25/no-contact/TB6/emma/01.jpg?v=96c75c98",
+        "media/2026-11-25/no-contact/TB6/emma/02.jpg?v=99f1e811",
+        "media/2026-11-25/no-contact/TB6/emma/03.jpg?v=0b00d2fb"
       ],
       "video": "",
       "videos": [],
@@ -9348,9 +9336,9 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/TG15/chloe/01.jpg",
-        "media/2026-11-25/no-contact/TG15/chloe/02.jpg",
-        "media/2026-11-25/no-contact/TG15/chloe/03.jpg"
+        "media/2026-11-25/no-contact/TG15/chloe/01.jpg?v=9cc824b3",
+        "media/2026-11-25/no-contact/TG15/chloe/02.jpg?v=11ca6bc8",
+        "media/2026-11-25/no-contact/TG15/chloe/03.jpg?v=95300d2c"
       ],
       "video": "",
       "videos": [],
@@ -9380,17 +9368,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7467694112192449310",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/VA1/mira/01.jpg"
+        "media/2026-11-25/no-contact/VA1/mira/01.jpg?v=7e2d1523"
       ],
-      "video": "media/2026-11-25/no-contact/VA1/mira/video.mp4",
+      "video": "media/2026-11-25/no-contact/VA1/mira/video.mp4?v=be9df100",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC buồn — Mint đang quay)",
-          "src": "media/2026-11-25/no-contact/VA1/mira/ugc.mp4"
+          "src": "media/2026-11-25/no-contact/VA1/mira/ugc.mp4?v=3d3d039e"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-25/no-contact/VA1/mira/demo.mp4"
+          "src": "media/2026-11-25/no-contact/VA1/mira/demo.mp4?v=54bb2314"
         }
       ],
       "slide_text": [],
@@ -9426,17 +9414,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7482455072370641686",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/VA2/peyton/01.jpg"
+        "media/2026-11-25/no-contact/VA2/peyton/01.jpg?v=2bd428b8"
       ],
-      "video": "media/2026-11-25/no-contact/VA2/peyton/video.mp4",
+      "video": "media/2026-11-25/no-contact/VA2/peyton/video.mp4?v=c36e5a72",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC thờ ơ — Mint đang quay)",
-          "src": "media/2026-11-25/no-contact/VA2/peyton/ugc.mp4"
+          "src": "media/2026-11-25/no-contact/VA2/peyton/ugc.mp4?v=da65ff9a"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-25/no-contact/VA2/peyton/demo.mp4"
+          "src": "media/2026-11-25/no-contact/VA2/peyton/demo.mp4?v=35d2c636"
         }
       ],
       "slide_text": [],
@@ -9472,17 +9460,17 @@
       "music_url": "https://www.tiktok.com/music/Ja-te-laisserai-7457298924173265670",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-25/no-contact/VA3/luna/01.jpg"
+        "media/2026-11-25/no-contact/VA3/luna/01.jpg?v=20d25871"
       ],
-      "video": "media/2026-11-25/no-contact/VA3/luna/video.mp4",
+      "video": "media/2026-11-25/no-contact/VA3/luna/video.mp4?v=11927375",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC khóc — Mint đang quay)",
-          "src": "media/2026-11-25/no-contact/VA3/luna/ugc.mp4"
+          "src": "media/2026-11-25/no-contact/VA3/luna/ugc.mp4?v=c6d61961"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-25/no-contact/VA3/luna/demo.mp4"
+          "src": "media/2026-11-25/no-contact/VA3/luna/demo.mp4?v=b186bf46"
         }
       ],
       "slide_text": [],
@@ -9518,17 +9506,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7633664090220645646",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-25/stombers/ua-video/A/01.jpg"
+        "media/2026-11-25/stombers/ua-video/A/01.jpg?v=78277d45"
       ],
-      "video": "media/2026-11-25/stombers/ua-video/A/video.mp4",
+      "video": "media/2026-11-25/stombers/ua-video/A/video.mp4?v=c483c912",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-25/stombers/ua-video/A/ugc.mp4"
+          "label": "Source UGC #7 (3–8s) https://www.pinterest.com/pin/926967535798965288/",
+          "src": "media/2026-11-25/stombers/ua-video/A/ugc.mp4?v=456bd533"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-25/stombers/ua-video/A/demo.mp4"
+          "label": "Demo app: màn đường đua ST-22",
+          "src": "media/2026-11-25/stombers/ua-video/A/demo.mp4?v=bb27ed44"
         }
       ],
       "slide_text": [],
@@ -9539,9 +9527,7 @@
         }
       ],
       "plan_req": "T4 · 25/11 · video · Đua với bạn thân\nHook: POV you and your bff started a step competition to see who gets the most steps\nCaption: honestly my favorite motivation to get my steps in #steps #walking #stepchallenge #bestfriend #fyp\nSố trên màn đua: Hạng 2/2 · 420 bước để vượt\nSound: S3 · original sound - Deo M. Divinagracia (903K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: POV you and your bff started a step competition to see who gets the most steps\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-25__stombers__ua-video__B",
@@ -9560,17 +9546,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7664729714321313038",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-25/stombers/ua-video/B/01.jpg"
+        "media/2026-11-25/stombers/ua-video/B/01.jpg?v=17db6845"
       ],
-      "video": "media/2026-11-25/stombers/ua-video/B/video.mp4",
+      "video": "media/2026-11-25/stombers/ua-video/B/video.mp4?v=94bcdfb2",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-25/stombers/ua-video/B/ugc.mp4"
+          "label": "Source UGC #15 (0–5s) https://www.pinterest.com/pin/929360073115742388/",
+          "src": "media/2026-11-25/stombers/ua-video/B/ugc.mp4?v=d77ba163"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-25/stombers/ua-video/B/demo.mp4"
+          "label": "Demo app: màn đường đua ST-29",
+          "src": "media/2026-11-25/stombers/ua-video/B/demo.mp4?v=fdb15c17"
         }
       ],
       "slide_text": [],
@@ -9581,9 +9567,7 @@
         }
       ],
       "plan_req": "T4 · 25/11 · video · Công ty / PTO\nHook: when my office starts a step competition and winner gets thanksgiving week off but they don't know who they're dealing with\nCaption: that week off is mine #steps #walking #stepchallenge #corporatelife #fyp\nSố trên màn đua: Hạng 1/15 · 22,640 bước hôm nay\nSound: S2 · Heaven and Hell / Can-Can (MACHO music) (2.2M view)\nCảnh 1: Clip UGC đang đi bộ — chữ: when my office starts a step competition and winner gets thanksgiving week off but they don't know who they're dealing with\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-25__stombers__ua-video__C",
@@ -9602,17 +9586,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7703064212976766222",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-25/stombers/ua-video/C/01.jpg"
+        "media/2026-11-25/stombers/ua-video/C/01.jpg?v=379a01e4"
       ],
-      "video": "media/2026-11-25/stombers/ua-video/C/video.mp4",
+      "video": "media/2026-11-25/stombers/ua-video/C/video.mp4?v=752881be",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-25/stombers/ua-video/C/ugc.mp4"
+          "label": "Source UGC #4 (0–3s) https://www.pinterest.com/pin/216595063322277276/",
+          "src": "media/2026-11-25/stombers/ua-video/C/ugc.mp4?v=c1487f13"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-25/stombers/ua-video/C/demo.mp4"
+          "label": "Demo app: màn đường đua ST-36",
+          "src": "media/2026-11-25/stombers/ua-video/C/demo.mp4?v=a042f0c3"
         }
       ],
       "slide_text": [],
@@ -9623,9 +9607,7 @@
         }
       ],
       "plan_req": "T4 · 25/11 · video · 4th walk + cược\nHook: when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a step competition where loser brings the pie to friendsgiving 🥧\nCaption: i can't bake so i have to win #steps #walking #stepchallenge #friendsgiving #fyp\nSố trên màn đua: Hạng 3/6 · 170 bước để vượt\nSound: S4 · Gangnam Style - Vértice Noticias (659K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a step competition where loser brings the pie to friendsgiving 🥧\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-26__crossi__VS1__melanie",
@@ -9644,17 +9626,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7656149567334894350",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/crossi/VS1/melanie/01.jpg"
+        "media/2026-11-26/crossi/VS1/melanie/01.jpg?v=7d11c3f6"
       ],
-      "video": "media/2026-11-26/crossi/VS1/melanie/video.mp4",
+      "video": "media/2026-11-26/crossi/VS1/melanie/video.mp4?v=791b97ef",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC sốc — Mint đang quay)",
-          "src": "media/2026-11-26/crossi/VS1/melanie/ugc.mp4"
+          "src": "media/2026-11-26/crossi/VS1/melanie/ugc.mp4?v=53a44d7e"
         },
         {
           "label": "Demo app (5.0s)",
-          "src": "media/2026-11-26/crossi/VS1/melanie/demo.mp4"
+          "src": "media/2026-11-26/crossi/VS1/melanie/demo.mp4?v=177a7cd7"
         }
       ],
       "slide_text": [],
@@ -9690,17 +9672,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7595990081513573153",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/crossi/VS2/emily/01.jpg"
+        "media/2026-11-26/crossi/VS2/emily/01.jpg?v=942a4d56"
       ],
-      "video": "media/2026-11-26/crossi/VS2/emily/video.mp4",
+      "video": "media/2026-11-26/crossi/VS2/emily/video.mp4?v=eca7a807",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC tự tin — Mint đang quay)",
-          "src": "media/2026-11-26/crossi/VS2/emily/ugc.mp4"
+          "src": "media/2026-11-26/crossi/VS2/emily/ugc.mp4?v=fcb5614b"
         },
         {
           "label": "Demo app (5.0s)",
-          "src": "media/2026-11-26/crossi/VS2/emily/demo.mp4"
+          "src": "media/2026-11-26/crossi/VS2/emily/demo.mp4?v=b73cd298"
         }
       ],
       "slide_text": [],
@@ -9736,11 +9718,11 @@
       "music_url": "https://www.tiktok.com/music/Originalton-7569683320813013782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/E/natalie/01.jpg",
-        "media/2026-11-26/no-contact/E/natalie/02.jpg",
-        "media/2026-11-26/no-contact/E/natalie/03.jpg",
-        "media/2026-11-26/no-contact/E/natalie/04.jpg",
-        "media/2026-11-26/no-contact/E/natalie/05.jpg"
+        "media/2026-11-26/no-contact/E/natalie/01.jpg?v=f4f89400",
+        "media/2026-11-26/no-contact/E/natalie/02.jpg?v=107e2de9",
+        "media/2026-11-26/no-contact/E/natalie/03.jpg?v=aa38d035",
+        "media/2026-11-26/no-contact/E/natalie/04.jpg?v=d58e2058",
+        "media/2026-11-26/no-contact/E/natalie/05.jpg?v=7bb897ea"
       ],
       "video": "",
       "videos": [],
@@ -9772,11 +9754,11 @@
       "music_url": "https://www.tiktok.com/music/all-too-well-7277688033436715782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/I/bette/01.jpg",
-        "media/2026-11-26/no-contact/I/bette/02.jpg",
-        "media/2026-11-26/no-contact/I/bette/03.jpg",
-        "media/2026-11-26/no-contact/I/bette/04.jpg",
-        "media/2026-11-26/no-contact/I/bette/05.jpg"
+        "media/2026-11-26/no-contact/I/bette/01.jpg?v=ff6a44df",
+        "media/2026-11-26/no-contact/I/bette/02.jpg?v=899aab69",
+        "media/2026-11-26/no-contact/I/bette/03.jpg?v=08f3209b",
+        "media/2026-11-26/no-contact/I/bette/04.jpg?v=546d8d17",
+        "media/2026-11-26/no-contact/I/bette/05.jpg?v=f57be0f9"
       ],
       "video": "",
       "videos": [],
@@ -9808,9 +9790,9 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7703536771614771999",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/J/mira/01.jpg",
-        "media/2026-11-26/no-contact/J/mira/02.jpg",
-        "media/2026-11-26/no-contact/J/mira/03.jpg"
+        "media/2026-11-26/no-contact/J/mira/01.jpg?v=1ba0359e",
+        "media/2026-11-26/no-contact/J/mira/02.jpg?v=9452d3f7",
+        "media/2026-11-26/no-contact/J/mira/03.jpg?v=44f0d95a"
       ],
       "video": "",
       "videos": [],
@@ -9840,12 +9822,12 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7691825425097575199",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/K/luna/01.jpg",
-        "media/2026-11-26/no-contact/K/luna/02.jpg",
-        "media/2026-11-26/no-contact/K/luna/03.jpg",
-        "media/2026-11-26/no-contact/K/luna/04.jpg",
-        "media/2026-11-26/no-contact/K/luna/05.jpg",
-        "media/2026-11-26/no-contact/K/luna/06.jpg"
+        "media/2026-11-26/no-contact/K/luna/01.jpg?v=d7878de2",
+        "media/2026-11-26/no-contact/K/luna/02.jpg?v=bc86905c",
+        "media/2026-11-26/no-contact/K/luna/03.jpg?v=7d59ec5b",
+        "media/2026-11-26/no-contact/K/luna/04.jpg?v=ac5c1c2e",
+        "media/2026-11-26/no-contact/K/luna/05.jpg?v=694c63c4",
+        "media/2026-11-26/no-contact/K/luna/06.jpg?v=373b3abd"
       ],
       "video": "",
       "videos": [],
@@ -9878,9 +9860,9 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/P1/ava/01.jpg",
-        "media/2026-11-26/no-contact/P1/ava/02.jpg",
-        "media/2026-11-26/no-contact/P1/ava/03.jpg"
+        "media/2026-11-26/no-contact/P1/ava/01.jpg?v=37087efd",
+        "media/2026-11-26/no-contact/P1/ava/02.jpg?v=8b427b60",
+        "media/2026-11-26/no-contact/P1/ava/03.jpg?v=7aa7a489"
       ],
       "video": "",
       "videos": [],
@@ -9910,17 +9892,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/TB7/lyli/01.jpg"
+        "media/2026-11-26/no-contact/TB7/lyli/01.jpg?v=9382470b"
       ],
-      "video": "media/2026-11-26/no-contact/TB7/lyli/video.mp4",
+      "video": "media/2026-11-26/no-contact/TB7/lyli/video.mp4?v=0f09a9b6",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC khóc — Mint đang quay)",
-          "src": "media/2026-11-26/no-contact/TB7/lyli/ugc.mp4"
+          "src": "media/2026-11-26/no-contact/TB7/lyli/ugc.mp4?v=c6d61961"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-26/no-contact/TB7/lyli/demo.mp4"
+          "src": "media/2026-11-26/no-contact/TB7/lyli/demo.mp4?v=150aa513"
         }
       ],
       "slide_text": [],
@@ -9956,10 +9938,10 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/TG10/peyton/01.jpg",
-        "media/2026-11-26/no-contact/TG10/peyton/02.jpg",
-        "media/2026-11-26/no-contact/TG10/peyton/03.jpg",
-        "media/2026-11-26/no-contact/TG10/peyton/04.jpg"
+        "media/2026-11-26/no-contact/TG10/peyton/01.jpg?v=6cd92c49",
+        "media/2026-11-26/no-contact/TG10/peyton/02.jpg?v=d671da9a",
+        "media/2026-11-26/no-contact/TG10/peyton/03.jpg?v=1b2de838",
+        "media/2026-11-26/no-contact/TG10/peyton/04.jpg?v=5edd956b"
       ],
       "video": "",
       "videos": [],
@@ -9994,17 +9976,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7482455072370641686",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/VA2/chloe/01.jpg"
+        "media/2026-11-26/no-contact/VA2/chloe/01.jpg?v=dd0f59b7"
       ],
-      "video": "media/2026-11-26/no-contact/VA2/chloe/video.mp4",
+      "video": "media/2026-11-26/no-contact/VA2/chloe/video.mp4?v=054fdb91",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC thờ ơ — Mint đang quay)",
-          "src": "media/2026-11-26/no-contact/VA2/chloe/ugc.mp4"
+          "src": "media/2026-11-26/no-contact/VA2/chloe/ugc.mp4?v=da65ff9a"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-26/no-contact/VA2/chloe/demo.mp4"
+          "src": "media/2026-11-26/no-contact/VA2/chloe/demo.mp4?v=9f9efc93"
         }
       ],
       "slide_text": [],
@@ -10040,17 +10022,17 @@
       "music_url": "https://www.tiktok.com/music/Ja-te-laisserai-7457298924173265670",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-26/no-contact/VA3/emma/01.jpg"
+        "media/2026-11-26/no-contact/VA3/emma/01.jpg?v=09887854"
       ],
-      "video": "media/2026-11-26/no-contact/VA3/emma/video.mp4",
+      "video": "media/2026-11-26/no-contact/VA3/emma/video.mp4?v=517fa283",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC khóc — Mint đang quay)",
-          "src": "media/2026-11-26/no-contact/VA3/emma/ugc.mp4"
+          "src": "media/2026-11-26/no-contact/VA3/emma/ugc.mp4?v=c6d61961"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-26/no-contact/VA3/emma/demo.mp4"
+          "src": "media/2026-11-26/no-contact/VA3/emma/demo.mp4?v=7c1daeb7"
         }
       ],
       "slide_text": [],
@@ -10086,17 +10068,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7703064212976766222",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-26/stombers/ua-video/A/01.jpg"
+        "media/2026-11-26/stombers/ua-video/A/01.jpg?v=93000c12"
       ],
-      "video": "media/2026-11-26/stombers/ua-video/A/video.mp4",
+      "video": "media/2026-11-26/stombers/ua-video/A/video.mp4?v=bca8abcc",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-26/stombers/ua-video/A/ugc.mp4"
+          "label": "Source UGC #12 (3–8s) https://www.pinterest.com/pin/694961786264126111/",
+          "src": "media/2026-11-26/stombers/ua-video/A/ugc.mp4?v=e9ff954f"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-26/stombers/ua-video/A/demo.mp4"
+          "label": "Demo app: màn đường đua ST-23",
+          "src": "media/2026-11-26/stombers/ua-video/A/demo.mp4?v=b365efa4"
         }
       ],
       "slide_text": [],
@@ -10107,9 +10089,7 @@
         }
       ],
       "plan_req": "T5 · 26/11 · video · 4th walk + cược\nHook: when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a step competition where loser hosts friendsgiving 🦃\nCaption: i am NOT cooking a turkey this year #steps #walking #stepchallenge #thanksgiving #friendsgiving #fyp\nSố trên màn đua: Hạng 3/6 · 180 bước để vượt\nSound: S4 · Gangnam Style - Vértice Noticias (659K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: when you're on your 4th walk of the day bc your friends thought it'd be a good idea to start a step competition where loser hosts friendsgiving 🦃\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-26__stombers__ua-video__B",
@@ -10128,17 +10108,17 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-26/stombers/ua-video/B/01.jpg"
+        "media/2026-11-26/stombers/ua-video/B/01.jpg?v=68ab0828"
       ],
-      "video": "media/2026-11-26/stombers/ua-video/B/video.mp4",
+      "video": "media/2026-11-26/stombers/ua-video/B/video.mp4?v=335cc012",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-26/stombers/ua-video/B/ugc.mp4"
+          "label": "Source UGC #9 (3–6.2s) https://www.pinterest.com/pin/981081100066498196/",
+          "src": "media/2026-11-26/stombers/ua-video/B/ugc.mp4?v=da287c2c"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-26/stombers/ua-video/B/demo.mp4"
+          "label": "Demo app: màn đường đua ST-30",
+          "src": "media/2026-11-26/stombers/ua-video/B/demo.mp4?v=58a10bd2"
         }
       ],
       "slide_text": [],
@@ -10149,9 +10129,7 @@
         }
       ],
       "plan_req": "T5 · 26/11 · video · 4th walk + cược\nHook: POV it's thanksgiving and i'm on my 4th walk of the day bc my friends started a step competition where loser does the dishes\nCaption: not doing the dishes this year #steps #walking #stepchallenge #thanksgiving #fyp\nSố trên màn đua: Hạng 2/6 · 140 bước để vượt\nSound: S1 · original sound - TuDía13 (4.7M view)\nCảnh 1: Clip UGC đang đi bộ — chữ: POV it's thanksgiving and i'm on my 4th walk of the day bc my friends started a step competition where loser does the dishes\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-26__stombers__ua-video__C",
@@ -10170,17 +10148,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7664729714321313038",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-26/stombers/ua-video/C/01.jpg"
+        "media/2026-11-26/stombers/ua-video/C/01.jpg?v=960abb25"
       ],
-      "video": "media/2026-11-26/stombers/ua-video/C/video.mp4",
+      "video": "media/2026-11-26/stombers/ua-video/C/video.mp4?v=6db123db",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-26/stombers/ua-video/C/ugc.mp4"
+          "label": "Source UGC #1 (0–5.9s) https://www.pinterest.com/pin/710442910017265828/",
+          "src": "media/2026-11-26/stombers/ua-video/C/ugc.mp4?v=50d52f43"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-26/stombers/ua-video/C/demo.mp4"
+          "label": "Demo app: màn đường đua ST-37",
+          "src": "media/2026-11-26/stombers/ua-video/C/demo.mp4?v=b93978f0"
         }
       ],
       "slide_text": [],
@@ -10191,9 +10169,7 @@
         }
       ],
       "plan_req": "T5 · 26/11 · video · 30k steps trend\nHook: me walking off thanksgiving dinner bc i'm 300 steps behind in our step competition\nCaption: turkey first, steps second #steps #walking #stepchallenge #thanksgiving #fyp\nSố trên màn đua: Hạng 2/6 · 300 bước để vượt\nSound: S2 · Heaven and Hell / Can-Can (MACHO music) (2.2M view)\nCảnh 1: Clip UGC đang đi bộ — chữ: me walking off thanksgiving dinner bc i'm 300 steps behind in our step competition\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-27__crossi__V2__melanie",
@@ -10212,13 +10188,13 @@
       "music_url": "https://www.tiktok.com/music/son-original-7613789876936313622",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/crossi/V2/melanie/01.jpg",
-        "media/2026-11-27/crossi/V2/melanie/02.jpg",
-        "media/2026-11-27/crossi/V2/melanie/03.jpg",
-        "media/2026-11-27/crossi/V2/melanie/04.jpg",
-        "media/2026-11-27/crossi/V2/melanie/05.jpg",
-        "media/2026-11-27/crossi/V2/melanie/06.jpg",
-        "media/2026-11-27/crossi/V2/melanie/07.jpg"
+        "media/2026-11-27/crossi/V2/melanie/01.jpg?v=a1bce05e",
+        "media/2026-11-27/crossi/V2/melanie/02.jpg?v=8088b0c8",
+        "media/2026-11-27/crossi/V2/melanie/03.jpg?v=04ca7ac9",
+        "media/2026-11-27/crossi/V2/melanie/04.jpg?v=8de002a1",
+        "media/2026-11-27/crossi/V2/melanie/05.jpg?v=53dca028",
+        "media/2026-11-27/crossi/V2/melanie/06.jpg?v=ea1bd114",
+        "media/2026-11-27/crossi/V2/melanie/07.jpg?v=43ddca9b"
       ],
       "video": "",
       "videos": [],
@@ -10252,20 +10228,20 @@
       "music_url": "https://www.tiktok.com/music/drop-dead-7628647481840404481",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/crossi/V4/emily/01.jpg",
-        "media/2026-11-27/crossi/V4/emily/02.jpg",
-        "media/2026-11-27/crossi/V4/emily/03.jpg",
-        "media/2026-11-27/crossi/V4/emily/04.jpg",
-        "media/2026-11-27/crossi/V4/emily/05.jpg",
-        "media/2026-11-27/crossi/V4/emily/06.jpg",
-        "media/2026-11-27/crossi/V4/emily/07.jpg",
-        "media/2026-11-27/crossi/V4/emily/08.jpg",
-        "media/2026-11-27/crossi/V4/emily/09.jpg",
-        "media/2026-11-27/crossi/V4/emily/10.jpg",
-        "media/2026-11-27/crossi/V4/emily/11.jpg",
-        "media/2026-11-27/crossi/V4/emily/12.jpg",
-        "media/2026-11-27/crossi/V4/emily/13.jpg",
-        "media/2026-11-27/crossi/V4/emily/14.jpg"
+        "media/2026-11-27/crossi/V4/emily/01.jpg?v=4861c44e",
+        "media/2026-11-27/crossi/V4/emily/02.jpg?v=71c4daf3",
+        "media/2026-11-27/crossi/V4/emily/03.jpg?v=d163a97c",
+        "media/2026-11-27/crossi/V4/emily/04.jpg?v=23f8d7ed",
+        "media/2026-11-27/crossi/V4/emily/05.jpg?v=f480dc56",
+        "media/2026-11-27/crossi/V4/emily/06.jpg?v=39594c9f",
+        "media/2026-11-27/crossi/V4/emily/07.jpg?v=b595ef64",
+        "media/2026-11-27/crossi/V4/emily/08.jpg?v=23f8d7ed",
+        "media/2026-11-27/crossi/V4/emily/09.jpg?v=798edac4",
+        "media/2026-11-27/crossi/V4/emily/10.jpg?v=b8eebc01",
+        "media/2026-11-27/crossi/V4/emily/11.jpg?v=5e5b1222",
+        "media/2026-11-27/crossi/V4/emily/12.jpg?v=9c6792c0",
+        "media/2026-11-27/crossi/V4/emily/13.jpg?v=8d99256a",
+        "media/2026-11-27/crossi/V4/emily/14.jpg?v=d46be440"
       ],
       "video": "",
       "videos": [],
@@ -10306,12 +10282,12 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-6956417149732784901",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/A/mira/01.jpg",
-        "media/2026-11-27/no-contact/A/mira/02.jpg",
-        "media/2026-11-27/no-contact/A/mira/03.jpg",
-        "media/2026-11-27/no-contact/A/mira/04.jpg",
-        "media/2026-11-27/no-contact/A/mira/05.jpg",
-        "media/2026-11-27/no-contact/A/mira/06.jpg"
+        "media/2026-11-27/no-contact/A/mira/01.jpg?v=23beb838",
+        "media/2026-11-27/no-contact/A/mira/02.jpg?v=0ccbf3a9",
+        "media/2026-11-27/no-contact/A/mira/03.jpg?v=765237bf",
+        "media/2026-11-27/no-contact/A/mira/04.jpg?v=c6668cf0",
+        "media/2026-11-27/no-contact/A/mira/05.jpg?v=2b8e9cfa",
+        "media/2026-11-27/no-contact/A/mira/06.jpg?v=a313aa25"
       ],
       "video": "",
       "videos": [],
@@ -10344,11 +10320,11 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7640939101746727711",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/B/lyli/01.jpg",
-        "media/2026-11-27/no-contact/B/lyli/02.jpg",
-        "media/2026-11-27/no-contact/B/lyli/03.jpg",
-        "media/2026-11-27/no-contact/B/lyli/04.jpg",
-        "media/2026-11-27/no-contact/B/lyli/05.jpg"
+        "media/2026-11-27/no-contact/B/lyli/01.jpg?v=f0988028",
+        "media/2026-11-27/no-contact/B/lyli/02.jpg?v=519bb3a1",
+        "media/2026-11-27/no-contact/B/lyli/03.jpg?v=5b5a7a46",
+        "media/2026-11-27/no-contact/B/lyli/04.jpg?v=1687570a",
+        "media/2026-11-27/no-contact/B/lyli/05.jpg?v=f051103d"
       ],
       "video": "",
       "videos": [],
@@ -10380,11 +10356,11 @@
       "music_url": "https://www.tiktok.com/music/Originalton-7569683320813013782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/E/peyton/01.jpg",
-        "media/2026-11-27/no-contact/E/peyton/02.jpg",
-        "media/2026-11-27/no-contact/E/peyton/03.jpg",
-        "media/2026-11-27/no-contact/E/peyton/04.jpg",
-        "media/2026-11-27/no-contact/E/peyton/05.jpg"
+        "media/2026-11-27/no-contact/E/peyton/01.jpg?v=d671da9a",
+        "media/2026-11-27/no-contact/E/peyton/02.jpg?v=5edd956b",
+        "media/2026-11-27/no-contact/E/peyton/03.jpg?v=d671da9a",
+        "media/2026-11-27/no-contact/E/peyton/04.jpg?v=6cd92c49",
+        "media/2026-11-27/no-contact/E/peyton/05.jpg?v=77a177bb"
       ],
       "video": "",
       "videos": [],
@@ -10421,11 +10397,11 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7672894552029563680",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/F/luna/01.jpg",
-        "media/2026-11-27/no-contact/F/luna/02.jpg",
-        "media/2026-11-27/no-contact/F/luna/03.jpg",
-        "media/2026-11-27/no-contact/F/luna/04.jpg",
-        "media/2026-11-27/no-contact/F/luna/05.jpg"
+        "media/2026-11-27/no-contact/F/luna/01.jpg?v=5eeb36d9",
+        "media/2026-11-27/no-contact/F/luna/02.jpg?v=6d6ba252",
+        "media/2026-11-27/no-contact/F/luna/03.jpg?v=32bb0cbc",
+        "media/2026-11-27/no-contact/F/luna/04.jpg?v=8117992a",
+        "media/2026-11-27/no-contact/F/luna/05.jpg?v=16c59ed8"
       ],
       "video": "",
       "videos": [],
@@ -10457,8 +10433,8 @@
       "music_url": "https://www.tiktok.com/music/to-that-one-person-7067009326149372719",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/H/natalie/01.jpg",
-        "media/2026-11-27/no-contact/H/natalie/02.jpg"
+        "media/2026-11-27/no-contact/H/natalie/01.jpg?v=5a4b1c2d",
+        "media/2026-11-27/no-contact/H/natalie/02.jpg?v=f9aa1868"
       ],
       "video": "",
       "videos": [],
@@ -10489,11 +10465,11 @@
       "music_url": "https://www.tiktok.com/music/all-too-well-7277688033436715782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/I/emma/01.jpg",
-        "media/2026-11-27/no-contact/I/emma/02.jpg",
-        "media/2026-11-27/no-contact/I/emma/03.jpg",
-        "media/2026-11-27/no-contact/I/emma/04.jpg",
-        "media/2026-11-27/no-contact/I/emma/05.jpg"
+        "media/2026-11-27/no-contact/I/emma/01.jpg?v=96c75c98",
+        "media/2026-11-27/no-contact/I/emma/02.jpg?v=a993ebcf",
+        "media/2026-11-27/no-contact/I/emma/03.jpg?v=909a2671",
+        "media/2026-11-27/no-contact/I/emma/04.jpg?v=546d8d17",
+        "media/2026-11-27/no-contact/I/emma/05.jpg?v=8e59f429"
       ],
       "video": "",
       "videos": [],
@@ -10525,9 +10501,9 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7703536771614771999",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/J/chloe/01.jpg",
-        "media/2026-11-27/no-contact/J/chloe/02.jpg",
-        "media/2026-11-27/no-contact/J/chloe/03.jpg"
+        "media/2026-11-27/no-contact/J/chloe/01.jpg?v=44fd8c3d",
+        "media/2026-11-27/no-contact/J/chloe/02.jpg?v=9452d3f7",
+        "media/2026-11-27/no-contact/J/chloe/03.jpg?v=67085fde"
       ],
       "video": "",
       "videos": [],
@@ -10557,17 +10533,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7482455072370641686",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/VA2/bette/01.jpg"
+        "media/2026-11-27/no-contact/VA2/bette/01.jpg?v=61403803"
       ],
-      "video": "media/2026-11-27/no-contact/VA2/bette/video.mp4",
+      "video": "media/2026-11-27/no-contact/VA2/bette/video.mp4?v=0e169503",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC thờ ơ — Mint đang quay)",
-          "src": "media/2026-11-27/no-contact/VA2/bette/ugc.mp4"
+          "src": "media/2026-11-27/no-contact/VA2/bette/ugc.mp4?v=da65ff9a"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-27/no-contact/VA2/bette/demo.mp4"
+          "src": "media/2026-11-27/no-contact/VA2/bette/demo.mp4?v=0d11ab72"
         }
       ],
       "slide_text": [],
@@ -10603,17 +10579,17 @@
       "music_url": "https://www.tiktok.com/music/Ja-te-laisserai-7457298924173265670",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-27/no-contact/VA3/ava/01.jpg"
+        "media/2026-11-27/no-contact/VA3/ava/01.jpg?v=3d4e5976"
       ],
-      "video": "media/2026-11-27/no-contact/VA3/ava/video.mp4",
+      "video": "media/2026-11-27/no-contact/VA3/ava/video.mp4?v=6c7644fd",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC khóc — Mint đang quay)",
-          "src": "media/2026-11-27/no-contact/VA3/ava/ugc.mp4"
+          "src": "media/2026-11-27/no-contact/VA3/ava/ugc.mp4?v=c6d61961"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-27/no-contact/VA3/ava/demo.mp4"
+          "src": "media/2026-11-27/no-contact/VA3/ava/demo.mp4?v=697d5cc4"
         }
       ],
       "slide_text": [],
@@ -10649,17 +10625,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7703064212976766222",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-27/stombers/ua-video/A/01.jpg"
+        "media/2026-11-27/stombers/ua-video/A/01.jpg?v=71c54ddf"
       ],
-      "video": "media/2026-11-27/stombers/ua-video/A/video.mp4",
+      "video": "media/2026-11-27/stombers/ua-video/A/video.mp4?v=36fcd103",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-27/stombers/ua-video/A/ugc.mp4"
+          "label": "Source UGC #2 (0–8s) https://www.pinterest.com/pin/300967187617311293/",
+          "src": "media/2026-11-27/stombers/ua-video/A/ugc.mp4?v=1eb42ed6"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-27/stombers/ua-video/A/demo.mp4"
+          "label": "Demo app: màn đường đua ST-24",
+          "src": "media/2026-11-27/stombers/ua-video/A/demo.mp4?v=c0668021"
         }
       ],
       "slide_text": [],
@@ -10670,9 +10646,7 @@
         }
       ],
       "plan_req": "T6 · 27/11 · video · 30k steps trend\nHook: me after seeing that girls 30 days of 30k steps a day results\nCaption: i need to lock in #steps #walking #stepchallenge #30ksteps #fyp\nSố trên màn đua: Hạng 1/5 · 30,240 bước hôm nay\nSound: S4 · Gangnam Style - Vértice Noticias (659K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: me after seeing that girls 30 days of 30k steps a day results\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-27__stombers__ua-video__B",
@@ -10691,17 +10665,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7664729714321313038",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-27/stombers/ua-video/B/01.jpg"
+        "media/2026-11-27/stombers/ua-video/B/01.jpg?v=1aa76e66"
       ],
-      "video": "media/2026-11-27/stombers/ua-video/B/video.mp4",
+      "video": "media/2026-11-27/stombers/ua-video/B/video.mp4?v=544b8f2c",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-27/stombers/ua-video/B/ugc.mp4"
+          "label": "Source UGC #13 (0–5s) https://www.pinterest.com/pin/816136763765712509/",
+          "src": "media/2026-11-27/stombers/ua-video/B/ugc.mp4?v=c86b9238"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-27/stombers/ua-video/B/demo.mp4"
+          "label": "Demo app: màn đường đua ST-31",
+          "src": "media/2026-11-27/stombers/ua-video/B/demo.mp4?v=d065a50a"
         }
       ],
       "slide_text": [],
@@ -10712,9 +10686,7 @@
         }
       ],
       "plan_req": "T6 · 27/11 · video · Group chat + cược\nHook: POV everyone in the group chat put in $100 and whoever gets the most steps by the end of the month WINS IT ALL\nCaption: $100 is $100 #steps #walking #stepchallenge #groupchat #fyp\nSố trên màn đua: Hạng 2/7 · 380 bước để vượt\nSound: S2 · Heaven and Hell / Can-Can (MACHO music) (2.2M view)\nCảnh 1: Clip UGC đang đi bộ — chữ: POV everyone in the group chat put in $100 and whoever gets the most steps by the end of the month WINS IT ALL\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-27__stombers__ua-video__C",
@@ -10733,17 +10705,17 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-27/stombers/ua-video/C/01.jpg"
+        "media/2026-11-27/stombers/ua-video/C/01.jpg?v=c1255edb"
       ],
-      "video": "media/2026-11-27/stombers/ua-video/C/video.mp4",
+      "video": "media/2026-11-27/stombers/ua-video/C/video.mp4?v=f739ff3a",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn (cảnh đi trong trung tâm thương mại))",
-          "src": "media/2026-11-27/stombers/ua-video/C/ugc.mp4"
+          "label": "Source UGC #10 (2.3–5.3s) https://www.pinterest.com/pin/981081100065743413/",
+          "src": "media/2026-11-27/stombers/ua-video/C/ugc.mp4?v=6e1b41c4"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-27/stombers/ua-video/C/demo.mp4"
+          "label": "Demo app: màn đường đua ST-38",
+          "src": "media/2026-11-27/stombers/ua-video/C/demo.mp4?v=34faf6ac"
         }
       ],
       "slide_text": [],
@@ -10754,9 +10726,7 @@
         }
       ],
       "plan_req": "T6 · 27/11 · video · 4th walk + cược\nHook: POV it's black friday and i'm walking every store in the mall bc my friends started a step competition where loser buys coffee\nCaption: not here for the deals #steps #walking #stepchallenge #blackfriday #fyp\nSố trên màn đua: Hạng 2/6 · 220 bước để vượt\nSound: S1 · original sound - TuDía13 (4.7M view)\nCảnh 1: Clip UGC đang đi bộ trong trung tâm thương mại — chữ: POV it's black friday and i'm walking every store in the mall bc my friends started a step competition where loser buys coffee\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn (cảnh đi trong trung tâm thương mại)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-28__crossi__VA3__melanie",
@@ -10775,17 +10745,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7657746553037261599",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/crossi/VA3/melanie/01.jpg"
+        "media/2026-11-28/crossi/VA3/melanie/01.jpg?v=9bfc58c4"
       ],
-      "video": "media/2026-11-28/crossi/VA3/melanie/video.mp4",
+      "video": "media/2026-11-28/crossi/VA3/melanie/video.mp4?v=d11a302f",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC xúc động — Mint đang quay)",
-          "src": "media/2026-11-28/crossi/VA3/melanie/ugc.mp4"
+          "src": "media/2026-11-28/crossi/VA3/melanie/ugc.mp4?v=2fe51f03"
         },
         {
           "label": "Demo app (5.0s)",
-          "src": "media/2026-11-28/crossi/VA3/melanie/demo.mp4"
+          "src": "media/2026-11-28/crossi/VA3/melanie/demo.mp4?v=daad6346"
         }
       ],
       "slide_text": [],
@@ -10821,17 +10791,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7516704549929306902",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/crossi/VS3/emily/01.jpg"
+        "media/2026-11-28/crossi/VS3/emily/01.jpg?v=2a415094"
       ],
-      "video": "media/2026-11-28/crossi/VS3/emily/video.mp4",
+      "video": "media/2026-11-28/crossi/VS3/emily/video.mp4?v=12ab3e83",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC tò mò — Mint đang quay)",
-          "src": "media/2026-11-28/crossi/VS3/emily/ugc.mp4"
+          "src": "media/2026-11-28/crossi/VS3/emily/ugc.mp4?v=4e997de1"
         },
         {
           "label": "Demo app (5.0s)",
-          "src": "media/2026-11-28/crossi/VS3/emily/demo.mp4"
+          "src": "media/2026-11-28/crossi/VS3/emily/demo.mp4?v=ddf780f3"
         }
       ],
       "slide_text": [],
@@ -10867,12 +10837,12 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-6956417149732784901",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/A/chloe/01.jpg",
-        "media/2026-11-28/no-contact/A/chloe/02.jpg",
-        "media/2026-11-28/no-contact/A/chloe/03.jpg",
-        "media/2026-11-28/no-contact/A/chloe/04.jpg",
-        "media/2026-11-28/no-contact/A/chloe/05.jpg",
-        "media/2026-11-28/no-contact/A/chloe/06.jpg"
+        "media/2026-11-28/no-contact/A/chloe/01.jpg?v=ab74019d",
+        "media/2026-11-28/no-contact/A/chloe/02.jpg?v=48ed752b",
+        "media/2026-11-28/no-contact/A/chloe/03.jpg?v=6a9daa0a",
+        "media/2026-11-28/no-contact/A/chloe/04.jpg?v=d797944f",
+        "media/2026-11-28/no-contact/A/chloe/05.jpg?v=2b8e9cfa",
+        "media/2026-11-28/no-contact/A/chloe/06.jpg?v=73f86b33"
       ],
       "video": "",
       "videos": [],
@@ -10905,11 +10875,11 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7640939101746727711",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/B/bette/01.jpg",
-        "media/2026-11-28/no-contact/B/bette/02.jpg",
-        "media/2026-11-28/no-contact/B/bette/03.jpg",
-        "media/2026-11-28/no-contact/B/bette/04.jpg",
-        "media/2026-11-28/no-contact/B/bette/05.jpg"
+        "media/2026-11-28/no-contact/B/bette/01.jpg?v=b1085672",
+        "media/2026-11-28/no-contact/B/bette/02.jpg?v=44d59211",
+        "media/2026-11-28/no-contact/B/bette/03.jpg?v=706663dd",
+        "media/2026-11-28/no-contact/B/bette/04.jpg?v=2034ccf0",
+        "media/2026-11-28/no-contact/B/bette/05.jpg?v=48d7d36d"
       ],
       "video": "",
       "videos": [],
@@ -10941,11 +10911,11 @@
       "music_url": "https://www.tiktok.com/music/Originalton-7569683320813013782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/E/luna/01.jpg",
-        "media/2026-11-28/no-contact/E/luna/02.jpg",
-        "media/2026-11-28/no-contact/E/luna/03.jpg",
-        "media/2026-11-28/no-contact/E/luna/04.jpg",
-        "media/2026-11-28/no-contact/E/luna/05.jpg"
+        "media/2026-11-28/no-contact/E/luna/01.jpg?v=34081729",
+        "media/2026-11-28/no-contact/E/luna/02.jpg?v=c498429f",
+        "media/2026-11-28/no-contact/E/luna/03.jpg?v=5eeb36d9",
+        "media/2026-11-28/no-contact/E/luna/04.jpg?v=648a5c73",
+        "media/2026-11-28/no-contact/E/luna/05.jpg?v=38654da1"
       ],
       "video": "",
       "videos": [],
@@ -10977,12 +10947,12 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7691825425097575199",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/K/mira/01.jpg",
-        "media/2026-11-28/no-contact/K/mira/02.jpg",
-        "media/2026-11-28/no-contact/K/mira/03.jpg",
-        "media/2026-11-28/no-contact/K/mira/04.jpg",
-        "media/2026-11-28/no-contact/K/mira/05.jpg",
-        "media/2026-11-28/no-contact/K/mira/06.jpg"
+        "media/2026-11-28/no-contact/K/mira/01.jpg?v=c9cd3da2",
+        "media/2026-11-28/no-contact/K/mira/02.jpg?v=39c7a10c",
+        "media/2026-11-28/no-contact/K/mira/03.jpg?v=91b04823",
+        "media/2026-11-28/no-contact/K/mira/04.jpg?v=b731308b",
+        "media/2026-11-28/no-contact/K/mira/05.jpg?v=2dc73c9f",
+        "media/2026-11-28/no-contact/K/mira/06.jpg?v=373b3abd"
       ],
       "video": "",
       "videos": [],
@@ -11015,17 +10985,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/P3/lyli/01.jpg"
+        "media/2026-11-28/no-contact/P3/lyli/01.jpg?v=823991fa"
       ],
-      "video": "media/2026-11-28/no-contact/P3/lyli/video.mp4",
+      "video": "media/2026-11-28/no-contact/P3/lyli/video.mp4?v=5e4e745b",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC buồn — Mint đang quay)",
-          "src": "media/2026-11-28/no-contact/P3/lyli/ugc.mp4"
+          "src": "media/2026-11-28/no-contact/P3/lyli/ugc.mp4?v=3d3d039e"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-28/no-contact/P3/lyli/demo.mp4"
+          "src": "media/2026-11-28/no-contact/P3/lyli/demo.mp4?v=b8ee09b4"
         }
       ],
       "slide_text": [],
@@ -11061,10 +11031,10 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/TG18/ava/01.jpg",
-        "media/2026-11-28/no-contact/TG18/ava/02.jpg",
-        "media/2026-11-28/no-contact/TG18/ava/03.jpg",
-        "media/2026-11-28/no-contact/TG18/ava/04.jpg"
+        "media/2026-11-28/no-contact/TG18/ava/01.jpg?v=ce311bb0",
+        "media/2026-11-28/no-contact/TG18/ava/02.jpg?v=76f20ed9",
+        "media/2026-11-28/no-contact/TG18/ava/03.jpg?v=179fbdf9",
+        "media/2026-11-28/no-contact/TG18/ava/04.jpg?v=65d66615"
       ],
       "video": "",
       "videos": [],
@@ -11095,17 +11065,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7467694112192449310",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/VA1/peyton/01.jpg"
+        "media/2026-11-28/no-contact/VA1/peyton/01.jpg?v=ab32894f"
       ],
-      "video": "media/2026-11-28/no-contact/VA1/peyton/video.mp4",
+      "video": "media/2026-11-28/no-contact/VA1/peyton/video.mp4?v=48371749",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC buồn — Mint đang quay)",
-          "src": "media/2026-11-28/no-contact/VA1/peyton/ugc.mp4"
+          "src": "media/2026-11-28/no-contact/VA1/peyton/ugc.mp4?v=3d3d039e"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-28/no-contact/VA1/peyton/demo.mp4"
+          "src": "media/2026-11-28/no-contact/VA1/peyton/demo.mp4?v=ab1623b9"
         }
       ],
       "slide_text": [],
@@ -11141,17 +11111,17 @@
       "music_url": "https://www.tiktok.com/music/Ja-te-laisserai-7457298924173265670",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/VA3/natalie/01.jpg"
+        "media/2026-11-28/no-contact/VA3/natalie/01.jpg?v=02fed550"
       ],
-      "video": "media/2026-11-28/no-contact/VA3/natalie/video.mp4",
+      "video": "media/2026-11-28/no-contact/VA3/natalie/video.mp4?v=c993c728",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC khóc — Mint đang quay)",
-          "src": "media/2026-11-28/no-contact/VA3/natalie/ugc.mp4"
+          "src": "media/2026-11-28/no-contact/VA3/natalie/ugc.mp4?v=c6d61961"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-28/no-contact/VA3/natalie/demo.mp4"
+          "src": "media/2026-11-28/no-contact/VA3/natalie/demo.mp4?v=c558202c"
         }
       ],
       "slide_text": [],
@@ -11187,17 +11157,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-28/no-contact/VP1/emma/01.jpg"
+        "media/2026-11-28/no-contact/VP1/emma/01.jpg?v=569ef32c"
       ],
-      "video": "media/2026-11-28/no-contact/VP1/emma/video.mp4",
+      "video": "media/2026-11-28/no-contact/VP1/emma/video.mp4?v=7d3abf42",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC sốc — Mint đang quay)",
-          "src": "media/2026-11-28/no-contact/VP1/emma/ugc.mp4"
+          "src": "media/2026-11-28/no-contact/VP1/emma/ugc.mp4?v=84d17836"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-28/no-contact/VP1/emma/demo.mp4"
+          "src": "media/2026-11-28/no-contact/VP1/emma/demo.mp4?v=fb7bf5df"
         }
       ],
       "slide_text": [],
@@ -11233,17 +11203,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7655045869561040141",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-28/stombers/ua-video/A/01.jpg"
+        "media/2026-11-28/stombers/ua-video/A/01.jpg?v=db18dd6b"
       ],
-      "video": "media/2026-11-28/stombers/ua-video/A/video.mp4",
+      "video": "media/2026-11-28/stombers/ua-video/A/video.mp4?v=b6ee4e8f",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-28/stombers/ua-video/A/ugc.mp4"
+          "label": "Source UGC #5 (3–8s) https://www.pinterest.com/pin/799177896420699008/",
+          "src": "media/2026-11-28/stombers/ua-video/A/ugc.mp4?v=72bf2553"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-28/stombers/ua-video/A/demo.mp4"
+          "label": "Demo app: màn đường đua ST-25",
+          "src": "media/2026-11-28/stombers/ua-video/A/demo.mp4?v=9e1c5fc8"
         }
       ],
       "slide_text": [],
@@ -11254,9 +11224,7 @@
         }
       ],
       "plan_req": "T7 · 28/11 · video · 4th walk + cược\nHook: No one: Me on my 5th walk of the day bc I'm in a step competition w my friends. Loser has to buy coffee\nCaption: the walks are never ending #steps #walking #stepchallenge #competition #fyp\nSố trên màn đua: Hạng 2/5 · 260 bước để vượt\nSound: S5 · original sound - Fuseinatti (317K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: No one: Me on my 5th walk of the day bc I'm in a step competition w my friends. Loser has to buy coffee\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-28__stombers__ua-video__B",
@@ -11275,17 +11243,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7695888925184757006",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-28/stombers/ua-video/B/01.jpg"
+        "media/2026-11-28/stombers/ua-video/B/01.jpg?v=d8bbd924"
       ],
-      "video": "media/2026-11-28/stombers/ua-video/B/video.mp4",
+      "video": "media/2026-11-28/stombers/ua-video/B/video.mp4?v=deb653ec",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-28/stombers/ua-video/B/ugc.mp4"
+          "label": "Source UGC #1 (0–5.9s) https://www.pinterest.com/pin/710442910017265828/",
+          "src": "media/2026-11-28/stombers/ua-video/B/ugc.mp4?v=50d52f43"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-28/stombers/ua-video/B/demo.mp4"
+          "label": "Demo app: màn đường đua ST-32",
+          "src": "media/2026-11-28/stombers/ua-video/B/demo.mp4?v=39da9556"
         }
       ],
       "slide_text": [],
@@ -11296,9 +11264,7 @@
         }
       ],
       "plan_req": "T7 · 28/11 · video · 30k steps trend\nHook: me after seeing that girls 30 days of 30k steps a day results\nCaption: day 1 of 30 #steps #walking #stepchallenge #30ksteps #fyp\nSố trên màn đua: Hạng 1/6 · 31,050 bước hôm nay\nSound: S8 · original sound - Ken Eurich (365K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: me after seeing that girls 30 days of 30k steps a day results\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-28__stombers__ua-video__C",
@@ -11317,17 +11283,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7664729714321313038",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-28/stombers/ua-video/C/01.jpg"
+        "media/2026-11-28/stombers/ua-video/C/01.jpg?v=cae24419"
       ],
-      "video": "media/2026-11-28/stombers/ua-video/C/video.mp4",
+      "video": "media/2026-11-28/stombers/ua-video/C/video.mp4?v=b56f0f74",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-28/stombers/ua-video/C/ugc.mp4"
+          "label": "Source UGC #15 (0–5s) https://www.pinterest.com/pin/929360073115742388/",
+          "src": "media/2026-11-28/stombers/ua-video/C/ugc.mp4?v=d77ba163"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-28/stombers/ua-video/C/demo.mp4"
+          "label": "Demo app: màn đường đua ST-39",
+          "src": "media/2026-11-28/stombers/ua-video/C/demo.mp4?v=cfd4598b"
         }
       ],
       "slide_text": [],
@@ -11338,9 +11304,7 @@
         }
       ],
       "plan_req": "T7 · 28/11 · video · Công ty / PTO\nHook: when my work holds a company wide step competition and winner gets a free week of PTO but they have no idea who they're dealing with\nCaption: i've never been so motivated to get my steps in #steps #walking #stepchallenge #corporatelife #fyp\nSố trên màn đua: Hạng 1/14 · 25,320 bước hôm nay\nSound: S2 · Heaven and Hell / Can-Can (MACHO music) (2.2M view)\nCảnh 1: Clip UGC đang đi bộ — chữ: when my work holds a company wide step competition and winner gets a free week of PTO but they have no idea who they're dealing with\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-29__crossi__N1__melanie",
@@ -11359,12 +11323,12 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7421958305188170526",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/crossi/N1/melanie/01.jpg",
-        "media/2026-11-29/crossi/N1/melanie/02.jpg",
-        "media/2026-11-29/crossi/N1/melanie/03.jpg",
-        "media/2026-11-29/crossi/N1/melanie/04.jpg",
-        "media/2026-11-29/crossi/N1/melanie/05.jpg",
-        "media/2026-11-29/crossi/N1/melanie/06.jpg"
+        "media/2026-11-29/crossi/N1/melanie/01.jpg?v=8088b0c8",
+        "media/2026-11-29/crossi/N1/melanie/02.jpg?v=f48368c8",
+        "media/2026-11-29/crossi/N1/melanie/03.jpg?v=1b70ebeb",
+        "media/2026-11-29/crossi/N1/melanie/04.jpg?v=a1bce05e",
+        "media/2026-11-29/crossi/N1/melanie/05.jpg?v=04ca7ac9",
+        "media/2026-11-29/crossi/N1/melanie/06.jpg?v=9bcea091"
       ],
       "video": "",
       "videos": [],
@@ -11397,13 +11361,13 @@
       "music_url": "https://www.tiktok.com/music/son-original-7613789876936313622",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/crossi/V2/emily/01.jpg",
-        "media/2026-11-29/crossi/V2/emily/02.jpg",
-        "media/2026-11-29/crossi/V2/emily/03.jpg",
-        "media/2026-11-29/crossi/V2/emily/04.jpg",
-        "media/2026-11-29/crossi/V2/emily/05.jpg",
-        "media/2026-11-29/crossi/V2/emily/06.jpg",
-        "media/2026-11-29/crossi/V2/emily/07.jpg"
+        "media/2026-11-29/crossi/V2/emily/01.jpg?v=feaa3c16",
+        "media/2026-11-29/crossi/V2/emily/02.jpg?v=bc65d7d7",
+        "media/2026-11-29/crossi/V2/emily/03.jpg?v=9d0504ba",
+        "media/2026-11-29/crossi/V2/emily/04.jpg?v=7a56eb95",
+        "media/2026-11-29/crossi/V2/emily/05.jpg?v=618e588b",
+        "media/2026-11-29/crossi/V2/emily/06.jpg?v=dc4f08ec",
+        "media/2026-11-29/crossi/V2/emily/07.jpg?v=2f89d2e7"
       ],
       "video": "",
       "videos": [],
@@ -11437,11 +11401,11 @@
       "music_url": "https://www.tiktok.com/music/Demons-6917546685681895425",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/D1/bette/01.jpg",
-        "media/2026-11-29/no-contact/D1/bette/02.jpg",
-        "media/2026-11-29/no-contact/D1/bette/03.jpg",
-        "media/2026-11-29/no-contact/D1/bette/04.jpg",
-        "media/2026-11-29/no-contact/D1/bette/05.jpg"
+        "media/2026-11-29/no-contact/D1/bette/01.jpg?v=93d5e192",
+        "media/2026-11-29/no-contact/D1/bette/02.jpg?v=5f8d7fe5",
+        "media/2026-11-29/no-contact/D1/bette/03.jpg?v=8c7e5850",
+        "media/2026-11-29/no-contact/D1/bette/04.jpg?v=b429669f",
+        "media/2026-11-29/no-contact/D1/bette/05.jpg?v=48d7d36d"
       ],
       "video": "",
       "videos": [],
@@ -11473,11 +11437,11 @@
       "music_url": "https://www.tiktok.com/music/Originalton-7569683320813013782",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/E/mira/01.jpg",
-        "media/2026-11-29/no-contact/E/mira/02.jpg",
-        "media/2026-11-29/no-contact/E/mira/03.jpg",
-        "media/2026-11-29/no-contact/E/mira/04.jpg",
-        "media/2026-11-29/no-contact/E/mira/05.jpg"
+        "media/2026-11-29/no-contact/E/mira/01.jpg?v=23beb838",
+        "media/2026-11-29/no-contact/E/mira/02.jpg?v=918e03e9",
+        "media/2026-11-29/no-contact/E/mira/03.jpg?v=39c7a10c",
+        "media/2026-11-29/no-contact/E/mira/04.jpg?v=55e2c250",
+        "media/2026-11-29/no-contact/E/mira/05.jpg?v=79b629f9"
       ],
       "video": "",
       "videos": [],
@@ -11509,9 +11473,9 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7703536771614771999",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/J/natalie/01.jpg",
-        "media/2026-11-29/no-contact/J/natalie/02.jpg",
-        "media/2026-11-29/no-contact/J/natalie/03.jpg"
+        "media/2026-11-29/no-contact/J/natalie/01.jpg?v=cbaea228",
+        "media/2026-11-29/no-contact/J/natalie/02.jpg?v=9452d3f7",
+        "media/2026-11-29/no-contact/J/natalie/03.jpg?v=a930795e"
       ],
       "video": "",
       "videos": [],
@@ -11541,12 +11505,12 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7691825425097575199",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/K/emma/01.jpg",
-        "media/2026-11-29/no-contact/K/emma/02.jpg",
-        "media/2026-11-29/no-contact/K/emma/03.jpg",
-        "media/2026-11-29/no-contact/K/emma/04.jpg",
-        "media/2026-11-29/no-contact/K/emma/05.jpg",
-        "media/2026-11-29/no-contact/K/emma/06.jpg"
+        "media/2026-11-29/no-contact/K/emma/01.jpg?v=573d2c88",
+        "media/2026-11-29/no-contact/K/emma/02.jpg?v=96c75c98",
+        "media/2026-11-29/no-contact/K/emma/03.jpg?v=2a525939",
+        "media/2026-11-29/no-contact/K/emma/04.jpg?v=6aa8e3e5",
+        "media/2026-11-29/no-contact/K/emma/05.jpg?v=5453ca6d",
+        "media/2026-11-29/no-contact/K/emma/06.jpg?v=373b3abd"
       ],
       "video": "",
       "videos": [],
@@ -11579,13 +11543,13 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/P2/peyton/01.jpg",
-        "media/2026-11-29/no-contact/P2/peyton/02.jpg",
-        "media/2026-11-29/no-contact/P2/peyton/03.jpg",
-        "media/2026-11-29/no-contact/P2/peyton/04.jpg",
-        "media/2026-11-29/no-contact/P2/peyton/05.jpg",
-        "media/2026-11-29/no-contact/P2/peyton/06.jpg",
-        "media/2026-11-29/no-contact/P2/peyton/07.jpg"
+        "media/2026-11-29/no-contact/P2/peyton/01.jpg?v=6cd92c49",
+        "media/2026-11-29/no-contact/P2/peyton/02.jpg?v=6cd92c49",
+        "media/2026-11-29/no-contact/P2/peyton/03.jpg?v=5edd956b",
+        "media/2026-11-29/no-contact/P2/peyton/04.jpg?v=d671da9a",
+        "media/2026-11-29/no-contact/P2/peyton/05.jpg?v=6cd92c49",
+        "media/2026-11-29/no-contact/P2/peyton/06.jpg?v=5edd956b",
+        "media/2026-11-29/no-contact/P2/peyton/07.jpg?v=a3300ff3"
       ],
       "video": "",
       "videos": [],
@@ -11626,17 +11590,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/TG13/luna/01.jpg"
+        "media/2026-11-29/no-contact/TG13/luna/01.jpg?v=4eb77d83"
       ],
-      "video": "media/2026-11-29/no-contact/TG13/luna/video.mp4",
+      "video": "media/2026-11-29/no-contact/TG13/luna/video.mp4?v=ebe4f7fe",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC khóc — Mint đang quay)",
-          "src": "media/2026-11-29/no-contact/TG13/luna/ugc.mp4"
+          "src": "media/2026-11-29/no-contact/TG13/luna/ugc.mp4?v=c6d61961"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-29/no-contact/TG13/luna/demo.mp4"
+          "src": "media/2026-11-29/no-contact/TG13/luna/demo.mp4?v=d62197a2"
         }
       ],
       "slide_text": [],
@@ -11672,9 +11636,9 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/TG19/lyli/01.jpg",
-        "media/2026-11-29/no-contact/TG19/lyli/02.jpg",
-        "media/2026-11-29/no-contact/TG19/lyli/03.jpg"
+        "media/2026-11-29/no-contact/TG19/lyli/01.jpg?v=c24ce90c",
+        "media/2026-11-29/no-contact/TG19/lyli/02.jpg?v=43b39ae9",
+        "media/2026-11-29/no-contact/TG19/lyli/03.jpg?v=a83025ee"
       ],
       "video": "",
       "videos": [],
@@ -11704,17 +11668,17 @@
       "music_url": "https://www.tiktok.com/music/original-sound-7467694112192449310",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/VA1/ava/01.jpg"
+        "media/2026-11-29/no-contact/VA1/ava/01.jpg?v=952a3bac"
       ],
-      "video": "media/2026-11-29/no-contact/VA1/ava/video.mp4",
+      "video": "media/2026-11-29/no-contact/VA1/ava/video.mp4?v=0f459ee4",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC buồn — Mint đang quay)",
-          "src": "media/2026-11-29/no-contact/VA1/ava/ugc.mp4"
+          "src": "media/2026-11-29/no-contact/VA1/ava/ugc.mp4?v=3d3d039e"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-29/no-contact/VA1/ava/demo.mp4"
+          "src": "media/2026-11-29/no-contact/VA1/ava/demo.mp4?v=d4e57c06"
         }
       ],
       "slide_text": [],
@@ -11750,17 +11714,17 @@
       "music_url": "",
       "is_aigc": true,
       "slides": [
-        "media/2026-11-29/no-contact/VP2/chloe/01.jpg"
+        "media/2026-11-29/no-contact/VP2/chloe/01.jpg?v=c6f55fa7"
       ],
-      "video": "media/2026-11-29/no-contact/VP2/chloe/video.mp4",
+      "video": "media/2026-11-29/no-contact/VP2/chloe/video.mp4?v=a73b72f8",
       "videos": [
         {
           "label": "Clip UGC 0–3s (TRỐNG: clip UGC khóc — Mint đang quay)",
-          "src": "media/2026-11-29/no-contact/VP2/chloe/ugc.mp4"
+          "src": "media/2026-11-29/no-contact/VP2/chloe/ugc.mp4?v=c6d61961"
         },
         {
           "label": "Demo app (9s)",
-          "src": "media/2026-11-29/no-contact/VP2/chloe/demo.mp4"
+          "src": "media/2026-11-29/no-contact/VP2/chloe/demo.mp4?v=ca00975e"
         }
       ],
       "slide_text": [],
@@ -11796,17 +11760,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7619360858363235597",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-29/stombers/ua-video/A/01.jpg"
+        "media/2026-11-29/stombers/ua-video/A/01.jpg?v=7b1406c1"
       ],
-      "video": "media/2026-11-29/stombers/ua-video/A/video.mp4",
+      "video": "media/2026-11-29/stombers/ua-video/A/video.mp4?v=7b1a9ff5",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn)",
-          "src": "media/2026-11-29/stombers/ua-video/A/ugc.mp4"
+          "label": "Source UGC #4 (0–3s) https://www.pinterest.com/pin/216595063322277276/",
+          "src": "media/2026-11-29/stombers/ua-video/A/ugc.mp4?v=c1487f13"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-29/stombers/ua-video/A/demo.mp4"
+          "label": "Demo app: màn đường đua ST-26",
+          "src": "media/2026-11-29/stombers/ua-video/A/demo.mp4?v=c4ad6b40"
         }
       ],
       "slide_text": [],
@@ -11817,9 +11781,7 @@
         }
       ],
       "plan_req": "CN · 29/11 · video · Câu hỏi / nghiện đi bộ\nHook: \"How do you not get bored going on so many walks?\"\nCaption: it's lowkey the best motivation #steps #walking #stepchallenge #walkingtok #fyp\nSố trên màn đua: Hạng 1/6 · 21,900 bước hôm nay\nSound: S7 · original sound - Boiler Room (269K view)\nCảnh 1: Clip UGC đang đi bộ — chữ: \"How do you not get bored going on so many walks?\"\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-29__stombers__ua-video__B",
@@ -11838,17 +11800,17 @@
       "music_url": "https://www.tiktok.com/music/sonido-original-7432480343592438534",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-29/stombers/ua-video/B/01.jpg"
+        "media/2026-11-29/stombers/ua-video/B/01.jpg?v=93cbb553"
       ],
-      "video": "media/2026-11-29/stombers/ua-video/B/video.mp4",
+      "video": "media/2026-11-29/stombers/ua-video/B/video.mp4?v=d3354f77",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn (cảnh trên máy chạy bộ ở phòng gym))",
-          "src": "media/2026-11-29/stombers/ua-video/B/ugc.mp4"
+          "label": "Source UGC #6 (3–8s) https://www.pinterest.com/pin/486740672248198422/",
+          "src": "media/2026-11-29/stombers/ua-video/B/ugc.mp4?v=6f27033a"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-29/stombers/ua-video/B/demo.mp4"
+          "label": "Demo app: màn đường đua ST-33",
+          "src": "media/2026-11-29/stombers/ua-video/B/demo.mp4?v=1aaca225"
         }
       ],
       "slide_text": [],
@@ -11859,9 +11821,7 @@
         }
       ],
       "plan_req": "CN · 29/11 · video · 4th walk + cược\nHook: POV you've been walking on the treadmill since 5am bc the groupchat thought it'd be a good idea to start a step competition. Loser buys coffee Monday 💀\nCaption: lowkey getting results too #steps #walking #stepchallenge #treadmill #fyp\nSố trên màn đua: Hạng 2/6 · 90 bước để vượt\nSound: S1 · original sound - TuDía13 (4.7M view)\nCảnh 1: Clip UGC đang đi bộ trên máy chạy bộ (gym) — chữ: POV you've been walking on the treadmill since 5am bc the groupchat thought it'd be a good idea to start a step competition. Loser buys coffee Monday 💀\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn (cảnh trên máy chạy bộ ở phòng gym)"
-      ]
+      "missing": []
     },
     {
       "key": "2026-11-29__stombers__ua-video__C",
@@ -11880,17 +11840,17 @@
       "music_url": "https://www.tiktok.com/@jocelynwalking/video/7695888925184757006",
       "is_aigc": false,
       "slides": [
-        "media/2026-11-29/stombers/ua-video/C/01.jpg"
+        "media/2026-11-29/stombers/ua-video/C/01.jpg?v=6462abcb"
       ],
-      "video": "media/2026-11-29/stombers/ua-video/C/video.mp4",
+      "video": "media/2026-11-29/stombers/ua-video/C/video.mp4?v=174ac194",
       "videos": [
         {
-          "label": "Clip UGC 0–3s (TRỐNG: clip UGC đi bộ — chờ Lee hướng dẫn (cảnh trên máy chạy bộ ở phòng gym))",
-          "src": "media/2026-11-29/stombers/ua-video/C/ugc.mp4"
+          "label": "Source UGC #9 (3–6.2s) https://www.pinterest.com/pin/981081100066498196/",
+          "src": "media/2026-11-29/stombers/ua-video/C/ugc.mp4?v=da287c2c"
         },
         {
-          "label": "Demo app (5.0s)",
-          "src": "media/2026-11-29/stombers/ua-video/C/demo.mp4"
+          "label": "Demo app: màn đường đua ST-40",
+          "src": "media/2026-11-29/stombers/ua-video/C/demo.mp4?v=f375ef80"
         }
       ],
       "slide_text": [],
@@ -11901,9 +11861,7 @@
         }
       ],
       "plan_req": "CN · 29/11 · video · Group chat + cược\nHook: POV you've been walking on the treadmill since 5am bc the groupchat thought it'd be a good idea to start a step competition. Loser buys coffee Monday 💀\nCaption: lowkey getting results too #steps #walking #stepchallenge #treadmill #fyp\nSố trên màn đua: Hạng 2/6 · 110 bước để vượt\nSound: S8 · original sound - Ken Eurich (365K view)\nCảnh 1: Clip UGC đang đi bộ trên máy chạy bộ (gym) — chữ: POV you've been walking on the treadmill since 5am bc the groupchat thought it'd be a good idea to start a step competition. Loser buys coffee Monday 💀\nCảnh 2: Screen record màn hình đường đua — chữ: (không thêm chữ)",
-      "missing": [
-        "0–3s: clip UGC đi bộ — chờ Lee hướng dẫn (cảnh trên máy chạy bộ ở phòng gym)"
-      ]
+      "missing": []
     }
   ],
   "registry": [
@@ -11942,5 +11900,5 @@
       ]
     }
   ],
-  "generated": "2026-11-17T16:21:02"
+  "generated": "2026-11-17T17:32:16"
 }
